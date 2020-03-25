@@ -1,0 +1,160 @@
+/*
+ * General Layout
+ */
+
+.ns-cloner-rt-form {
+	padding: 0 30px;
+}
+
+.ns-cloner-rt-form .ns-cloner-success-message {
+	margin-bottom: 35px;
+}
+
+.ns-cloner-rt-form h1 {
+	border-bottom: solid 1px #ddd;
+	padding-bottom: 1em;
+}
+
+.ns-cloner-rt-form h2 {
+	font-size: 18px;
+}
+
+.ns-cloner-rt-form h3 {
+	text-transform: uppercase;
+	font-size: 14px;
+	color: #222;
+	border-bottom: solid 1px #ddd;
+	padding-bottom: 1.2em;
+}
+
+.ns-cloner-rt-form label {
+	font-weight: 600;
+	padding: 10px 0;
+	display: block;
+}
+
+.ns-cloner-rt-form label + input[type=text],
+.ns-cloner-rt-form label + textarea {
+	width: 100%;
+	display: block;
+	padding: 8px 10px;
+}
+
+/*
+ * Templates
+ */
+
+.ns-cloner-rt-templates .chosen-container {
+	width: 70% !important;
+}
+
+.ns-cloner-rt-templates-add {
+	padding-top: 10px;
+}
+
+.ns-cloner-rt-templates-add .button {
+	width: 29%;
+	display: inline-block;
+	padding-top: 5px !important;
+	margin-top: 0px !important;
+	height: 36px !important;
+}
+
+.ns-cloner-rt-templates .ns-repeater li {
+	background: #eee;
+	padding: 12px;
+	position: relative;
+	border: solid 1px #ddd;
+	border-radius: 4px;
+	width: 99.5%;
+	box-sizing: border-box;
+	margin-bottom: 12px;
+	display: block !important;
+}
+
+.ns-cloner-rt-templates .ns-repeater .rt-thumbnail {
+	float: left;
+	width: 175px;
+	cursor: pointer;
+	position: relative;
+}
+
+.ns-cloner-rt-templates .ns-repeater .rt-thumbnail:before {
+	content: "\f464";
+	font-family: dashicons;
+	font-size: 80px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin: -10px 0 0 -40px;
+	z-index: 1;
+}
+
+.ns-cloner-rt-templates .ns-repeater img {
+	width: 100%;
+	position: relative;
+	z-index: 2;
+}
+
+.ns-cloner-rt-templates .ns-repeater img:hover {
+	opacity: 0.6;
+}
+
+.ns-cloner-rt-templates .ns-repeater p {
+	margin: 0 !important;
+	padding: 0 0 0 190px !important;
+}
+
+.ns-cloner-rt-templates .ns-repeater label {
+	padding: 0 0 4px 0;
+	margin: 0;
+	clear: none;
+}
+
+.ns-cloner-rt-templates .ns-repeater .rt-url {
+	font-style: italic;
+	padding-left: 4px;
+}
+
+.ns-cloner-rt-templates .ns-repeater .rt-desc {
+	margin-top: 10px;
+	padding: 6px 10px;
+	font-size: 13px;
+}
+
+.ns-cloner-rt-templates .ns-repeater input[type=radio] + label {
+	display: inline;
+}
+
+.ns-cloner-rt-templates .ns-repeater-remove {
+	position: absolute;
+	display: block;
+	top: 3px;
+	right: 5px;
+	left: auto;
+	border-width: 0;
+	background: transparent;
+	padding: 5px;
+	height: 29px;
+}
+
+.ns-cloner-rt-templates .ns-repeater li:after {
+	content: '';
+	display: block;
+	clear: both;
+}
+
+/*
+ * Registration + Fields
+ */
+
+.ns-cloner-rt-fields .ns-repeater input {
+	width: 45%;
+	padding: 8px 10px;
+}
+
+.ns-cloner-rt-fields [name=custom_css] {
+	height: 200px;
+	font-size: 13px;
+	font-family: Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
+}

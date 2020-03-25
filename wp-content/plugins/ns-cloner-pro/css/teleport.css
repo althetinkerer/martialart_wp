@@ -1,0 +1,60 @@
+/*
+ * Full Network selection
+ */
+
+.ns-cloner-teleport-network-selector {
+	display: none;
+	border-bottom: solid 1px #eee;
+	padding-bottom: 10px;
+	margin-bottom: 15px;
+}
+.ns-cloner-teleport-network-selector label {
+	display: inline-block;
+	margin: 0 10px 0 0;
+	position: relative;
+	bottom: 2px;
+}
+.ns-cloner-teleport-disabled {
+	opacity: 0.5;
+}
+
+/*
+ * Teleport Remote Connection Section
+ */
+
+#ns-cloner-section-teleport_site .ns-cloner-input-group label {
+	min-width: 5em;
+	text-align: center;
+}
+
+#ns-cloner-section-teleport_site .ns-cloner-input-group input {
+	font-family: Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
+}
+
+/*
+ * Teleport Target Section
+ */
+
+.teleport-site-loading,
+.teleport-site-connected {
+	display: none;
+}
+
+.teleport-site-waiting h5:last-child {
+	margin-bottom: 0 !important;
+}
+
+.teleport-site-loading h5:first-child,
+.teleport-site-connected h5:first-child {
+	margin-top: 0 !important;
+}
+
+/*
+ * Teleport Settings Page
+ */
+
+.ns-cloner-teleport-settings-form [readonly]{
+	width: 100%;
+	padding: 1em 1.3em;
+	font-family: Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
+}

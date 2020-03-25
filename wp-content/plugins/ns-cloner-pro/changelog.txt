@@ -1,0 +1,41 @@
+= 1.0.3.6 =
+* Added handling for skipping new user creation to support batch create
+
+= 1.0.3.5.1 =
+* Fixed variable typo
+
+= 1.0.3.5 =
+* Fixed user-specified clone-over title being ignored
+* Fixed user clone to multiple blogs in clone-over mode
+
+= 1.0.3.4 =
+* Added support for new feature and setting in Content and Users Add-on to send notifications to new users
+
+= 1.0.3.3 =
+* Fixed bug with Clone Over mode and option to leave existing content in place
+
+= 1.0.3.2 =
+* Fixed bug with no-content clone over functionality
+
+= 1.0.3.1 =
+* Added WP Multi Network support (target site id can now be manually specified/overridden)
+
+= 1.0.3 =
+* Added ability to leave target posts intact in clone over mode
+* Added pre WP 3.7 compatibility
+* Revamped logs for better utility/readability
+* Centralized ns_cloner_addon class for maintability
+
+= 1.0.0 =
+* First public release
+
+== Upgrade Notice ==
+
+= 1.0.0 =
+* First public release
+
+= 1.0.3 =
+* Added ability to leave target posts intact in clone over mode
+* Added pre WP 3.7 compatibility
+* Revamped logs for better utility/readability
+* Centralized ns_cloner_addon class for maintability

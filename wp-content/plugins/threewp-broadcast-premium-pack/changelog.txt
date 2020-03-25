@@ -1,0 +1,1073 @@
+<strong>46.01</strong> 20200116
+
+<a href="https://broadcast.plainviewplugins.com/addon/advanced-custom-fields/">ACF</a>: Also sync taxonomies when possible. Requires v46 of Broadcast.
+<a href="https://broadcast.plainviewplugins.com/addon/bulk-cloner/">Bulk Cloner</a>: Added ability to modify options during cloning with new option modifications function.
+<a href="https://broadcast.plainviewplugins.com/addon/comments/">Comments</a>: Sync comments after the new comment is fully inserted. Fixes bug of WooCommerce review ratings not being synced.
+<a href="https://broadcast.plainviewplugins.com/addon/event-organiser/">Event Organiser</a>: Fix fatal error when venues are broadcasted.
+<a href="https://broadcast.plainviewplugins.com/addon/learndash">LearnDash</a>: Update course link in topics on some installs.
+<a href="https://broadcast.plainviewplugins.com/addon/pods/">Pods</a>: Add support for multiple images in image fields.
+<a href="https://broadcast.plainviewplugins.com/addon/queue/">Queue</a>: Fix retry / attempt counter for partially broadcasted WooCommerce variations. Affects those with products that have more variations than the queue retry limit.
+
+<strong>45.06</strong> 20191116
+
+New add-on: <a href="https://broadcast.plainviewplugins.com/addon/update-family/">Update Family</a>: Update the parent post and siblings when editing a child post.
+<a href="https://broadcast.plainviewplugins.com/addon/advanced-custom-fields/">ACF</a>: Fix relationship fields when broadcasting taxonomies.
+<a href="https://broadcast.plainviewplugins.com/addon/blog-groups-2/">Blog Groups 2</a>: Add support for assigning groups in the Bulk Cloner.
+<a href="https://broadcast.plainviewplugins.com/addon/elementor/">Elementor</a>: Add support for gallery widgets, vt-saaspot_agency and vt-saaspot_resource widgets.
+
+<strong>45.05</strong> 20191022
+
+<a href="https://broadcast.plainviewplugins.com/addon/custom-field-posts/">Custom Field Posts</a>: Save values in arrays properly.
+<a href="https://broadcast.plainviewplugins.com/addon/hreflang/">Hreflang</a>: Fix archives without taxonomies.
+<a href="https://broadcast.plainviewplugins.com/addon/hreflang/">Hreflang</a>: Fix draft pages showing.
+<a href="https://broadcast.plainviewplugins.com/addon/polylang/">Polylang</a>: Add support for posts in different languages sharing the same slug, WooCommerce products for example.
+<a href="https://broadcast.plainviewplugins.com/addon/polylang/">Polylang</a>: Fix terms being in incorrect language when processing the posts using the Queue HTTP command.
+
+<strong>45.02</strong> 201909225
+
+New add-on: <a href="https://broadcast.plainviewplugins.com/addon/fliphtml5/">Flip HTML5</a>: Adds support for <a href="http://fliphtml5.com/">Flip HTML5</a> plugin.
+<a href="https://broadcast.plainviewplugins.com/addon/advanced-custom-fields/">ACF</a>: Properly sync taxonomies that are not in the same post type.
+<a href="https://broadcast.plainviewplugins.com/addon/calendarize-it/">Calendarize It</a>: Fix custom post info box content.
+<a href="https://broadcast.plainviewplugins.com/addon/hreflang/">Hreflang</a>: Fix number being shown for x-default blog.
+<a href="https://broadcast.plainviewplugins.com/addon/sensei/">Sensei</a>: Add support for quiz category questions.
+<a href="https://broadcast.plainviewplugins.com/addon/toolset/">Toolset</a>: Ignore the post if it does not have a content template assigned.
+<a href="https://broadcast.plainviewplugins.com/addon/toolset/">Toolset</a>: Fix "incorrect post type" fatal error.
+<a href="https://broadcast.plainviewplugins.com/addon/woocommerce/">WooCommerce</a>: Fix bulk actions not working the first time. This is due to the internal Wordpress post cache not being flushed by WooCommerce as it should.
+<a href="https://broadcast.plainviewplugins.com/addon/wp-all-import/">WP All Import</a>: Enable term counting after import but before broadcast.
+
+<strong>45.01</strong> 20190828
+
+New add-on: <a href="https://broadcast.plainviewplugins.com/addon/gutenberg-attachments/">Gutenberg Attachments</a>: Modify attachment IDs found in Gutenberg blocks to match their equivalent attachments on each blog.
+New add-on: <a href="https://broadcast.plainviewplugins.com/addon/gutenberg-menus/">Gutenberg Menus</a>: Modify menu IDs found in Gutenberg blocks to match their equivalent attachments on each blog.
+New add-on: <a href="https://broadcast.plainviewplugins.com/addon/gutenberg-posts/">Gutenberg Posts</a>: Modify post IDs found in Gutenberg blocks to match their equivalent attachments on each blog.
+New add-on: <a href="https://broadcast.plainviewplugins.com/addon/gutenberg-terms/">Gutenberg Terms</a>: Modify taxonomy term IDs found in Gutenberg blocks to match their equivalent attachments on each blog.
+New add-on: <a href="https://broadcast.plainviewplugins.com/addon/wp-ultimo/">WP Ultimo</a>: Adds support for the <a href="https://wpultimo.com/">WP Ultimo</a> plugin.
+<a href="https://broadcast.plainviewplugins.com/addon/avia-layout-builder/">Avia Layout Builder</a>: Use standard preparse and parse actions to run all Avia content through all of the other add-ons.
+<a href="https://broadcast.plainviewplugins.com/addon/custom-field-posts/">Custom Field Posts</a>: Fix fatal error when trying to look for a link where there isn't one.
+<a href="https://broadcast.plainviewplugins.com/addon/elementor/">Elementor</a>: Add support for devices-extended widgets.
+<a href="https://broadcast.plainviewplugins.com/addon/learndash">LearnDash</a>: Allow for multiple course prerequisites.
+<a href="https://broadcast.plainviewplugins.com/addon/ns-cloner/">NS Cloner</a>: Add support for v4.
+<a href="https://broadcast.plainviewplugins.com/addon/queue/">Queue</a>: Use file locking to prevent cron processing from being run multiple times.
+<a href="https://broadcast.plainviewplugins.com/addon/redirect-all-children/">Redirect All Children</a>: Use code 301 on redirects.
+<a href="https://broadcast.plainviewplugins.com/addon/redirect-parent/">Redirect Parent</a>: Use code 301 on redirects.
+<a href="https://broadcast.plainviewplugins.com/addon/shortcodes/">Shortcodes</a>: Remove extra slashes from the shortcodes.
+<a href="https://broadcast.plainviewplugins.com/addon/user-access-manager/">User Access Manager</a>: Fix bug when groups not being assigned when broadcasting to more than one blog at a time.
+<a href="https://broadcast.plainviewplugins.com/addon/woocommerce/">WooCommerce</a>: Add support for multiple Yith badges per product.
+<a href="https://broadcast.plainviewplugins.com/addon/wpml/">WPML</a>: Check if WPML is active on the blog at all before starting the add-on.
+<a href="https://broadcast.plainviewplugins.com/addon/wpml/">WPML</a>: Help the HREFLANG add-on generate links to all languages of the current page.
+<a href="https://broadcast.plainviewplugins.com/addon/wpml/">WPML</a>: Use API for setting term languages, instead of direct database queries.
+
+<strong>44.05</strong> 20190715
+
+New add-on. <a href="https://broadcast.plainviewplugins.com/addon/wpforms/">WPForms</a>: Adds support for the <a href="https://wpforms.com/">WPForms</a> plugin.
+<a href="https://broadcast.plainviewplugins.com/addon/hreflang/">Hreflang</a>: Remove page argument when adding links to taxonomy archives.
+<a href="https://broadcast.plainviewplugins.com/addon/learndash">LearnDash</a>: Fix questions on front-end not displaying properly. Rebroadcast your quizzes if the questions on the front-end look weird.
+
+<strong>44.04</strong> 20190621
+
+New add-on. <a href="https://broadcast.plainviewplugins.com/addon/custom-field-terms/">Custom Field Terms</a>: Allow post custom field containing taxonomy term IDs to be broadcasted correctly.
+New add-on. <a href="https://broadcast.plainviewplugins.com/addon/download-manager/">Download Manager</a>: Adds support for the <a href="https://wordpress.org/plugins/download-manager/">Download Manager</a> plugin.
+<a href="https://broadcast.plainviewplugins.com/addon/elementor/">Elementor</a>: Add support for parsing content in text fields.
+<a href="https://broadcast.plainviewplugins.com/addon/manual-post-actions/">Manual Post Actions</a>: Fix warning when "Find Some Unlinked Children" or "Send To Many" add-ons active.
+<a href="https://broadcast.plainviewplugins.com/addon/polylang/">Polylang</a>: When creating terms, assign the correct languages.
+<a href="https://broadcast.plainviewplugins.com/addon/protect-child-properties/">Protect Child Properties</a>: Post excerpt can also be protected.
+<a href="https://broadcast.plainviewplugins.com/addon/queue/">Queue</a>: Add broadcast_queue_menu_access filter to allow non-super admins access to the settings.
+<a href="https://broadcast.plainviewplugins.com/addon/woocommerce/">WooCommerce</a>: Add support for <a href="https://woocommerce.com/products/composite-products/">composite products</a>.
+
+<strong>44.03</strong> 20190515
+
+<a href="https://broadcast.plainviewplugins.com/addon/bulk-cloner/">Bulk Cloner</a>: Link only post types that we know about, ignoring attachments and menu items.
+<a href="https://broadcast.plainviewplugins.com/addon/formidable-forms/">Formidable Forms</a>: Add support for form views.
+<a href="https://broadcast.plainviewplugins.com/addon/hreflang/">Hreflang</a>: Try to fetch linked posts when making the hreflang tags for a single post.
+<a href="https://broadcast.plainviewplugins.com/addon/learndash">LearnDash</a>: Add broadcast_learndash_menu_access filter to allow non-super admins access to the tools.
+<a href="https://broadcast.plainviewplugins.com/addon/learndash">LearnDash</a>: Add workaround for broken lessons having more than one course reference.
+<a href="https://broadcast.plainviewplugins.com/addon/pods/">Pods</a>: Add support for image fields.
+
+<strong>44.02</strong> 20190423
+
+<a href="https://broadcast.plainviewplugins.com/addon/queue/">Queue</a>: Fix queue not working due to the upgrade process not upgrading the add-on's tables.
+
+<strong>44.01</strong> 20190415
+
+<a href="https://broadcast.plainviewplugins.com/addon/cdn-workaround/">CDN Workaround</a>: Added option to locally download remote files, in order to upload them on each blog.
+<a href="https://broadcast.plainviewplugins.com/addon/global-blocks-for-cornerstone/">Global Blocks For Cornerstone</a>: Added support for new v3 [cs_gb] shortcode.
+<a href="https://broadcast.plainviewplugins.com/addon/elementor/">Elementor</a>: Add support for Global elements.
+<a href="https://broadcast.plainviewplugins.com/addon/elementor/">Elementor</a>: Add support for Image Box elements.
+<a href="https://broadcast.plainviewplugins.com/addon/search-and-replace/">Search And Replace</a>: Add new __BLOG_PATH__ and __BLOG_PATH_WITHOUT_RSLASH__ keywords.
+
+<strong>43.17</strong> 20190402
+
+<a href="https://broadcast.plainviewplugins.com/addon/beaver-builder/">Beaver Builder</a>: Add support for Themer Layouts.
+<a href="https://broadcast.plainviewplugins.com/addon/bulk-cloner/">Bulk Cloner</a>: Fix cloning. Some WP version introduced a bug that preventing the complete cloning of blog options.
+<a href="https://broadcast.plainviewplugins.com/addon/bulk-cloner/">Bulk Cloner</a>: Force new siteurl and home options for clones, to fix weirdness with some installs that create dupes in the url.
+New add-on. <a href="https://broadcast.plainviewplugins.com/addon/caldera-forms/">Caldera Forms</a>: Adds support for the <a href="https://wordpress.org/plugins/caldera-forms/">Caldera Forms</a> plugin.
+<a href="https://broadcast.plainviewplugins.com/addon/elementor/">Elementor</a>: Add support for Caldera Forms elements.
+<a href="https://broadcast.plainviewplugins.com/addon/elementor/">Elementor</a>: Do not abort broadcasting is a missing background image is found, just continue normally.
+<a href="https://broadcast.plainviewplugins.com/addon/learndash">LearnDash</a>: Added course tool to do actions on the WHOLE course at the same time: delete, trash, restore, unlink and find unlinked children.
+New add-on. <a href="https://broadcast.plainviewplugins.com/addon/manual-post-actions/">Manual Post Actions</a>: Manually run bulk post actions on posts.
+<a href="https://broadcast.plainviewplugins.com/addon/queue/">Queue</a>: For developers, queue items now have priorities assigned, allowing for faster processing of specific queue item types.
+<a href="https://broadcast.plainviewplugins.com/addon/update-attachments/">Update Attachments</a>: Do not overwrite the file path for those files that have been uploaded at different times. Fixes problem of thumbnails for differently-aged images not working.
+<a href="https://broadcast.plainviewplugins.com/addon/user-role-sync/">User Role Sync</a>: Create role is it doesn't exist on the child blog.
+<a href="https://broadcast.plainviewplugins.com/addon/user-role-sync/">User Role Sync</a>: Also sync data for Ultimate Member custom roles.
+<a href="https://broadcast.plainviewplugins.com/addon/woocommerce/">WooCommerce</a>: Add support for <a href="https://wordpress.org/plugins/yith-woocommerce-badges-management/">YITH WooCommerce Badge Management plugin</a>.
+
+<strong>43.16</strong> 20190222
+
+<a href="https://broadcast.plainviewplugins.com/addon/advanced-custom-fields/">ACF</a>: Add support for the Clone field type.
+<a href="https://broadcast.plainviewplugins.com/addon/advanced-custom-fields/">ACF</a>: Add support for the <a href="https://wordpress.org/plugins/acf-image-crop-add-on/">Image Crop Add-on</a>
+<a href="https://broadcast.plainviewplugins.com/addon/calendarize-it/">Calendarize It</a>: Fix vendors and organizers not being saved to child post.
+<a href="https://broadcast.plainviewplugins.com/addon/custom-field-posts/">Custom Field Posts</a>: Fix to allow multiple IDs in field.
+<a href="https://broadcast.plainviewplugins.com/addon/elementor/">Elementor</a>: Add support for Smartslider3 widget type.
+<a href="https://broadcast.plainviewplugins.com/addon/events-manager/">Events Manager</a>: Add support for recurring events. Seems to work best publishing the events locally before broadcasting them.
+<a href="https://broadcast.plainviewplugins.com/addon/formidable-forms/">Formidable Forms</a>: Update existing form settings. Also broadcast form actions.
+<a href="https://broadcast.plainviewplugins.com/addon/learndash">LearnDash</a>: Added preliminary support for v2.6 quizzes. The old 2.5 version of LD can still be used.
+<a href="https://broadcast.plainviewplugins.com/addon/learndash">LearnDash</a>: Dev: Added static::$keep_sfwd_courses_course_access_list property which allows the course access list to be overwritten during broadcast.
+New add-on. <a href="https://broadcast.plainviewplugins.com/addon/link-before-broadcast/">Link Before Broadcast</a>: Attempts to find unlinked children on each child blog during broadcast.
+<a href="https://broadcast.plainviewplugins.com/addon/woocommerce/">WooCommerce</a>: Broadcast ALL variations, even those that are out of stock and hidden.
+
+<strong>43.14</strong> 20190102
+
+<a href="https://broadcast.plainviewplugins.com/addon/all-blogs/">All Blogs</a>: Fix rare fatal error on _some_ installs that result from the capabilities.php not having been loaded.
+<a href="https://broadcast.plainviewplugins.com/addon/beaver-builder/">Beaver Builder</a>: Added BROADCAST_BEAVER_BUILDER_NO_UPDATE_ON_SAVE define to prevent automatic updating of child posts when saving the layout on the front-end.
+<a href="https://broadcast.plainviewplugins.com/addon/bulk-cloner/">Bulk Cloner</a>: Automatic parsing of serialized options that contain the old blog URL. Can fix widgets that contain links to the source blog.
+<a href="https://broadcast.plainviewplugins.com/addon/elementor/">Elementor</a>: Allow button URLs to be parsed in order to work with Local Items add-ons.
+<a href="https://broadcast.plainviewplugins.com/addon/elementor/">Elementor</a>: Also parse shortcode widgets.
+<a href="https://broadcast.plainviewplugins.com/addon/learndash">LearnDash</a>: Fix courses that have apostrophes in them.
+<a href="https://broadcast.plainviewplugins.com/addon/no-new-terms/">No New Terms</a>: Fix terms being created with newer versions of Broadcast.
+<a href="https://broadcast.plainviewplugins.com/addon/per-blog-taxonomies/">Per Blog Taxonomies</a>: Fix to allow for hiding of term fieldsets using UBS.
+<a href="https://broadcast.plainviewplugins.com/addon/shortcode-attachments/">Shortcode Attachments</a>: Add filter to allow for special processing of attributes. See this <a href="https://broadcast.plainviewplugins.com/snippet/shortcode-items-parse_find-and-replace_id-actions/">snippet for handling image IDs embedded in a json-encoded attribute</a>.
+<a href="https://broadcast.plainviewplugins.com/addon/smart-slider-3/">Smart Slider 3</a>: Update the slider properties when broadcasting.
+<a href="https://broadcast.plainviewplugins.com/addon/widgets/">Widgets</a>: Add more debug info.
+
+<strong>43.12</strong> 20181127
+
+<a href="https://broadcast.plainviewplugins.com/addon/formidable-forms/">Formidable Forms</a>: Fix fields not appearing due to field cache.
+<a href="https://broadcast.plainviewplugins.com/addon/formidable-forms/">Formidable Forms</a>: Add entry migration so that forms that are updated keep their entries.
+<a href="https://broadcast.plainviewplugins.com/addon/gravity-forms/">Gravity Forms</a>: Update the form title. Only affects those using the BROADCAST_GRAVITY_FORMS_USE_ID define.
+<a href="https://broadcast.plainviewplugins.com/addon/learndash">LearnDash</a>: Added tool to broadcast a whole course at once.
+<a href="https://broadcast.plainviewplugins.com/addon/queue/">Queue</a>: Add broadcast_queue_clean_queue filter to prevent database cleanup.
+<a href="https://broadcast.plainviewplugins.com/addon/polylang/">Polylang</a>: Do not create terms on child blogs that are in other languages.
+<a href="https://broadcast.plainviewplugins.com/addon/shortcode-posts/">Shortcode Posts</a>: Added Avada Global Containers wizard.
+<a href="https://broadcast.plainviewplugins.com/addon/siteorigin-page-builder/">SiteOrigin Page Builder</a>: Parse the text and content widget fields, allowing other Broadcast add-ons to detect their shortcodes in the widgets.
+<a href="https://broadcast.plainviewplugins.com/addon/user-blog-settings/">User & Blog Settings</a>: Fix visual modifications being applied when they shouldn't.
+<a href="https://broadcast.plainviewplugins.com/addon/wpml/">WPML</a>: Fix duplication bug where terms are created in the wrong language.
+
+<strong>43.11</strong> 20181018
+
+<a href="https://broadcast.plainviewplugins.com/addon/geodirectory/">GeoDirectory</a>: Add broadcast_geodirectory_sync_table_structure_columns filter.
+Fixes the plugin upgrade notice not disappearing due to "43.10" being treated as "43.1".
+
+<strong>43.10</strong> 20181018
+
+New add-on. <a href="https://broadcast.plainviewplugins.com/addon/simple-custom-post-order/">Simple Custom Post Order</a> adds support for the <a href="https://wordpress.org/plugins/simple-custom-post-order/">Simple Custom Post Order</a> plugin.
+<a href="https://broadcast.plainviewplugins.com/addon/advanced-custom-fields/">ACF</a>: Add support for the Component Fields plugin / field type.
+<a href="https://broadcast.plainviewplugins.com/addon/geodirectory/">GeoDirectory</a>: Add broadcast_geodirectory_insert_place_detail filter.
+<a href="https://broadcast.plainviewplugins.com/addon/user-blog-settings/">User & Blog Settings</a>: Fix _and_ criteria not being correctly applied.
+<a href="https://broadcast.plainviewplugins.com/addon/woocommerce/">WooCommerce</a>: Allow order syncing without Back2Parent add-on, which means orders can only be synced to child blogs and not back.
+
+<strong>43.9</strong> 20180922
+
+New add-on. <a href="https://broadcast.plainviewplugins.com/addon/custom-field-posts/">Custom Field Posts</a>: Allow post custom field containing post IDs to be broadcasted correctly.
+New add-on. <a href="https://broadcast.plainviewplugins.com/addon/formidable-forms/">Formidable Forms</a>: Adds support for the <a href="https://wordpress.org/plugins/formidable/">Formidable</a> plugin.
+New add-on. <a href="https://broadcast.plainviewplugins.com/addon/unlink-on-edit/">Unlink On Edit</a>: Unlinks child posts when they are modified.
+<a href="https://broadcast.plainviewplugins.com/addon/beaver-builder/">Beaver Builder</a>: Parse text fields, allowing other add-ons to modify their content also.
+<a href="https://broadcast.plainviewplugins.com/addon/beaver-builder/">Beaver Builder</a>: Parse post carousels also, modifying the post IDs so that they match those on the child blog.
+<a href="https://broadcast.plainviewplugins.com/addon/polylang/">Polylang</a>: Only sync taxonomies that are used in the post. This is an optimization for those that have thousands of taxonomy terms.
+<a href="https://broadcast.plainviewplugins.com/addon/search-and-replace/">Search And Replace</a>: Add new __BLOG_URL_ESCAPED__ keyword.
+<a href="https://broadcast.plainviewplugins.com/addon/shortcode-posts/">Shortcode Posts</a>: Added uncode blocks to the wizard.
+<a href="https://broadcast.plainviewplugins.com/addon/user-access-manager/">User Access Manager</a>: Also sync taxonomies.
+
+<strong>43.8</strong> 20180821
+
+<a href="https://broadcast.plainviewplugins.com/addon/beaver-builder/">Beaver Builder</a>: Add support for photo and photos components.
+<a href="https://broadcast.plainviewplugins.com/addon/delete-before-broadcast/">Delete Before Broadcast</a>: Fix error on unlinking.
+<a href="https://broadcast.plainviewplugins.com/addon/elementor/">Elementor</a>: Fix FILE_BASE_DIR error.
+<a href="https://broadcast.plainviewplugins.com/addon/gravity-forms/">Gravity Forms</a>: Add BROADCAST_GRAVITY_FORMS_USE_ID define that forces syncs according to form ID, instead of form title.
+New add-on. <a href="https://broadcast.plainviewplugins.com/addon/user-access-manager/">User Access Manager</a>: Adds support for the <a href="https://wordpress.org/plugins/user-access-manager/">User Access Manager</a> plugin.
+
+43.7 20180724
+
+<a href="https://broadcast.plainviewplugins.com/addon/beaver-builder/">Beaver Builder</a>: Add support post modules, which will translate category and post tag IDs on each child blog.
+<a href="https://broadcast.plainviewplugins.com/addon/bulk-cloner/">Bulk Cloner</a>: Fix fatal error during activation when only the utilities pack is installed.
+<a href="https://broadcast.plainviewplugins.com/addon/h5p/">H5P</a>: Fix. Try to update the H5P content on each child blog.
+<a href="https://broadcast.plainviewplugins.com/addon/menus/">Menus</a>: Also copy menu item custom fields, which adds support for some UberMenu types: section and custom content.
+<a href="https://broadcast.plainviewplugins.com/addon/php-code/">PHP Code</a>: Modify Gravity Forms Rename example to use new GF table prefix (gf_).
+New add-on. <a href="https://broadcast.plainviewplugins.com/addon/ubermenu/">UberMenu</a>: Adds support for the <a href="https://wpmegamenu.com/">UberMenu</a> menu plugin.
+<a href="https://broadcast.plainviewplugins.com/addon/user-blog-settings-post/">User & Blog Settings Post</a>: Fix to show the dropdown again.
+
+43.6 20180625
+
+<a href="https://broadcast.plainviewplugins.com/addon/advanced-custom-fields/">ACF</a>: Fix. Obey the custom field whitelist also.
+<a href="https://broadcast.plainviewplugins.com/addon/beaver-builder/">Beaver Builder</a>: Add support for Themer Layout locations (posts and taxonomies).
+<a href="https://broadcast.plainviewplugins.com/addon/h5p/">H5P</a>: Fix. Copy all found files to correct ID subdirectory on child blog.
+<a href="https://broadcast.plainviewplugins.com/addon/send-to-many/">Send To Many</a>: Update to work with fixed Broadcast roles.
+<a href="https://broadcast.plainviewplugins.com/addon/user-blog-settings/">User & Blog Settings</a>: Post type criteria will work more often now, generally whenever the Broadcast meta box is being prepared.
+
+43.5 20180530
+
+<a href="https://broadcast.plainviewplugins.com/addon/advanced-custom-fields/">ACF</a>: Sync taxonomies automatically when a taxonomy field has specified a taxonomy that is for a different post type.
+<a href="https://broadcast.plainviewplugins.com/addon/bulk-cloner/">Bulk Cloner</a>: Fix: When cloning already linked posts, their parent post will link to the newly-cloned site.
+<a href="https://broadcast.plainviewplugins.com/addon/cdn-workaround/">CDN Workaround</a>: Fix: Override broken filename with Cloudinary URL if found in the filename.
+New add-on: <a href="https://broadcast.plainviewplugins.com/addon/cm-tooltip-glossary/">CM Tooltip Glossary</a>: Adds support for the <a href="https://wordpress.org/plugins/enhanced-tooltipglossary/">CM Tooltip Glossary</a> plugin.
+New add-on: <a href="https://broadcast.plainviewplugins.com/addon/copy-options/">Copy options</a>: Copies blog options / settings between blogs.
+<a href="https://broadcast.plainviewplugins.com/addon/geo-my-wp/">GEO My WP</a>: Add support for posts locator database table.
+<a href="https://broadcast.plainviewplugins.com/addon/gravity-forms/">Gravity Forms</a>: Fix: Added support for the new v2.3+ database schema. v2.2 install will continue to work also.
+
+43.4 20180506
+
+<a href="https://broadcast.plainviewplugins.com/addon/beaver-builder/">Beaver Builder</a>: Parse link fields also, allowing other add-ons like Local Links, to modify the links during broadcasting.
+<a href="https://broadcast.plainviewplugins.com/addon/geodirectory/">GeoDirectory</a>: Fix categories not working for other types of post types.
+<a href="https://broadcast.plainviewplugins.com/addon/h5p/">H5P</a>: Copy images from H5P content directories between blogs.
+<a href="https://broadcast.plainviewplugins.com/addon/hreflang/">Hreflang</a>: Fix to allow for several blogs sharing the same language (but not shown simultaneously). If you have custom code built on hreflang, check that it still works.
+<a href="https://broadcast.plainviewplugins.com/addon/queue/">Queue</a>: Add developer actions for adding and removing items from the queue.
+<a href="https://broadcast.plainviewplugins.com/addon/shortcodes/">Shortcodes</a>: Fix duplicating shortcodes when broadcasting them and some of them already exist.
+<a href="https://broadcast.plainviewplugins.com/addon/user-blog-settings/">User & Blog Settings</a>: Updated support for posts submitted using WP User Frontend. Now uses the new API actions.
+<a href="https://broadcast.plainviewplugins.com/addon/woocommerce/">WooCommerce</a>: Fix order syncing. Fixed missing order items by fetching the items manually using SQL, bypassing WooCommerce's unreliable functions.
+
+43.2 20180403
+
+<a href="https://broadcast.plainviewplugins.com/addon/all-blogs/">All Blogs</a>: Fix SQL error when looking for blog 1's blogname.
+New add-on. <a href="https://broadcast.plainviewplugins.com/addon/google-maps-pro/">Google Maps Pro</a>: Adds support for the <a href="https://premium.wpmudev.org/project/wordpress-google-maps-plugin">Google Maps Pro</a> plugin.
+New add-on. <a href="https://broadcast.plainviewplugins.com/addon/inboundnow/">Inbound Now</a>: Adds support for the <a href="https://www.inboundnow.com/">Inboundnow Marketing Suite</a>.
+New add-on. <a href="https://broadcast.plainviewplugins.com/addon/onesignal/">OneSignal</a>: Adds support for the <a href="https://wordpress.org/plugins/onesignal-free-web-push-notifications/">OneSignal – Free Web Push Notifications</a> plugin.
+New add-on. <a href="https://broadcast.plainviewplugins.com/addon/shortcode-posts/">Shortcode Posts</a>: Modifies post IDs found in shortcodes to match their equivalent posts on each blog.
+New add-on. <a href="https://broadcast.plainviewplugins.com/addon/sitemaps/">Sitemaps</a>: Generates network-aware sitemaps and robots.txt.
+
+43.1 20180227
+
+<a href="https://broadcast.plainviewplugins.com/addon/gravity-forms/">Gravity Forms</a>: Fix confirmation-actions not being properly broadcast. Also removed unnecessary SQL warnings in error log.
+
+43 20180226
+
+<a href="https://broadcast.plainviewplugins.com/addon/advanced-custom-fields/">ACF</a>: Fixed acf_disable_cache fatal error for older (<5.6) versions of ACF.
+<a href="https://broadcast.plainviewplugins.com/addon/advanced-custom-fields/">ACF</a>: Added support for Group fields.
+<a href="https://broadcast.plainviewplugins.com/addon/all-blogs/">All Blogs</a>: To save a lot of memory, query the blog name using SQL instead of asking Wordpress for it.
+New add-on. <a href="https://broadcast.plainviewplugins.com/addon/bulk-cloner/">Bulk Cloner</a>: Create clones of existing blogs on the network.
+<a href="https://broadcast.plainviewplugins.com/addon/divi-builder/">Divi Builder</a>: Added support for global modules. [et_pb_section] shortcodes with the global_module attribute are correctly detected and the global module is also broadcast together with the post.
+<a href="https://broadcast.plainviewplugins.com/addon/gravity-forms/">Gravity Forms</a>: Added support for broadcasting / updating of form feeds (as per the gf_addon_feed table).
+<a href="https://broadcast.plainviewplugins.com/addon/gravity-forms/">Gravity Forms</a>: Fix warning when form does not have valid confirmation or display metadata.
+<a href="https://broadcast.plainviewplugins.com/addon/php-code/">PHP Code</a>: Added a Wizard for renaming Gravity Forms.
+<a href="https://broadcast.plainviewplugins.com/addon/protect-child-properties/">Protect Child Properties</a>: Protect featured image also.
+<a href="https://broadcast.plainviewplugins.com/addon/queue/">Queue</a>: Fix support for queue on newer MariaDB databases. ROWS is apparently a reserved word.
+<a href="https://broadcast.plainviewplugins.com/addon/wpml/">WPML</a>: For content that has no set language (ACF fields, for example) just allow normal broadcasting without checking or setting the language.
+<a href="https://broadcast.plainviewplugins.com/addon/yoast-seo/">Yoast SEO</a>: Added support for setting the primary category of a post.
+
+42.4 20180129
+
+New add-on. <a href="https://broadcast.plainviewplugins.com/addon/h5p/">H5P</a>: Adds support for the <a href="https://wordpress.org/plugins/h5p/">H5P Interactive Content</a> plugin.
+<a href="https://broadcast.plainviewplugins.com/addon/queue/">Queue</a>: Fix blog names not showing for queued posts in overview.
+<a href="https://broadcast.plainviewplugins.com/addon/woocommerce/">WooCommerce</a>: Added support for <a href="http://yithemes.com/themes/plugins/yith-woocommerce-tab-manager/">YITH WooCommerce Tab Manager</a> tabs. Broadcast the tabs first before broadcasting the product.
+
+42.3 20180115
+
+<a href="https://broadcast.plainviewplugins.com/addon/learndash">LearnDash</a>: Add support for course builder data, allowing lessons and quizzes to be shared.
+<a href="https://broadcast.plainviewplugins.com/addon/pods/">Pods</a>: Automatically broadcast the pods that posts are using.
+<a href="https://broadcast.plainviewplugins.com/addon/polylang/">Polylang</a>: Add setting to allow all translations to be broadcasted automatically after broadcasting a translation.
+<a href="https://broadcast.plainviewplugins.com/addon/queue/">Queue</a>: Added setting to prevent the queue from being trimmed when rebroadcasting a post that is already in the queue.
+
+42.2 20171213
+
+New add-on. <a href="https://broadcast.plainviewplugins.com/addon/goodlayers/">GoodLayers</a>: Adds support for the <a href="https://goodlayers.com/">GoodLayers family of themes</a>.
+<a href="https://broadcast.plainviewplugins.com/addon/menus/">Menus</a>: Added cleanup tools.
+<a href="https://broadcast.plainviewplugins.com/addon/polylang/">Polylang</a>: Fix page languages not being saved correctly.
+<a href="https://broadcast.plainviewplugins.com/addon/queue/">Queue</a>: Fix race condition fatal error where trying to delete non-existing data.
+<a href="https://broadcast.plainviewplugins.com/addon/social-networks-auto-poster/">SNAP</a>: Fix dupe Facebook posting.
+<a href="https://broadcast.plainviewplugins.com/addon/yoast-seo/">Yoast SEO</a>: Fix fatal error by disabling the Link Watcher during broadcasting.
+
+42 20171130
+
+<a href="https://broadcast.plainviewplugins.com/addon/advanced-custom-fields/">ACF</a>: Disable field caching during broadcast. This fixes a bug in ACF where the values of fields were sometimes not reported to Broadcast.
+<a href="https://broadcast.plainviewplugins.com/addon/comments/">Comments</a>: Fixed a PHP warning due to spelling mistake.
+<a href="https://broadcast.plainviewplugins.com/addon/gravity-forms/">Gravity Forms</a>: Apply correct confirmation redirect page on each child blog. The page will be broadcasted to the child if necessary.
+New add-on. <a href="https://broadcast.plainviewplugins.com/addon/media-cleanup/">Media Cleanup</a>: cleans up unused media by looking for unused items in the database and on disk.
+<a href="https://broadcast.plainviewplugins.com/addon/polylang/">Polylang</a>: Added support for Polylang Pro. Tested with v2.2.6
+<a href="https://broadcast.plainviewplugins.com/addon/polylang/">Polylang</a>: Translated terms retain their linking on child blogs.
+<a href="https://broadcast.plainviewplugins.com/addon/polylang/">Polylang</a>: Allow non-translatable post types to be broadcasted. Fixes error where ACF fields were not broadcastable.
+<a href="https://broadcast.plainviewplugins.com/addon/post-expirator/">Post Expirator</a>: Added support for category expiration.
+<a href="https://broadcast.plainviewplugins.com/addon/queue/">Queue</a>: Please test your queue after updating. If it doesn't work, deactivate and reactivate the add-on.
+<a href="https://broadcast.plainviewplugins.com/addon/queue/">Queue</a>: Trim off existing queued items when requeuing posts. This stops the post from being doubly broadcasted, the first time unnecessarily.
+<a href="https://broadcast.plainviewplugins.com/addon/update-attachments/">Update Attachments</a>: Save serialized postmeta data as serialized postmeta data.
+<a href="https://broadcast.plainviewplugins.com/addon/update-attachments/">Update Attachments</a>: Try to create upload directories if they don't already exist. Workaround for broken installs where old upload directories have disappeared.
+
+The curious can try out the beta version of the Bulk Cloner add-on, found in the utilities pack.
+
+41 20171030
+
+<a href="https://broadcast.plainviewplugins.com/addon/elementor/">Elementor</a>: Added support for template widgets. Ensure that your template is broadcasted before trying to use it.
+New add-on. <a href="https://broadcast.plainviewplugins.com/addon/image-map-pro/">Image Map Pro</a> adds support for the <a href="https://codecanyon.net/item/image-map-pro-for-wordpress-interactive-image-map-builder/2826664">Image Map Pro</a> plugin.
+<a href="https://broadcast.plainviewplugins.com/addon/learndash">LearnDash</a>: Fix quizzes getting the correct course / lesson / certificate associations.
+<a href="https://broadcast.plainviewplugins.com/addon/learndash">LearnDash</a>: Question categories are now synced.
+<a href="https://broadcast.plainviewplugins.com/addon/geodirectory/">GeoDirectory</a>: Add option to automatically create locations that don't exist on the child blog.
+<a href="https://broadcast.plainviewplugins.com/addon/gravity-forms/">Gravity Forms</a>: Fix form ID being displayed incorrectly in the editor.
+<a href="https://broadcast.plainviewplugins.com/addon/queue/">Queue</a>: Try to avoid packet size errors by compressing the data stored in the database.
+<a href="https://broadcast.plainviewplugins.com/addon/slider-revolution/">Slider Revolution</a>: Fix slider dupes being created because the alias wasn't being found properly.
+<a href="https://broadcast.plainviewplugins.com/addon/search-and-replace/">Search And Replace</a>: Fix bug where terms were not editable due to some conflict with other plugins. Now the edit link refers to term_id= instead of id=.
+<a href="https://broadcast.plainviewplugins.com/addon/search-and-replace/">Search And Replace</a>: Strip the slashes in the text inputs.
+New add-on. <a href="https://broadcast.plainviewplugins.com/addon/sensei/">Sensei</a> adds support for the <a href="https://woocommerce.com/products/sensei/">Sensei</a> plugin.
+New add-on. <a href="https://broadcast.plainviewplugins.com/addon/shortcodes/">Shortcodes</a> provides arbitrary admin-defined global or local shortcodes.
+<a href="https://broadcast.plainviewplugins.com/addon/toolset/">Toolset</a>: Translate association to associated view, if any, when broadcasting content templates.
+<a href="https://broadcast.plainviewplugins.com/addon/toolset/">Toolset</a>: Moved all of the various Broadcast options into a tabbed interface under the Toolset > Broadcast menu item.
+New add-on. <a href="https://broadcast.plainviewplugins.com/addon/unyson/">Unyson</a> adds support for the <a href="https://wordpress.org/plugins/unyson/">Unyson page builder plugin</a>.
+<a href="https://broadcast.plainviewplugins.com/addon/update-attachments/">Update Attachments</a>: Force overwriting of the attachment postmeta on the child blog.
+
+40.1 20171004
+
+<a href="https://broadcast.plainviewplugins.com/addon/learndash">LearnDash</a>: Add question and answer search & replace function to easily make changes to your questions. Include automatic quiz broadcast functionality.
+<a href="https://broadcast.plainviewplugins.com/addon/geodirectory/">GeoDirectory</a>: Added favorites and review syncing capability.
+New add-on. <a href="https://broadcast.plainviewplugins.com/addon/redirect-parent/">Redirect Parent</a> redirects all views of a parent post to the first child post.
+New add-on. <a href="https://broadcast.plainviewplugins.com/addon/wpcustom-category-image/">WPCustom Category Image</a> adds support for the <a href="https://wordpress.org/plugins/wpcustom-category-image/">WPCustom Category Image</a> plugin.
+New add-on. <a href="https://broadcast.plainviewplugins.com/addon/widgets/">Widgets</a> copies widget and sidebar settings between blogs.
+
+40 20170922
+
+<a href="https://broadcast.plainviewplugins.com/addon/back-to-parent/">Back To Parent</a>: Extra check that we are back-to-parenting the correct post. Fixes a bug when complicated broadcasts (for example WooCommerce bookings, that simultaneously broadcast products and orders, are all back-to-parented unnecessarily).
+<a href="https://broadcast.plainviewplugins.com/addon/delete-before-broadcast/">Delete Before Broadcast</a>: Don't show options on child posts.
+<a href="https://broadcast.plainviewplugins.com/addon/learndash">LearnDash</a>: Fix. Prevent overwriting of enrolled users when broadcasting courses.
+New add-on. <a href="https://broadcast.plainviewplugins.com/addon/pods/">Pods</a> adds support for the <a href="https://www.pods.io/">Pods - Custom Content Types and Fields</a> plugin.
+<a href="https://broadcast.plainviewplugins.com/addon/php-code/">PHP Code</a>: Developer update. Dynamic loading of wizards and added actions to run the code programatically.
+<a href="https://broadcast.plainviewplugins.com/addon/queue/">Queue</a>: Show an error if the queue fails to add the original data item.
+<a href="https://broadcast.plainviewplugins.com/addon/toolset/">Toolset</a>: If using PHP Code add-on, allow automatic finding of unlinked Toolset post types on the child blog to link existing types, avoiding dupes.
+<a href="https://broadcast.plainviewplugins.com/addon/user-blog-settings/">User & Blog Settings</a>: Added custom field matching criterion.
+<a href="https://broadcast.plainviewplugins.com/addon/woocommerce/">WooCommerce</a>: Force overwriting of order items, now also overwriting all order item meta values to ensure that the order is completely synced.
+<a href="https://broadcast.plainviewplugins.com/addon/woocommerce/">WooCommerce</a>: Added support for refunds in orders.
+
+39.1 20170903
+
+<a href="https://broadcast.plainviewplugins.com/addon/elementor/">Elementor</a>: Added support for background images, templates and template shortcodes.
+New add-on. <a href="https://broadcast.plainviewplugins.com/addon/attachment-control/">Attachment Control</a> allows better control of how attachments are handled during broadcasting.
+<a href="https://broadcast.plainviewplugins.com/addon/custom-field-attachments/">Custom Field Attachments</a>: Also process values found in custom field subarrays.
+<a href="https://broadcast.plainviewplugins.com/addon/learndash">LearnDash</a>: Fix. Update base quiz data in the quiz table when broadcasting.
+<a href="https://broadcast.plainviewplugins.com/addon/learndash">LearnDash</a>: Fix. Automatically increase Broadcast's save_post priority to higher than LearnDash's (2000) in order to broadcast the changes directly, instead of needing a double-update.
+<a href="https://broadcast.plainviewplugins.com/addon/menus/">Menus</a>: Disable time limit during menu copying.
+<a href="https://broadcast.plainviewplugins.com/addon/slider-revolution/">Slider Revolution</a>: Added support for static layers.
+<a href="https://broadcast.plainviewplugins.com/addon/toolset/">Toolset</a>: Add ability to broadcast taxonomies.
+<a href="https://broadcast.plainviewplugins.com/addon/ultimate-member/">Ultimate Member</a>: Display Broadcasted column for UM forms.
+<a href="https://broadcast.plainviewplugins.com/addon/user-blog-settings-post/">User & Blog Settings Post</a>: Fix bug that only broadcasted every other post in a selection.
+<a href="https://broadcast.plainviewplugins.com/addon/wpml/">WPML</a>: Remember taxonomy term translations between blogs.
+
+39 20170802
+
+<a href="https://broadcast.plainviewplugins.com/addon/advanced-custom-fields/">ACF</a>: Added support for Broadcast's new taxonomy term handling code. This allows blacklisting and protecting of taxonomy term meta.
+<a href="https://broadcast.plainviewplugins.com/addon/hreflang/">Hreflang</a>: Fix for paging in URLs. Will now append paged parameter depending on the current page of archives or the single post.
+<a href="https://broadcast.plainviewplugins.com/addon/intagrate/">Intagrate</a>: New add-on. Adds support for the <a href="https://intagrate.io/">Intagrate</a> plugin.
+<a href="https://broadcast.plainviewplugins.com/addon/mailster/">Mailster</a>: New: Added support for autoresponders.
+<a href="https://broadcast.plainviewplugins.com/addon/mailster/">Mailster</a>: Fix: List assignments are copied and assigned when broadcasting newsletters and autoresponders on each child blog.
+<a href="https://broadcast.plainviewplugins.com/addon/search-and-replace/">Search And Replace</a>: New-addon. Find and replace texts in posts during broadcast.
+<a href="https://broadcast.plainviewplugins.com/addon/user-role-sync/">User Role Sync</a>: Allow selection of roles and specific users when syncing.
+<a href="https://broadcast.plainviewplugins.com/addon/wplms/">WPLMS</a>: New add-on. Adds support for Vibethemes' <a href="https://themeforest.net/item/wplms-learning-management-system/6780226">WPLMS theme</a>.
+<a href="https://broadcast.plainviewplugins.com/addon/yoast-seo/">Yoast SEO</a>: Added support for Broadcast's new taxonomy term handling code. This allows blacklisting and protecting of taxonomy term meta.
+
+38.6 20170703
+
+<a href="https://broadcast.plainviewplugins.com/addon/advanced-custom-fields/">ACF</a>: Separate handling of flexible fields so that ACF v4 flex fields can work at the same time as v5.
+<a href="https://broadcast.plainviewplugins.com/addon/beaver-builder/">Beaver Builder</a>: Parse all text fields individually, allowing for shortcodes to be found and processed.
+<a href="https://broadcast.plainviewplugins.com/addon/elementor/">Elementor</a>: New add-on. Adds support for the <a href="https://wordpress.org/plugins/elementor/">Elementor Page Builder plugin</a>.
+<a href="https://broadcast.plainviewplugins.com/addon/foogallery/">FooGallery</a>: Added broadcast meta box for individual galleries.
+<a href="https://broadcast.plainviewplugins.com/addon/global-blocks-for-cornerstone/">Global Blocks For Cornerstone</a>: New add-on. Adds support for the <a href="https://wordpress.org/plugins/global-blocks-for-cornerstone/">Global Blocks for Cornerstone</a> plugin.
+<a href="https://broadcast.plainviewplugins.com/addon/gravity-forms/">Gravity Forms</a>: New add-on. Adds support for the <a href="http://www.gravityforms.com/">Gravity Forms</a> plugin.
+<a href="https://broadcast.plainviewplugins.com/addon/learndash">LearnDash</a>: Added support for quiz questions and answers, not just the quiz post type itself.
+<a href="https://broadcast.plainviewplugins.com/addon/mailster/">Mailster</a>: New add-on. Adds support for the <a href="https://codecanyon.net/item/mailster-email-newsletter-plugin-for-wordpress/3078294">Mailster</a> plugin.
+<a href="https://broadcast.plainviewplugins.com/addon/ns-cloner/">NS Cloner</a>: New add-on. Adds support for the <a href="https://wordpress.org/plugins/ns-cloner-site-copier/">NS Cloner</a> plugin.
+<a href="https://broadcast.plainviewplugins.com/addon/slider-revolution/">Slider Revolution</a>: Added support for sliders in the <a href="https://themeforest.net/item/envision-responsive-retina-multipurpose-theme/5928018">Envision theme</a>.
+<a href="https://broadcast.plainviewplugins.com/addon/yoast-seo/">Yoast SEO</a>: Hide notification about changed slug (which is perfectly normal when broadcasting).
+
+38.4 20170605
+
+<a href="https://broadcast.plainviewplugins.com/addon/eventon/">EventON</a>: Add RSVP broadcast and syncing. If the event is broadcasted, the attendees will be broadcasted from the event's parent blog as the source. Requires Broadcast v38.4.
+<a href="https://broadcast.plainviewplugins.com/addon/eventon/">EventON</a>: Add support for <a href="http://myeventon.com/addons/action-user/">Action User</a> add-on in order to give <a href="https://broadcast.plainviewplugins.com/addon/user-blog-settings/">User & Blog Settings</a> a chance to broadcast form submissions.
+<a href="https://broadcast.plainviewplugins.com/addon/protect-child-properties/">Protect Child Properties</a>: Fix fatal error when the link checkbox is not checked.
+<a href="https://broadcast.plainviewplugins.com/addon/ultimate-member/">Ultimate Member</a>: New add-on. Adds support for the <a href="https://wordpress.org/plugins/ultimate-member/">Ultimate Member</a> plugin.
+
+38.3 20170523
+
+<a href="https://broadcast.plainviewplugins.com/addon/beaver-builder/">Beaver Builder</a>: Added BB settings copy function under the Broadcast menu.
+<a href="https://broadcast.plainviewplugins.com/addon/jetpack/">Jetpack</a>: New addon. Adds support for <a href="https://wordpress.org/plugins/jetpack/">Automattic's Jetpack plugin</a>.
+<a href="https://broadcast.plainviewplugins.com/addon/slider-revolution/">Slider Revolution</a>: New addon. Adds support for the <a href="https://revolution.themepunch.com/">Slider Revolution</a> plugin.
+<a href="https://broadcast.plainviewplugins.com/addon/the-events-calendar/"> The Events Calendar</a>: Use API to broadcast venues and events.
+<a href="https://broadcast.plainviewplugins.com/addon/user-role-sync/">User Role Sync</a>: New addon. Copy user roles between blogs.
+<a href="https://broadcast.plainviewplugins.com/addon/woocommerce/">WooCommerce</a>: Fix variation broadcasting to multiple blogs.
+<a href="https://broadcast.plainviewplugins.com/addon/woocommerce/">WooCommerce</a>: Add support for <a href="https://www.woothemes.com/products/product-vendors/"Product Vendors</a> plugin.
+
+38.2 20170428
+
+<a href="https://broadcast.plainviewplugins.com/addon/geodirectory/">GeoDirectory</a>: Add extra check for missing database tables on the child blogs, which should prevent a lot of headaches when attachments aren't being correctly copied.
+<a href="https://broadcast.plainviewplugins.com/addon/ninja-forms/">Ninja Forms</a>: Added menu item for copying Ninja Form settings between blogs, like WooCommerce has.
+<a href="https://broadcast.plainviewplugins.com/addon/page-content-shortcode/">Page Content Shortcode</a>: New addon. Provides a <code>[bc_page_content slug="pageslug"]</code> shortcode to display the contents of a page.
+<a href="https://broadcast.plainviewplugins.com/addon/polylang/">Polylang</a>: Fix translations not being linked for some people since v35.x.
+<a href="https://broadcast.plainviewplugins.com/addon/user-blog-settings/">User & Blog Settings</a>: Better criterion editing UI.
+<a href="https://broadcast.plainviewplugins.com/addon/woocommerce/">WooCommerce</a>: AutomateWoo: retrieve the parent product link data for triggers. Fixes wrong product triggers when using child products.
+<a href="https://broadcast.plainviewplugins.com/addon/woocommerce/">WooCommerce</a>: Disable v3 save_post workaround for WooCommerce v3.0.4+. Apparently they fixed whatever they broke in v3.
+
+38.1 20170410
+
+<a href="https://broadcast.plainviewplugins.com/addon/new-blog-broadcast/">New Blog Broadcast</a>: Fix fatal error when editing a broadcast. This appeared when the code was converted to using the new Wordpress translation functions.
+
+38 20170406
+
+Finally dropped the "ThreeWP" prefix from the plugin name! The code remains the same, just the name has become simpler: Broadcast...
+
+<a href="https://broadcast.plainviewplugins.com/addon/rebroadcast/">Rebroadcast</a>: Allow posts to be queued when rebroadcasting.
+<a href="https://broadcast.plainviewplugins.com/addon/woocommerce/">WooCommerce</a>: Add product image gallery handler, so no more need for the Custom Field Attachments add-on.
+<a href="https://broadcast.plainviewplugins.com/addon/woocommerce/">WooCommerce</a>: Also sync variations stock, not just normal products.
+<a href="https://broadcast.plainviewplugins.com/addon/woocommerce/">WooCommerce</a>: Fix. Add workaround for how WooCommerce v3.0 saves products. This prevented the image gallery from being correctly broadcast.
+<a href="https://broadcast.plainviewplugins.com/addon/wpml/">WPML</a>: Ignore content that has no translations. Fixes bug where content without translations that should be broadcasted (EventOn events, for example) was not broadcasted.
+<a href="https://broadcast.plainviewplugins.com/addon/wpml/">WPML</a>: Add menu item to force broadcast of content to blogs whithout the language. Fixes a weird bug for some installations that had hidden languages which, for some installations, regarded the language as inactive and would therefore not broadcast the content there.
+
+37.2 20170326
+
+<a href="https://broadcast.plainviewplugins.com/addon/protect-child-properties/">Protect Child Properties</a>: Deeper revision checking to better detect whether the child post was modified.
+<a href="https://broadcast.plainviewplugins.com/addon/protect-child-properties/">Protect Child Properties</a>: Allow custom fields to be protected.
+<a href="https://broadcast.plainviewplugins.com/addon/shortcode-attachments/">Shortcode Attachments</a>: Fix fatal error upon viewing available shortcodes. Related to fix below.
+<a href="https://broadcast.plainviewplugins.com/addon/shortcode-attachments/">Shortcode Attachments</a>: Use new data format. Deactivate and reactivate the add-on to convert the old Attachment Shortcodes data to the new format.
+<a href="https://broadcast.plainviewplugins.com/addon/queue/">Queue</a>: Add option to disable HTTP processing, so that you don't have to disable the cron line.
+<a href="https://broadcast.plainviewplugins.com/addon/woocommerce/">WooCommerce</a>: Add settings copy feature, to quickly duplicate (overwrite) WC settings between blogs. See add-on page for more details.
+
+37.1 20170322
+
+<a href="https://broadcast.plainviewplugins.com/addon/eventon/">EventON</a>: Also copy location images.
+<a href="https://broadcast.plainviewplugins.com/addon/eventon/">EventON</a>: Add support for v2.5.1 locations.
+<a href="https://broadcast.plainviewplugins.com/addon/find-some-unlinked-children/">Find Some Unlinked Children</a>: Add menu option to ignore post status when finding unlinked children.
+<a href="https://broadcast.plainviewplugins.com/addon/woocommerce/">WooCommerce</a>: Fix fatal error due to translation: is_wp_error_message_box().
+
+Obsolete add-ons removed: Attachment Shortcodes, Types, Views
+
+37 20170316
+
+<a href="https://broadcast.plainviewplugins.com/addon/contact-form-7/">Contact Form 7</a>: Attempt to link existing forms using their title, else broadcast a new one. Requires that forms have exacty the same title in the shortcode as they are called in the form list.
+<a href="https://broadcast.plainviewplugins.com/addon/events-manager/">Events Manager</a>: Fix new location ID not being correctly set on the child blog. Also use $wpdb to insert event and location data instead of using raw SQL. Read the Events Manager page for info about how badly the EM plugin is written.
+<a href="https://broadcast.plainviewplugins.com/addon/queue/">Queue</a>: Fix items per process setting not being saved.
+
+36.2 20170307
+
+<a href="https://broadcast.plainviewplugins.com/addon/advanced-custom-fields/">ACF</a>: Location rules fix. If set to a post that is not broadcasted, leave the post ID alone instead of setting it to 0.
+<a href="https://broadcast.plainviewplugins.com/addon/advanced-custom-fields/">ACF</a>: Prevent looping when post object fields point back to the same post.
+<a href="https://broadcast.plainviewplugins.com/addon/all-images/">All Images</a>: New addon. Detects all referenced local images in post text fields and adds them to the broadcast.
+<a href="https://broadcast.plainviewplugins.com/addon/queue/">Queue</a>: Added maximum queue items per process setting that defines how many items to process during a HTTP process event. Also added smarter queue handling that now takes the following into account: the previously mentioned items per process event setting, the PHP time limit and how long, on average, each queue item takes to process. The processing rules are detailed on the queue add-on's page.
+
+36.1 20170305
+
+<a href="https://broadcast.plainviewplugins.com/addon/advanced-custom-fields/">ACF</a>: Better handling of repeater fields in ACF5, and more workarounds added for repeater fields in ACF4.
+
+36 20170303
+
+<a href="https://broadcast.plainviewplugins.com/addon/advanced-custom-fields/">ACF</a>: For text values, use the values that ACF reports, not the raw values. Addition to the ACF fix below.
+<a href="https://broadcast.plainviewplugins.com/addon/advanced-custom-fields/">ACF</a>: ACF fields for taxonomies obey the custom field black/protect lists.
+<a href="https://broadcast.plainviewplugins.com/addon/find-some-unlinked-children/">Find Some Unlinked Children</a>: Like the normal Find Unlinked Children bulk action, find children that have the same status.
+<a href="https://broadcast.plainviewplugins.com/addon/learndash">LearnDash</a>: New add-on. Adds support for the <a href="https://www.learndash.com/">LearnDash LMS</a> plugin.
+<a href="https://broadcast.plainviewplugins.com/addon/php-code/">PHP Code</a>: Added "show blog language" wizard.
+<a href="https://broadcast.plainviewplugins.com/addon/protect-child-properties/">Protect Child Properties</a>: Added function to only protect child properties if the post was modified. Allows some child posts to be updated with own content, while other child posts are overwritten with new content. Requires post revision support.
+<a href="https://broadcast.plainviewplugins.com/addon/woocommerce/">WooCommerce</a>: Fix incorrect variation post title (that is never seen).
+<a href="https://broadcast.plainviewplugins.com/addon/wp-all-import/">WP All Import</a>: New add-on. Adds support for post updates from Soffly's <a href="http://www.wpallimport.com/">WP All Import Pro</a>.
+
+Obsolete add-ons: The next version of the pack will disable the following add-ons, so please enable their replacements:
+
+Attachment Shortcodes has been replaced by Shortcode Attachments.
+Types has been replaced by Toolset.
+Views has been replaced by Toolset.
+
+35.8 20170130
+
+<a href="https://broadcast.plainviewplugins.com/addon/advanced-custom-fields/">ACF</a>: Do not allow ACF to process text fields before broadcasting them (= return the values completely raw).
+<a href="https://broadcast.plainviewplugins.com/addon/user-blog-settings/">User & Blog Settings</a>: Fix forcing on of checkboxes when not directly broadcasting (like in queues, for example).
+
+35.7 20170127
+
+<a href="https://broadcast.plainviewplugins.com/addon/advanced-custom-fields/">ACF</a>: Fix 1 values when retrieving text values from non-post text fields.
+<a href="https://broadcast.plainviewplugins.com/addon/duplicate-attachments/">Duplicate Attachments</a>: Fix setting of attached filename on some hosts, which caused problems with returning of the image filename on disk (especially with Update Attachments).
+<a href="https://broadcast.plainviewplugins.com/addon/geodirectory/">GeoDirectory</a>: Fix broken featured image URL. GD, unlike Wordpress, likes to have a forward slash at the beginning of the URL.
+<a href="https://broadcast.plainviewplugins.com/addon/ninja-forms/">Ninja Forms</a>: Added form action syncing.
+
+35.6 20170117
+
+<a href="https://broadcast.plainviewplugins.com/addon/polylang/">Polylang</a>: Fix to allow for broadcasting without linking to a blog without the same language.
+<a href="https://broadcast.plainviewplugins.com/addon/queue/">Queue</a>: Fix fatal error after HTTP process call. The error is harmless but results in an unnecessary entry in the webserver error log.
+
+35.5 20170113
+
+<a href="https://broadcast.plainviewplugins.com/addon/ninja-forms/">Ninja Forms</a>: New add-on: Adds support for the <a href="https://wordpress.org/plugins/ninja-forms/">Ninja Forms</a> plugin.
+<a href="https://broadcast.plainviewplugins.com/addon/queue/">Queue</a>: Only process one item at a time. This is because some posts are really, really large and can cause timeouts getting caught just above the 25% time limit. Safer to not try to guess how long a post will take to broadcast.
+
+35.4 20170109
+
+<a href="https://broadcast.plainviewplugins.com/addon/comments/">Comments</a>: Comment meta is now also synced. This enables, among other things, WooCommerce product reviews to be synced between blogs.
+<a href="https://broadcast.plainviewplugins.com/addon/hreflang/">Hreflang</a>: Fix overwriting of the global $post variable. This caused a fatal error when using it with the Google Tag Manager plugin.
+<a href="https://broadcast.plainviewplugins.com/addon/woocommerce/">WooCommerce</a>: Product reviews can now be synced (with ratings) thanks to updates in the Comments add-on.
+
+35.3 20170106
+
+<a href="https://broadcast.plainviewplugins.com/addon/aqua-page-builder/">Aqua Page Builder</a>: New add-on: Adds support for the <a href="https://wordpress.org/plugins/aqua-page-builder/">Aqua Page Builder plugin</a>.
+<a href="https://broadcast.plainviewplugins.com/addon/queue/">Queue</a>: Only clean the queue 1 in 10 times. This alleviates problems with slow SQL servers.
+
+35.2 20161223
+
+<a href="https://broadcast.plainviewplugins.com/addon/shortcode-attachments/">Shortcode Attachments</a>: Added Elegant Themes Page Builder gallery shortcode in the wizard.
+<a href="https://broadcast.plainviewplugins.com/addon/shortcode-terms/">Shortcode Terms</a>: New add-on. Automatically translates taxonomy term IDs found in shortcodes when broadcasting.
+<a href="https://broadcast.plainviewplugins.com/addon/user-blog-settings/">User & Blog Settings</a>: Fix forcing off of hidden checkboxes. This happens when javascript modifies the checked status of the checkboxes.
+
+35.1 20161220
+
+<a href="https://broadcast.plainviewplugins.com/addon/menus/">Menus</a>: Added item manipulation function.
+<a href="https://broadcast.plainviewplugins.com/addon/polylang/">Polylang</a>: Added menu item where one can now select the action if the language does not exist on the child blog.
+<a href="https://broadcast.plainviewplugins.com/addon/woocommerce/">WooCommerce</a>: Fix renaming of variation post names.
+
+35 20161206
+
+<a href="https://broadcast.plainviewplugins.com/addon/advanced-custom-fields/">ACF</a>: Show the Broadcasted column in the field group overview.
+<a href="https://broadcast.plainviewplugins.com/addon/all-blogs/">All Blogs</a>: Clear cache when creating blogs programatically.
+<a href="https://broadcast.plainviewplugins.com/addon/all-blogs/">All Blogs</a>: Clear cache when creating deleting blogs.
+<a href="https://broadcast.plainviewplugins.com/addon/download-monitor/">Download Monitor</a>: Replace the URL in the download version with the attachment's URL on each blog.
+<a href="https://broadcast.plainviewplugins.com/addon/queue/">Queue</a>: Added support for partial broadcasts. Currently only the WooCommerce add-on uses this functionality.
+<a href="https://broadcast.plainviewplugins.com/addon/woocommerce/">WooCommerce</a>: Added support for partial broadcasts, together with the queue add-on. See the WC settings tab. Use this function if your products has many variations that cause PHP timeouts.
+<a href="https://broadcast.plainviewplugins.com/addon/user-blog-settings/">User & Blog Settings</a>: Added support for forced broadcasting when using <a href="https://wedevs.com/products/plugins/wp-user-frontend-pro/">WP User Frontend Pro</a> forms.
+
+34.5 20161111
+
+<a href="https://broadcast.plainviewplugins.com/addon/divi-builder/">Divi Builder</a>: New add-on. Adds support for <a href="https://www.elegantthemes.com/plugins/divi-builder/">Divi Builder</a> and themes using it.
+
+34.4 20161107
+
+<a href="https://broadcast.plainviewplugins.com/addon/advanced-custom-fields/">ACF</a>: Check for valid posts when adding relationship posts.
+<a href="https://broadcast.plainviewplugins.com/addon/new-blog-broadcast/">New Blog Broadcast</a>: Also listen to gform_site_created actions sent from Gravity Forms to detect when a new blog has been created.
+<a href="https://broadcast.plainviewplugins.com/addon/wpml/">WPML</a>: When using the duplicating translation button, Broadcast will only broadcast parent posts, not child posts also.
+<a href="https://broadcast.plainviewplugins.com/addon/yoast-seo/">Yoast SEO</a>: Add menu option to allow taxonomy term canonical URLs to be ignored / protected. This is for users who do not want the canonical URL of terms to be broadcasted to child blogs.
+
+34.3 20161027
+
+<a href="https://broadcast.plainviewplugins.com/addon/advanced-custom-fields/">ACF</a>: Add workaround for incorrect detection of post number in post fields. This caused fatal errors when ACF fields for taxonomies were created and used within the post.
+<a href="https://broadcast.plainviewplugins.com/addon/beaver-builder/">Beaver Builder</a>: New add-on: Adds support for the <a href="https://www.wpbeaverbuilder.com/">Beaver Builder page builder plugin</a>.
+<a href="https://broadcast.plainviewplugins.com/addon/local-links/">Local Links</a>: Allow links with parameters to be modified, keeping the parameters. https://blog1.test.com/contactus?parameter will become https://blog2.test.com/contactus?parameter can become
+<a href="https://broadcast.plainviewplugins.com/addon/lock-post/">Lock Post</a>: Added global lock override roles, to allow specific roles to ignore lock status of posts.
+<a href="https://broadcast.plainviewplugins.com/addon/lock-post/">Lock Post</a>: Added filterable action to allow developers to override post locking.
+<a href="https://broadcast.plainviewplugins.com/addon/menus/">Menus</a>: Integrate blog selection with Blog Groups 2 add-on.
+<a href="https://broadcast.plainviewplugins.com/addon/woocommerce/">WooCommerce</a>: Allow broadcasting of disabled AutomateWoo workflows.
+<a href="https://broadcast.plainviewplugins.com/addon/wpml/">WPML</a>: Better detection of network-activated WPML.
+
+34.2 20161006
+
+<a href="https://broadcast.plainviewplugins.com/addon/custom-field-attachments/">Custom Field Attachments</a>: Fixed warning when no meta is available (usually from using the Sync Taxonomies add-on).
+<a href="https://broadcast.plainviewplugins.com/addon/download-monitor/">Download Monitor</a>: Put only download version attachments into the dlm_uploads directory, not attachments for the download itself.
+<a href="https://broadcast.plainviewplugins.com/addon/local-files/">Local Files</a>: New add-on: automatically copies local files to each blog and updates the links in the content.
+<a href="https://broadcast.plainviewplugins.com/addon/queue/">Queue</a>: Optimize tables after cleaning to reduce fragmentation.
+<a href="https://broadcast.plainviewplugins.com/addon/toolset/">Toolset</a>: Add ability to broadcast content templates.
+<a href="https://broadcast.plainviewplugins.com/addon/woocommerce/">WooCommerce</a>: Add support for AutomateWoo workflows.
+<a href="https://broadcast.plainviewplugins.com/addon/woocommerce/">WooCommerce</a>: Add category thumbnail and display type support.
+
+34.1 20160927
+
+<a href="https://broadcast.plainviewplugins.com/addon/advanced-custom-fields/">ACF</a>: Add wildcard support for checking the ACF field names against the custom field protect list. And blacklist checking also supports wildcards now.
+
+34 20160925
+
+<a href="https://broadcast.plainviewplugins.com/addon/advanced-custom-fields/">ACF</a> and <a href="https://broadcast.plainviewplugins.com/addon/woocommerce/">WooCommerce</a>: Code change. Use new -&gt;copy_attachment_to_blog() function to prevent double copying of images attached to [taxonomy] meta.
+<a href="https://broadcast.plainviewplugins.com/addon/all-blogs/">All Blogs</a>: Add backwards compatibility for Wordpress &lt; 4.6
+<a href="https://broadcast.plainviewplugins.com/addon/contact-form-7/">Contact Form 7</a>: Remove unused code warning.
+<a href="https://broadcast.plainviewplugins.com/addon/duplicate-attachments/">Duplicate Attachments</a>: Force renaming of attachment post_names to coincide with the attachment fix in the base version of Broadcast. This fixes the attachment duplication bug/feature in Wordpress.
+<a href="https://broadcast.plainviewplugins.com/addon/new-blog-broadcast/">New Blog Broadcast</a>: Allow queuing of posts.
+<a href="https://broadcast.plainviewplugins.com/addon/woocommerce/">WooCommerce</a>: Workaround for old versions of WooCommerce that don't have the get_woocommerce_term_meta function.
+<a href="https://broadcast.plainviewplugins.com/addon/wpml/">WPML</a>: Include temporary fix for Wordpress action/filter bug that prevents the editor language of duplicated posts from being updated on the child. Requires a patched WPML. This fix will become obsolete when Wordpress 4.7 is released, due to the *5 year old* bug being finally fixed.
+
+33.1 20160913
+
+<a href="https://broadcast.plainviewplugins.com/addon/all-blogs/">All Blogs</a>: Fix blog limit. Due to incorrect documentation, only 100 blogs are returned at a time.
+<a href="https://broadcast.plainviewplugins.com/addon/social-networks-auto-poster/">SNAP</a>: Better support for [featured] images in posts. It does this by SNAPping only after all images have been attached.
+<a href="https://broadcast.plainviewplugins.com/addon/wpml/">WPML</a>: Allow broadcasting to blogs on which WPML is not active. This will result in just normal broadcasting.
+<a href="https://broadcast.plainviewplugins.com/addon/woocommerce/">WooCommerce</a>: Added support for the WooCommerce Variation Swatches and Photos plugin.
+
+33 20160817
+
+<a href="https://broadcast.plainviewplugins.com/addon/all-blogs/">All Blogs</a>: Code change - use get_sites() instead of deprecated wp_get_sites().
+<a href="https://broadcast.plainviewplugins.com/addon/advanced-custom-fields/">ACF</a>: Sync ACF fields in taxonomies during broadcasting and during manual taxonomy sync.
+<a href="https://broadcast.plainviewplugins.com/addon/avia-layout-builder/">Avia Layout Builder</a>: Use new Shortcode Attachments and Shortcode Menus add-ons to parse the builder content, which now allows you to use menu shortcodes in your Avia content also.
+<a href="https://broadcast.plainviewplugins.com/addon/contact-form-7/">Contact Form 7</a>: New add-on. Adds support for <a href="https://wordpress.org/plugins/contact-form-7/">Takayuki Miyoshi's Contact Form 7</a> plugin.
+<a href="https://broadcast.plainviewplugins.com/addon/events-manager/">Events Manager</a>: Fix broadcasted events not showing in the location's overview page.
+<a href="https://broadcast.plainviewplugins.com/addon/local-links/">Local Links</a>: Extra check for valid URLs. The Wordpress function url_to_postid() seems to think that anything with a question mark is a valid URL.
+<a href="https://broadcast.plainviewplugins.com/addon/wpml/">WPML</a>: Duplicate Content button automatically broadcasts post to all child blogs. Those child blogs without the duplicated language are ignored, as per normal WPML broadcasting rules.
+<a href="https://broadcast.plainviewplugins.com/addon/wp-ultimate-recipe/">WP Ultimate Recipe</a>: Now supports meal plans. The recipes in the meals must already exist on each child blog.
+<a href="https://broadcast.plainviewplugins.com/addon/yoast-seo/">Yoast SEO</a>: New add-on. Adds support for the <a href="https://wordpress.org/plugins/wordpress-seo/">Yoast SEO</a> plugin. Only needed if you want taxonomy SEO data synced when broadcasting.
+
+32.2 20160719
+
+Attachment Shortcodes: Obsolete. Please use the Shortcode Attachments add-on instead. It's the same thing (your shortcode settings are kept) but this add-on will be phased out in the future. The reason being that the new Shortcode Attachments and Shortcode Menus add-ons share the same base code, making development easier.
+<a href="https://broadcast.plainviewplugins.com/addon/shortcode-attachments/">Shortcode Attachments</a>: New add-on. Automatically translate attachment IDs found in shortcodes when broadcasting.
+<a href="https://broadcast.plainviewplugins.com/addon/shortcode-menus/"> Shortcode Menus</a>: New add-on. Automatically translate menu IDs found in shortcodes when broadcasting.
+
+32 20160715
+
+<a href="https://broadcast.plainviewplugins.com/addon/comments/">Comments</a>: Allow settings to be modified by UBS.
+<a href="https://broadcast.plainviewplugins.com/addon/eventon/">EventON</a>: Added experimental ticket syncing.
+<a href="https://broadcast.plainviewplugins.com/addon/per-blog-taxonomies/">Per Blog Taxonomies</a>: Allow settings to be modified by UBS.
+<a href="https://broadcast.plainviewplugins.com/addon/queue/">Queue</a>: Obey broadcasting_data->high_priority property from BC v32. This will solve problems with complicated broadcasts that subbroadcast things (like ACF post relations and Download Monitor shortcodes).
+<a href="https://broadcast.plainviewplugins.com/addon/queue/">Queue</a>: Fix allowing normal users to ajax process posts on the post overview screen.
+<a href="https://broadcast.plainviewplugins.com/addon/toolset/">Toolset</a>: Merged the Types and Views plugins. Now broadcast CRED forms, types and views.
+Types: Obsolete. Please use Toolset add-on instead.
+<a href="https://broadcast.plainviewplugins.com/addon/user-blog-settings/">User & Blog Settings</a>: Use better descriptions when editing meta boxes.
+Views: Obsolete. Please use Toolset add-on instead.
+<a href="https://broadcast.plainviewplugins.com/addon/woocommerce/">WooCommerce</a>: Can now stock sync on its own. Extra removed.
+<a href="https://broadcast.plainviewplugins.com/addon/woocommerce/">WooCommerce</a>: Added experimental order syncing.
+
+31 20160705
+
+<a href="https://broadcast.plainviewplugins.com/addon/advanced-custom-fields/">ACF</a>: Added support for content preparsing on textarea fields also.
+Back To Parent: Code change - method to broadcast back to parent split out: back_to_parent( $post_id ).
+<a href="https://broadcast.plainviewplugins.com/addon/calendarize-it/">Calendarize It</a>: New add-on. Adds support for <a href="http://codecanyon.net/item/calendarize-it-for-wordpress/2568439">Calendarize It!</a> events.
+<a href="https://broadcast.plainviewplugins.com/addon/delete-before-broadcast/">Delete Before Broadcast</a>: Fixed bug which prevented more than one post from being deleted.
+<a href="https://broadcast.plainviewplugins.com/addon/download-monitor/">Download Monitor</a>: Use the preparse actions to parse download shortcodes everywhere (like in ACF text fields, for example).
+<a href="https://broadcast.plainviewplugins.com/addon/events-manager/">Events Manager</a>: New add-on. Adds support for the <a href="https://wordpress.org/plugins/events-manager/">Events Manager</a> plugin.
+<a href="https://broadcast.plainviewplugins.com/addon/local-links/">Local Links</a>: Tell the DOMDocument parser to use the utf8 charset - more hardy parsing.
+<a href="https://broadcast.plainviewplugins.com/addon/queue/">Queue</a>: Assume a max execution time of 30s when a max time of -1 is encountered. Workaround for bug in wpallexport pro.
+<a href="https://broadcast.plainviewplugins.com/addon/the-events-calendar/"> The Events Calendar</a>: Bulk post actions are applied to all recurring events when modifying the main / root event. See the TEC page for details on how to disable this feature. Depending on feedback, this feature can be turned into a menu item.
+<a href="https://broadcast.plainviewplugins.com/addon/types/"> Types</a>: Add support for manual broadcast of post types to other blogs.
+<a href="https://broadcast.plainviewplugins.com/addon/views/">Views</a>: Add support for manual broadcast of views to other blogs.
+<a href="https://broadcast.plainviewplugins.com/addon/woocommerce/">WooCommerce</a>: Add ability to broadcast membership plans.
+
+30 20160606
+
+ACF: Extended support for conditional gallery local / global images.
+ACF: Added support for the link field type.
+ACF: Added support for content preparsing, therefore requiring v30 of Broadcast. This will parse links and gallery shortcodes in text, url, link and wysiwyg fields.
+Download Monitor: Allow download attachments to be copied to the dlm_uploads subdirectory - the file URL in the version remains unchanged, though.
+Local Links: Now uses content preparsing to translate local links in everything that is preparsed, like the text-related ACF field types.
+<a href="https://broadcast.plainviewplugins.com/addon/tao-schedule-update/">Tao Schedule Update</a>: Plugin added. Adds support for <a href="https://wordpress.org/plugins/tao-schedule-update/">Tao Schedule Update</a> plugin.
+The Events Calendar: Better saving of custom fields upon intial broadcast (instead of having to double publish to get the custom fields to show).
+Update Attachments: Also update the description, alt and caption of the image, not only the file.
+
+29.1 20160418
+
+Back To Parent: More robust handling, now including related posts (for example Download Monitor download versions).
+Download Monitor: New plugin. Adds support for downloads and shortcodes from <a href="https://wordpress.org/plugins/download-monitor/">Never5's Download Monitor</a> plugin.
+Polylang: Allow appending of languages. If you manually add languages to the child posts, they will be preserved when the parent post rebroadcasts.
+Polylang: Prevent language and flag data in the language taxonomy of the child blogs from being overwritten. Now en (US) will not overwrite en (GB) for example.
+Protect Child Properties: Permalink (post_name) can also be protected.
+WP Ultimate Recipe: Remove debug info.
+
+29 20160405
+
+ACF: Added support for the Conditional Gallery field type. See the ACF page for notes on this.
+ACF: Added support for parsing of image links in text and wysiwyg content.
+All Blogs: Make superadmin version also clear the cache upon creating new blogs.
+Hreflang: Catchable fatal error fixed when not using any settings.
+Protect Child Properties: Modification date can be protected also.
+Queue: During broadcasting, don't queue any broadcast requests, to prevent some add-ons from not being able to receive new post numbers during broadcast.
+<a href="https://broadcast.plainviewplugins.com/addon/wp-ultimate-recipe/">WP Ultimate Recipe</a>: Plugin has been moved into 3rd party pack.
+WP Ultimate Recipe: Added support for recipe instruction images.
+
+All packs now have RedHat / CentOS SSL workaround for updates automatically enabled.
+
+28.4 20160317
+
+<a href="https://plainviewplugins.com/threewp-broadcast-premium-pack/hreflang-broadcast-plugin/">Hreflang</a>: Plugin added. Adds support for <a href="https://en.wikipedia.org/wiki/Hreflang">SEO-friendly hreflang html tags</a>.
+
+28.3 20160309
+
+<a href="https://plainviewplugins.com/threewp-broadcast-premium-pack/rebroadcast-broadcast-plugin/">Rebroadcast</a>: Plugin added. Rebroadcast / update selected parent posts by using a bulk action.
+UBS: Escape the blog names in the meta box settings.
+
+28.2 20160301
+
+ACF: Fix warning when trying to parse fields without values.
+Comments: Fixed bug where comments are blocked on unlinked posts, but with syncing enabled.
+EventOn: Fix error by checking that the event is using tickets.
+EventOn: Add support for proper broadcasting of the location and organizer.
+GeoDirectory: Code fix: Use terms() instead of obsolete equivalent_terms() method.
+Thumbnail Sizes: Fix error when no sizes are set.
+
+28.1 20160208
+
+Activity Monitor: Update compatability with hook class.
+Post Expirator: Plugin added. Adds support for Aaron Axelsen's <a href="https://wordpress.org/plugins/post-expirator/">Post Expirator</a> plugin.
+
+28 20160118
+
+EventON: Plugin added. Adds support for Ashan Jay's <a href="http://www.myeventon.com/">EventON</a> plugin with tickets.
+
+27.2 20151215
+
+SiteOrigin Page Builder: Plugin added. Adds support for <a href="https://wordpress.org/plugins/siteorigin-panels/">SiteOrigin's Page Builder plugin</a>.
+User & Blog Settings Post: Fix fatal error.
+
+27.1 20151209
+
+ACF: Fix flexible field images for ACF v4. Apparently images in flexfields did not work correctly. ACF v5 untouched.
+Protect Child Properties: Allow protection for post parent.
+
+27 20151124
+
+Attachment Shortcodes: Allow parsing of shortcodes that incorrectly use single apostrophies instead of the official double.
+Avia Layout Builder: Plugin added.
+Blog Groups 2: Add method for other plugins to quickly select blogs from blog select inputs.
+CDN Workaround: Plugin added.
+PHP Code: Plugin added.
+Protect Child Attachments / Author / Content / Status: Obsolete plugins removed.
+Update Attachments: Plugin added.
+UBS: Apply post type criteria to wp-admin/edit.php address also.
+
+26.2 20151104
+
+ACF: Removed taxonomy fields support for non-pro versions of ACF.
+
+26.1 20151103
+
+Back To Parent: Fix warning about fake variable.
+Protect Child Properties: Fix string warnings.
+WooCommerce: Fix broadcasting products. Asking WooCommerce to return a product is not a good enough check, it has to be checked manually.
+
+26 20151102
+
+bbPress: Plugin added. Adds support for <a href="https://wordpress.org/plugins/bbpress/">BBPress</a> forums, topics and replies.
+Protect Child Attachments / Author / Content / Status: This is the last time these obsolete plugins will be seen in the pack. Use Protect Child Properties instead.
+Thumbnail Sizes: Plugin added. The plugin allows for different additional thumbnail sizes on a per-blog basis.
+User & Blog Settings: Fix harmless error_log warnings when creating or removing a modification.
+
+25 20151024
+
+ACF: Check for empty repeater values.
+ACF: Do not broadcast empty relations.
+Sync Taxonomies: Recorder added. Record taxonomy changes and replay them on other blogs in order to mass-create / edit / delete terms with just a few clicks.
+WooCommerce: Completely ignore all non-products, minimizing risk for unneccessary warnings.
+
+24 20151009
+
+ACF: Simplified repeater field handling.
+GeoDirectory: Plugin added.
+
+23.4 20151003
+
+FooGallery: Plugin added.
+TEC: Support for Additional Fields.
+
+23.3 20150909
+
+Blog Groups 2: Clone fatal error fixed.
+Blog Groups 2: Fixed bug where only the first group was displayed when several groups had the same blogs selected.
+Duplicate Attachments: Fix file path when duplicating.
+GEO My WP: Plugin added.
+
+23.2 20150901
+
+ACF: Fix warning when encountering empty repeaters in repeaters.
+ACF: Allow using taxonomy term objects as well as term IDs.
+TablePress: Add support for tables with non-integer IDs.
+TEC: Remove unneccessary meta box info.
+WooCommerce: Add support for "German Market" plugin delivery times.
+WooCommerce: Add support for cross-sells and upsells. The product(s) have to already exist on the child blog and be linked in order to be detected.
+WooCommerce: Stock status is better updated on broadcasting due to clearing of WooCommerce transients.
+
+23.1 20150804
+
+Views: Fix fatal error trying to call non-object custom_fields.
+
+23 20150803
+
+All In One Event Calendar: Removed text at the bottom of the meta box.
+Back To Parent: Fix duplicate posts by using the new *_post_broadcast_data actions.
+Event Organiser: Removed text at the bottom of the meta box.
+Global Content Blocks: Plugin added.
+Metaslider: Plugin added.
+Views: Removed text at the bottom of the meta box.
+WPML: Updated plugin to be able to broadcast translations with unpatched WPML v3.1.9.7. Working with the translation manager still requires a patch.
+WPML: Force same slug for child posts in different languages.
+
+22.1 20150724
+
+ACF: Fix add_attachment fatal error.
+Permlinks: Fix continue error during broadcasting.
+
+22 20150721
+
+All In One Event Calendar: Remove unnecessary warning about return_registry().
+New Blog Broadcast: Plugin added.
+Per Blog Taxonomies: Fixed "too much memory" error on some installs when saving the settings.
+Sync Taxonomies: Fix fatal error caused by not updating ST to use the new API.
+TablePress: Plugin added.
+The Events Calendar: Updated to support v3.10.1
+WooCommerce: Add support for product category images. The images are updated only when broadcasting a product with those product categories set.
+WooCommerce: Add support for attribute images, as provided by Variation Swatches and Photos.
+WooCommerce: Force term recount after Broadcast. This fixes the problem of product categories not being visible sometimes.
+
+21 20150705
+
+All Blogs: Cache is now cleared upon creating new blogs. No more need for the cache clearing extra.
+Queue: Manual processing of queue in debug mode forces broadcast of the item. Time limits are ignored.
+Views: More debug info.
+
+20.1 20150614
+
+Delete Before Broadcast: Added option to unlink children.
+Protect Child Author / Attachments / Content / Status: Marked as obsolete. Use Protect Child Properties instead.
+Protect Child Properties: Fix bug when no properties are selected and queue is used.
+
+20 20150609
+
+ACF: Delete blacklisted custom fields, and those fields in repeaters.
+ACF: Handle single taxonomy values also.
+ACF: Ignore repeater fields that have no values.
+ACF: Ignore taxonomy fields that have no values.
+Blog Groups 2: Select All / Invert / None functionality added.
+Delete Before Broadcast: Add "delete same slug" and "delete similar slugs" options.
+User & Blog Settings: Fix error on line 155 when saving modifications.
+
+19.3 20150524
+
+Find Some Unlinked Children: Exclude presumtive children that have parents or children.
+
+19.2 20150522
+
+ACF: Fix fatal error message when using taxonomy terms that aren't set in the post itself.
+
+19.1 20150521
+
+Fix error message in Local Links and Keep Child Status.
+
+19 20150519
+
+ACF: Skip fields that are in the custom field blacklist and the protect list.
+All Blogs: New extra: Clear All Blogs Cache plugin to clear the all blogs cache when creating new sites.
+Attachment Shortcodes: Better handling of nested shortcodes. More robust shortcode handling.
+Delete Before Broadcast: Plugin added.
+Protect Child Properties: Plugin added.
+Protect Child Attachments: Obsolete due to Protect Child Properties plugin.
+Protect Child Author: Obsolete due to Protect Child Properties plugin.
+Protect Child Content: Obsolete due to Protect Child Properties plugin.
+Protect Child Status: Obsolete due to Protect Child Properties plugin.
+User & Blog Settings: Better cleaning up of criteria after modification deletion.
+WooCommerce: Two new extras: stock and PDF vouchers can be automatically synced between parents / children upon each purchase. See the extras directory.
+
+18.1 20150414
+
+ACF: Fix fatal error when using relationships.
+Polylang: Pre-emptive fix: Clear language cache after finish broadcasting.
+
+18 20150412
+
+ACF: Repeater fields can contain repeater fields.
+ACF: Fix for empty flexible layouts.
+ACF: Add support for ACF Pro v5 field groups.
+All Blogs: Cache is updated when blogs are created / deleted / undeleted.
+Blog Groups 2: Plugin added.
+Protect Child Author: Plugin added.
+Queue: HTTP processing now allows to processing of queue via cron job.
+The Events Calendar: Syncing of calendar events enabled again.
+New extra: WP Ultimate Recipe compatability plugin. See extras directory.
+WooCommerce: More efficient variation handling - they are no longer automatically deleted upon broadcast.
+
+17.1 20150219
+
+ACF: Add page link type.
+ACF: Fix gallery, relationship, post object types not being handled correctly.
+
+17 20150216
+
+ACF: File / image fields with URLs now work.
+ACF: Plugin offers lots of hookable actions.
+Find Some Unlinked Children: Plugin added.
+Queue: More debug info when queueing posts.
+Social Networks Auto Poster: Plugin added.
+User Blog Settings: Fix upgrade path: the new criteria table is created before trying to convert old criteria.
+User Blog Settings: New UI for modification editing.
+User Blog Settings: Post bulk actions can now be hidden in modifications.
+User Blog Settings: Summary view gives an overview of all of the modifications made.
+
+16 20150116
+
+Comments: Hierarchy is preserved.
+Comments: Automatic syncing of linked posts.
+Duplicate Attachments: Plugin added. Copying of attachments can be exponentially speeded up by using this plugin, which duplicates attachment and thumbnails from the parent blog instead of regenerating them.
+User & Blog Settings: Automatically clean up orphaned criteria.
+User & Blog Settings: More robust detection of post types.
+User & Blog Settings: "On" for checkboxes no longer forces the checkbox to be ticked.
+
+15 20141218
+
+No New Terms: Plugin added.
+Queue: Add conflict check when marking queue as finished.
+Send To Many: Remove reference to obsolete js.js
+User Blog Settings: Fix display of selected users.
+
+14 20141210
+
+Lock Posts: Plugin added.
+Menus: Add option to replace domain URL with that of child blog.
+Back To Parent: Ignore revision post type.
+
+13.1 20141202
+
+Queue: Fixed debugging() error.
+User & Blog Settings: Major update with far superior criteria control such as post types and taxonomy terms (specific categories, for example). See new, detailed manual here: <a href="http://plugins.plainview.se/threewp-broadcast-premium-pack/user-blog-settings-broadcast-plugin/">http://plugins.plainview.se/threewp-broadcast-premium-pack/user-blog-settings-broadcast-plugin/</a>
+
+13 20141201
+
+Polylang: Plugin added.
+All Blogs Superadmin: Plugin added. Allows only superadmins broadcast access to all blogs.
+ACF: Flexible fields can handle more complicated layouts now. Credit tobias@bombayworks.se
+Custom Field Attachments: Find IDs in all fields and try to unserialize fields.
+Per Blog Taxonomies: Fix javascript.
+Permalinks: Fix javascript.
+
+12 20141109
+
+Send To Many supports new bulk actions
+Purge Children supports new post and bulk actions
+
+11 20141029
+
+ACF: Taxonomy fields are now supported.
+The Events Calendar: Plugin added.
+WooCommerce: Code fix: Use generic way of creating new broadcasting data when broadcasting variations.
+
+10 20141020
+
+Menus: Plugin added.
+
+9 20141017
+
+ACF: Fix fatal error for post objects.
+
+8 20141013
+
+Plugins are loaded by classnames instead of exact filenames. Check that your plugins are activated after the upgrade.
+Permalink settings are clearer (separated fieldsets for global and local).
+ACF: Repeater field supports galleries and relationships.
+Protect Child Status: Plugin added.
+WPML: Do not broadcast to blogs that do not have the post's language enabled.
+Comments, Protect Child Attachments / Content / Status: fixed fatal error when plugin is enabled with items in the queue.
+
+7 20140923
+
+ACF: Relationship / object loop prevention.
+ACF: Extra checking for relationships.
+ACF: Add ACF to custom post types automatically.
+
+6 20140909
+
+Back To Parent: Plugin added.
+WooCommerce: Attribute taxonomies are created / updated on each child blog.
+
+5 20140830
+
+Hide information from non-network admins.
+Queue: More debug information.
+Queue: Whole posts can be deleted from the queue, instead of just single items.
+All Blogs: Speeup using caching.
+User & Blog Settings Post: Speedup using caching.
+Custom Field Attachments: Better attachment validity checking.
+WPML: Only broadcast translation manager jobs to those blogs that have the job's language.
+
+4 20140814
+
+Renamed "Keep Child Attachments" to "Protect Child Attachments"
+User & Blog Settings Post: Plugin added.
+Redirect All Children: Plugin added.
+Protect Child Content: Plugin added.
+All In One Calendar: Plugin added.
+
+3 20140708
+
+User & Blog Settings: Select boxes can now just have their values set.
+Keep Child Attachments: Plugin added.
+LocalLinks: Disable warnings when loading incorrect HTML.
+
+2.24 20140615
+
+Better support for Windows servers.
+ACF: Added support for galleries.
+WooCommerce: Variation pricing correctly broadcasted.
+ACF: Added support for relationships.
+
+2.23 20140520
+
+Comments: Plugin added.
+Activity Monitor: Plugin added.
+
+2.21 20140422
+
+Custom Field Attachments: Automatically parses multiple attachment IDs in the same custom field, using non-numbers as separators.
+Purge Children: Plugin added.
+Queue: Fix bug where the last items are sometimes not queued.
+Local Links: Fixed incompatability with Queue.
+
+2.20 20140412
+
+Event Organiser: Can update event venues when syncing using Sync Taxonomies.
+Sync Taxonomies: Plugin added.
+New: Plugins combined into one big premium plugin that enables the various speciality plugins.
+Custom Field Attachments: Plugin added.
+
+2.19 20140402
+
+ACF: Support for post objects and files.
+Event Organiser: Fix broadcast of event date.
+
+2.18 20140314
+
+Attachment Shortcodes: Plugin added.
+Event Organiser: Plugin added.
+ACF: New: "Flexible content" field images are correctly copied.
+
+2.15 20140123
+
+ACF: Fix: same attachment can be used in several image fields.
+ACF: Also handles images in repeater fields.
+ACF: Added compatability with newer versions of ACF that return arrays instead of values.
+
+2.14 20140117
+
+Queue: Requires even less memory due to optimizations.
+User Blog Settings: Increased compatability with Keep Child Status
+
+2.12 20140112
+
+All Blogs: Plugin added.
+Send To Many: Compatability with new Broadcast version, fixed missing HTML file.
+Keep Child Status: Fatal error line 209 fixed.
+Queue: Round robin, more robustness, fatal errors are displayed.
+
+2.11 20131218
+
+Queue: Retry countdown. Better retry handling.
+Queue: More reliable javascript queuing (ignore unnecessary warnings from other plugins).
+Per Blog Taxonomies: Plugin added.
+Permalinks: Plugin added.
+Queue: Javascripts informs of errors.
+
+2.10 20131121
+
+WooCommerce: Plugin added.
+Added "Premium" to plugin names.
+
+2.9 20131113
+
+KeepChildStatus: Plugin added.
+UserBlogSettings: Fixed CSS display when testing.
+UserBlogSettings: Stricter application of criteria.
+UserBlogSettings: Nicer display of blog names with special characters.
+UserBlogSettings: Apply JS in the preview box.
+Views: Fix for removed added_meta_box action.
+UserBlogSettings: Added support for select modifications.
+UserBlogSettings: Note about current blog not being visible.
+
+2.7 20131101
+
+Advanced Custom Fields: Plugin added.
+SendToMany: Fixed send to many button - using new prepare action.
+
+2.6 20131028
+
+Local Links: Plugin added.
+
+2.4 20131018
+
+User & Blog Settings: Plugin added.
+
+2.3 20131011
+
+Send To Many: Plugin added.
+Queue: Added process data caching.
+
+2.2 20131007
+
+Views: Plugin added.
+
+2.0 20131006
+
+Initial release to coincide with Broadcast 2.0.
+Queue: Plugin added.

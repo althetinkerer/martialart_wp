@@ -1,0 +1,3619 @@
+#: trunk/src/media_cleanup/Media_Cleanup.php:218
+#, php-format
+msgid "%d results were found. Use the %sResults tab%s to view and clean up the results."
+msgstr ""
+
+#. How many actions are in the recording
+#: trunk/src/sync_taxonomies/recordings_trait.php:282
+#, php-format
+msgid "%s actions"
+msgstr ""
+
+#: trunk/src/blog_groups/Blog_Groups_2.php:377
+#, php-format
+msgid "%s blogs selected"
+msgstr ""
+
+#. x display settings modified
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:822
+#, php-format
+msgid "%s display settings"
+msgstr ""
+
+#. Select label: Category is set manually
+#: trunk/src/per_blog_taxonomies/Per_Blog_Taxonomies.php:333
+#, php-format
+msgid "%s is"
+msgstr ""
+
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:792
+#, php-format
+msgid "%s meta box settings"
+msgstr ""
+
+#. x post bulk actions are hidden from the user
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:804
+#, php-format
+msgid "%s post bulk actions hidden"
+msgstr ""
+
+#. ITEMTYPE to broadcast
+#. POSTTYPE to broadcast
+#. ITEMTYPE to broadcast
+#: trunk/src/classes/broadcast_generic_option_ui_trait.php:33
+#: trunk/src/classes/broadcast_generic_post_ui_trait.php:38
+#: trunk/src/classes/broadcast_things_ui_trait.php:31
+#, php-format
+msgid "%s to broadcast"
+msgstr ""
+
+#: trunk/src/event_organiser/Event_Organiser.php:147
+#, php-format
+msgid "%s: Venues can only be broadcasted, not updated."
+msgstr ""
+
+#: trunk/src/queue/Queue.php:88
+#, php-format
+msgid "%sURL%s"
+msgstr ""
+
+#. 1 display setting modified
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:818
+msgid "1 display setting"
+msgstr ""
+
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:789
+msgid "1 meta box settings"
+msgstr ""
+
+#. 1 post bulk action is hidden from the user
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:800
+msgid "1 post bulk action hidden"
+msgstr ""
+
+#. The name of the PHP code wizard group.
+#: trunk/src/toolset/Toolset.php:45
+msgid "3rd party plugins"
+msgstr ""
+
+#: trunk/src/thumbnail_sizes/Thumbnail_Sizes.php:45
+msgid "<code>160x100,left,top</code>"
+msgstr ""
+
+#: trunk/src/thumbnail_sizes/Thumbnail_Sizes.php:39
+msgid "<code>320x200</code> Width 320, height 200, soft proportional crop"
+msgstr ""
+
+#: trunk/src/thumbnail_sizes/Thumbnail_Sizes.php:47
+msgid "<code>400x200,right,bottom</code>"
+msgstr ""
+
+#: trunk/src/thumbnail_sizes/Thumbnail_Sizes.php:43
+msgid "<code>640x200,center,center</code> Same as above, with x_crop_position and then y_crop_position"
+msgstr ""
+
+#: trunk/src/thumbnail_sizes/Thumbnail_Sizes.php:41
+msgid "<code>640x480,c</code> Hard crop mode"
+msgstr ""
+
+#. Recording name input description
+#: trunk/src/sync_taxonomies/recordings_trait.php:24
+msgid "A descriptive name that is only visible to the admin."
+msgstr ""
+
+#. Setting textarea input title
+#: trunk/src/custom_field_attachments/Custom_Field_Attachments.php:35
+msgid "A list of custom field names. One field per line."
+msgstr ""
+
+#: trunk/src/queue/Queue.php:374
+msgid "A maximum amount of queue items to process each time the HTTP process URL is called. Set this limit to 1 if you have very, very large posts. Works in conjunction with the PHP timeout value, so the Queue will look first at this limit, then the time limit."
+msgstr ""
+
+#: trunk/src/blog_groups/Blog_Groups_2.php:336
+msgid "A new blog group has been added!"
+msgstr ""
+
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:381
+#, php-format
+msgid "A new modification, %s, has been created."
+msgstr ""
+
+#: trunk/src/sync_taxonomies/recordings_trait.php:227
+#, php-format
+msgid "A new recording, %s, has been created."
+msgstr ""
+
+#: trunk/src/shortcodes/Shortcodes.php:238
+msgid "A new shortcode has been created!"
+msgstr ""
+
+#: trunk/src/search_and_replace/Search_And_Replace.php:183
+#, php-format
+msgid "A new term, %s, has been created."
+msgstr ""
+
+#: trunk/src/sync_taxonomies/recordings_trait.php:140
+msgid "A recording keeps track of changes to a taxonomy. Use the bulk actions to manipulate the recordings and the recording links to edit, view or replay."
+msgstr ""
+
+#: trunk/src/queue/Queue.php:101
+#, php-format
+msgid "A suggested setup for your Cpanel cron jobs is: once every minute or so, command%s"
+msgstr ""
+
+#. Input title for enabling the queue
+#: trunk/src/queue/Queue.php:355
+msgid "Accept new items into the queue."
+msgstr ""
+
+#. Input label for enabling the queue
+#: trunk/src/queue/Queue.php:357
+msgid "Accept posts into queue"
+msgstr ""
+
+#. View recording table header, action hook name
+#. How to broadcast the sidebars
+#. How to broadcast the selected widgets.
+#: trunk/src/sync_taxonomies/recordings_trait.php:311
+#: trunk/src/widgets/Widgets.php:128 trunk/src/widgets/Widgets.php:250
+msgid "Action"
+msgstr ""
+
+#. Fieldset label
+#. Table column heading
+#: trunk/src/toolset/Toolset.php:465
+#: trunk/src/sync_taxonomies/recordings_trait.php:170
+msgid "Actions"
+msgstr ""
+
+#: trunk/src/thumbnail_sizes/Thumbnail_Sizes.php:64
+msgid "Add all sizes found on this blog"
+msgstr ""
+
+#. Tab heading
+#: trunk/src/per_blog_taxonomies/Per_Blog_Taxonomies.php:95
+msgid "Add more taxonomies"
+msgstr ""
+
+#. Fieldset label
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:216
+msgid "Add new criterion"
+msgstr ""
+
+#. Label for taxonomies selection. Wizard for adding taxonomies to the settings.
+#: trunk/src/new_blog_broadcast/New_Blog_Broadcast.php:220
+msgid "Add taxonomies wizard"
+msgstr ""
+
+#. Button
+#: trunk/src/per_blog_taxonomies/Per_Blog_Taxonomies.php:145
+msgid "Add the checked taxonomies to the list in the settings"
+msgstr ""
+
+#. Button text
+#: trunk/src/php_code/PHP_Code.php:191
+msgid "Add the selected example"
+msgstr ""
+
+#. Add some broadcast information.
+#: trunk/src/send_to_many/Send_To_Many.php:161
+#, php-format
+msgid "After selecting the blogs to which you want to broadcast the selected %s posts, press the Send To Many button."
+msgstr ""
+
+#: trunk/src/new_blog_broadcast/Broadcast.php:63
+msgid "All posts with children from the source blogs."
+msgstr ""
+
+#: trunk/src/shortcodes/Shortcodes.php:245
+msgid "All shortcodes on this blog have been removed."
+msgstr ""
+
+#: trunk/src/user_blog_settings/db/criterion.php:49
+msgid "All users on all blogs."
+msgstr ""
+
+#. Input title
+#: trunk/src/queue/Queue.php:369
+msgid "Allow the queue to be processed via HTTP calls."
+msgstr ""
+
+#. Parent permalinks: always
+#. Child permalinks: always
+#. Parent permalinks: always
+#. Child permalinks: always
+#. Parent permalink: Always use own permalink
+#. Child permalink: xxx
+#: trunk/src/permalinks/Permalinks.php:54
+#: trunk/src/permalinks/Permalinks.php:67
+#: trunk/src/permalinks/Permalinks.php:83
+#: trunk/src/permalinks/Permalinks.php:96
+#: trunk/src/permalinks/Permalinks.php:213
+#: trunk/src/permalinks/Permalinks.php:253
+msgid "Always use own permalink"
+msgstr ""
+
+#: trunk/src/send_to_many/Send_To_Many.php:139
+#: trunk/src/find_some_unlinked_children/Find_Some_Unlinked_Children.php:122
+#, php-format
+msgid "An error occured: Could not retrieve the first selected post: %s"
+msgstr ""
+
+#. Input description
+#: trunk/src/activity_monitor/Activity_Monitor.php:157
+msgid "An optional caption at the top of the page."
+msgstr ""
+
+#. Table column name
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:399
+msgid "Applies to"
+msgstr ""
+
+#. Apply recording button text
+#: trunk/src/sync_taxonomies/recordings_trait.php:108
+msgid "Apply recording"
+msgstr ""
+
+#. Input title for UBS group criterion
+#: trunk/src/blog_groups/ubs_criteria/blog_group.php:38
+msgid "Apply the modification to blogs appearing in all the selected blog groups."
+msgstr ""
+
+#: trunk/src/search_and_replace/Search_And_Replace.php:87
+msgid "Apply the term only on these blogs. To apply the term on all blogs, leave all of the blogs unselected."
+msgstr ""
+
+#. Input label
+#: trunk/src/attachment_control/Attachment_Control.php:72
+msgid "Attachment control"
+msgstr ""
+
+#. Protect child property:
+#: trunk/src/protect_child_properties/item.php:25
+msgid "Attachments"
+msgstr ""
+
+#. Protect child property:
+#: trunk/src/protect_child_properties/item.php:33
+msgid "Author"
+msgstr ""
+
+#. Input label
+#: trunk/src/queue/Queue.php:364
+msgid "Automatic AJAX processing"
+msgstr ""
+
+#. Input title
+#: trunk/src/queue/Queue.php:362
+msgid "Automatically process the queue items using AJAX calls in the clients."
+msgstr ""
+
+#. Table column name
+#: trunk/src/media_cleanup/Media_Cleanup.php:53
+msgid "Blog"
+msgstr ""
+
+#. Blog Test1 (123) has 12 shortcodes
+#: trunk/src/shortcodes/Shortcodes.php:88
+#, php-format
+msgid "Blog %s (%d) has %d shortcodes."
+msgstr ""
+
+#: trunk/src/user_blog_settings/db/criterion.php:27
+#, php-format
+msgid "Blog %s does no longer exist."
+msgstr ""
+
+#. Name of blog groups UBS criterion
+#: trunk/src/blog_groups/ubs_criteria/blog_group.php:77
+msgid "Blog Groups"
+msgstr ""
+
+#. Input label in meta box
+#. Input label for quick blog selection input
+#: trunk/src/blog_groups/Blog_Groups_2.php:107
+#: trunk/src/blog_groups/Blog_Groups_2.php:657
+msgid "Blog groups"
+msgstr ""
+
+#. Menu item name
+#: trunk/src/blog_groups/Blog_Groups_2.php:81
+#: trunk/src/blog_groups/Blog_Groups_2.php:83
+msgid "Blog groups 2"
+msgstr ""
+
+#. Blog languges fieldset label
+#: trunk/src/hreflang/Hreflang.php:248
+msgid "Blog languages"
+msgstr ""
+
+#. Fieldset label
+#: trunk/src/search_and_replace/Search_And_Replace.php:84
+msgid "Blog selection"
+msgstr ""
+
+#. Blogs selector fieldset label.
+#. Blog selection input label
+#. Input label
+#. Blogs selector fieldset label.
+#. Blog selection input label
+#. Blogs selector fieldset label.
+#. Blog selection input label
+#. Blogs selector fieldset label.
+#. Blog selection input label
+#. Input label
+#. Table heading for blogs column
+#: trunk/src/media_cleanup/Media_Cleanup.php:158
+#: trunk/src/media_cleanup/Media_Cleanup.php:165
+#: trunk/src/shortcodes/Shortcodes.php:70 trunk/src/toolset/Toolset.php:457
+#: trunk/src/sync_taxonomies/Sync_Taxonomies.php:69
+#: trunk/src/menus/Menus.php:150 trunk/src/menus/Menus.php:286
+#: trunk/src/php_code/PHP_Code.php:141 trunk/src/php_code/PHP_Code.php:148
+#: trunk/src/widgets/Widgets.php:137 trunk/src/widgets/Widgets.php:144
+#: trunk/src/widgets/Widgets.php:259 trunk/src/widgets/Widgets.php:266
+#: trunk/src/classes/broadcast_generic_option_ui_trait.php:53
+#: trunk/src/classes/broadcast_generic_post_ui_trait.php:58
+#: trunk/src/classes/broadcast_things_ui_trait.php:47
+#: trunk/src/blog_groups/Blog_Groups_2.php:211
+#: trunk/src/blog_groups/Blog_Groups_2.php:293
+msgid "Blogs"
+msgstr ""
+
+#: trunk/src/new_blog_broadcast/Broadcast.php:58
+#, php-format
+msgid "Blogs: %s"
+msgstr ""
+
+#. Sync comments in both directions option
+#: trunk/src/comments/Comments.php:260
+msgid "Both directions"
+msgstr ""
+
+#: trunk/src/geodirectory/Geodirectory.php:79
+msgid "Both ways"
+msgstr ""
+
+#. Label for the menu
+#. Tab name
+#. Menu item for menu
+#. Page title for menu
+#: trunk/src/pods/Pods.php:66 trunk/src/shortcodes/Shortcodes.php:142
+#: trunk/src/toolset/Toolset.php:129 trunk/src/toolset/Toolset.php:131
+msgid "Broadcast"
+msgstr ""
+
+#. NBB broadcast NAME has
+#: trunk/src/new_blog_broadcast/New_Blog_Broadcast.php:103
+#, php-format
+msgid "Broadcast %s has been created!"
+msgstr ""
+
+#. Broadcast NAME_OF_NBB ... from BLOGNAME ... be broadcasted: POST_IDS
+#: trunk/src/new_blog_broadcast/New_Blog_Broadcast.php:78
+#, php-format
+msgid "Broadcast %s says that from %s the following posts would be broadcasted: %s"
+msgstr ""
+
+#. Page heading
+#: trunk/src/toolset/Toolset.php:151
+msgid "Broadcast Content Templates"
+msgstr ""
+
+#. Page title for menu
+#: trunk/src/custom_field_attachments/Custom_Field_Attachments.php:163
+msgid "Broadcast Custom Field Attachments"
+msgstr ""
+
+#. Page heading
+#: trunk/src/toolset/Toolset.php:168
+msgid "Broadcast Field Groups"
+msgstr ""
+
+#. Page title for menu
+#: trunk/src/keep_child_status/Keep_Child_Status.php:108
+msgid "Broadcast Keep Child Status"
+msgstr ""
+
+#. Page heading
+#: trunk/src/shortcodes/Shortcodes.php:140
+msgid "Broadcast Local Shortcodes"
+msgstr ""
+
+#. Menu page title
+#: trunk/src/media_cleanup/Media_Cleanup.php:455
+msgid "Broadcast Media Cleanup"
+msgstr ""
+
+#. Page heading name
+#: trunk/src/media_cleanup/Media_Cleanup.php:255
+msgid "Broadcast Media Cleanup - Search Results"
+msgstr ""
+
+#. Page heading name
+#: trunk/src/media_cleanup/Media_Cleanup.php:247
+msgid "Broadcast Media Cleanup - Search for unused media"
+msgstr ""
+
+#. Menu page title
+#: trunk/src/php_code/PHP_Code.php:260
+msgid "Broadcast PHP Code"
+msgstr ""
+
+#. Page title for menu
+#: trunk/src/per_blog_taxonomies/Per_Blog_Taxonomies.php:174
+msgid "Broadcast Per Blog Taxonomies"
+msgstr ""
+
+#. Page title for menu
+#: trunk/src/permalinks/Permalinks.php:160
+msgid "Broadcast Permalinks"
+msgstr ""
+
+#. Page heading
+#: trunk/src/pods/Pods.php:37
+msgid "Broadcast Pods"
+msgstr ""
+
+#. Settings page header
+#: trunk/src/polylang/Polylang.php:118
+msgid "Broadcast Polylang Settings"
+msgstr ""
+
+#. Page heading
+#: trunk/src/toolset/Toolset.php:192
+msgid "Broadcast Post Forms"
+msgstr ""
+
+#. Page heading
+#: trunk/src/toolset/Toolset.php:175
+msgid "Broadcast Post Types"
+msgstr ""
+
+#. Page title for menu
+#: trunk/src/queue/Queue.php:590
+msgid "Broadcast Queue"
+msgstr ""
+
+#. Page title for menu
+#: trunk/src/search_and_replace/Search_And_Replace.php:318
+msgid "Broadcast Search & Replace"
+msgstr ""
+
+#. Page title for menu
+#: trunk/src/send_to_many/Send_To_Many.php:197
+msgid "Broadcast Send To Many"
+msgstr ""
+
+#. Page title for menu
+#: trunk/src/shortcodes/Shortcodes.php:275
+msgid "Broadcast Shortcodes"
+msgstr ""
+
+#. Tab name
+#: trunk/src/widgets/Widgets.php:37
+msgid "Broadcast Sidebar Widgets"
+msgstr ""
+
+#. Tab name
+#: trunk/src/widgets/Widgets.php:30
+msgid "Broadcast Sidebars"
+msgstr ""
+
+#. Page title for menu
+#: trunk/src/sync_taxonomies/Sync_Taxonomies.php:178
+msgid "Broadcast Sync Taxonomies"
+msgstr ""
+
+#. Page heading
+#: trunk/src/toolset/Toolset.php:182
+msgid "Broadcast Taxonomies"
+msgstr ""
+
+#. Page title for menu
+#: trunk/src/thumbnail_sizes/Thumbnail_Sizes.php:162
+msgid "Broadcast Thumbnail sizes"
+msgstr ""
+
+#. Page title for menu
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:600
+msgid "Broadcast User & Blog Settings"
+msgstr ""
+
+#. Page heading
+#: trunk/src/toolset/Toolset.php:199
+msgid "Broadcast User Forms"
+msgstr ""
+
+#: trunk/src/user_role_sync/User_Role_Sync.php:150
+msgid "Broadcast User Role Sync"
+msgstr ""
+
+#. Page heading
+#: trunk/src/toolset/Toolset.php:158
+msgid "Broadcast Views"
+msgstr ""
+
+#. Tab name
+#: trunk/src/widgets/Widgets.php:44
+msgid "Broadcast Widgets Documentation"
+msgstr ""
+
+#. Tab name
+#: trunk/src/widgets/Widgets.php:51
+msgid "Broadcast Widgets Status"
+msgstr ""
+
+#. Input label
+#: trunk/src/learndash/LearnDash.php:127
+msgid "Broadcast afterwards"
+msgstr ""
+
+#. Input label
+#: trunk/src/woocommerce/WooCommerce.php:126
+msgid "Broadcast and sync orders"
+msgstr ""
+
+#. Button to start the manual broadcast
+#: trunk/src/new_blog_broadcast/New_Blog_Broadcast.php:347
+msgid "Broadcast now"
+msgstr ""
+
+#. Primary button
+#: trunk/src/widgets/Widgets.php:152
+msgid "Broadcast selected sidebars"
+msgstr ""
+
+#. Primary button
+#: trunk/src/widgets/Widgets.php:274
+msgid "Broadcast selected widgets"
+msgstr ""
+
+#. Input description
+#: trunk/src/learndash/LearnDash.php:125
+msgid "Broadcast the modified questions to existing child blogs."
+msgstr ""
+
+#. Select option for when there is no language on the blog
+#: trunk/src/polylang/Polylang.php:94
+msgid "Broadcast the post in the blog's default language"
+msgstr ""
+
+#: trunk/src/activity_monitor/Activity_Monitor.php:170
+msgid "Broadcast time savings"
+msgstr ""
+
+#: trunk/src/widgets/Widgets.php:105
+msgid "Broadcast your sidebars to other blogs. For this to work each blog must have the same theme or sidebar IDs."
+msgstr ""
+
+#: trunk/src/widgets/Widgets.php:219
+msgid "Broadcast your widgets to other blogs. The widget IDs must match the IDs on this blog for the broadcast to work."
+msgstr ""
+
+#: trunk/src/user_blog_settings_post/User_Blog_Settings_Post.php:60
+msgid "Broadcasting..."
+msgstr ""
+
+#. Input label
+#: trunk/src/new_blog_broadcast/New_Blog_Broadcast.php:323
+msgid "Broadcasts"
+msgstr ""
+
+#. Fieldset label for base settings
+#: trunk/src/activity_monitor/Activity_Monitor.php:153
+msgid "Caption"
+msgstr ""
+
+#. Input label
+#: trunk/src/permalinks/Permalinks.php:249
+msgid "Child permalink"
+msgstr ""
+
+#. Input label for select: What to do with child links
+#: trunk/src/permalinks/Permalinks.php:63
+#: trunk/src/permalinks/Permalinks.php:92
+msgid "Child permalinks"
+msgstr ""
+
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:682
+msgid "Choose which post bulk actions are to be displayed or hidden to the user."
+msgstr ""
+
+#. Bulk action
+#. Bulk action for blog groups
+#: trunk/src/sync_taxonomies/recordings_trait.php:153
+#: trunk/src/blog_groups/Blog_Groups_2.php:285
+msgid "Clone"
+msgstr ""
+
+#. PHP Code fieldset label.
+#: trunk/src/php_code/PHP_Code.php:106
+msgid "Code editor"
+msgstr ""
+
+#: trunk/src/learndash/LearnDash.php:84
+msgid "Columns to process"
+msgstr ""
+
+#: trunk/src/learndash/LearnDash.php:114
+msgid "Columns to search"
+msgstr ""
+
+#. Input label
+#: trunk/src/comments/Comments.php:254
+msgid "Comments sync"
+msgstr ""
+
+#: trunk/src/widgets/Widgets.php:221
+msgid "Compare the output from the status tab on the different blogs to see what matches. Broadcast the sidebar first if the widget IDs do not match."
+msgstr ""
+
+#. Table heading for shortcode content column
+#. Label input for shortcode content
+#. Protect child property:
+#: trunk/src/shortcodes/Shortcodes.php:180
+#: trunk/src/shortcodes/Shortcodes.php:320
+#: trunk/src/protect_child_properties/item.php:41
+msgid "Content"
+msgstr ""
+
+#. Tab name
+#: trunk/src/toolset/Toolset.php:153
+msgid "Content Templates"
+msgstr ""
+
+#. Copy ITEM button
+#: trunk/src/classes/broadcast_generic_option_ui_trait.php:87
+#: trunk/src/classes/broadcast_generic_post_ui_trait.php:108
+#: trunk/src/classes/broadcast_things_ui_trait.php:81
+#, php-format
+msgid "Copy %s"
+msgstr ""
+
+#. Copy PLUGINNAME settings
+#: trunk/src/classes/copy_options_trait.php:193
+#, php-format
+msgid "Copy %s settings"
+msgstr ""
+
+#. Tab name
+#: trunk/src/menus/Menus.php:36
+msgid "Copy a menu"
+msgstr ""
+
+#: trunk/src/menus/Menus.php:334
+msgid "Copy menu"
+msgstr ""
+
+#. Input label. Options for broadcasting menus.
+#: trunk/src/menus/Menus.php:321
+msgid "Copy method"
+msgstr ""
+
+#. Copy WooCommerce options from one blog to another.
+#. Button to start copying the settings between blogs
+#: trunk/src/woocommerce/WooCommerce.php:90
+#: trunk/src/classes/copy_options_trait.php:161
+msgid "Copy settings"
+msgstr ""
+
+#. Title for meta box item
+#: trunk/src/local_files/item.php:23
+msgid "Copy the locally linked files to each child blog and update the link."
+msgstr ""
+
+#: trunk/src/learndash/LearnDash.php:190 trunk/src/learndash/LearnDash.php:212
+msgid "Could not find any questions containing that text."
+msgstr ""
+
+#: trunk/src/queue/Queue.php:99
+msgid "Cpanel Cron Job"
+msgstr ""
+
+#. Create button
+#: trunk/src/blog_groups/Blog_Groups_2.php:297
+msgid "Create a new blog group"
+msgstr ""
+
+#. Button
+#: trunk/src/new_blog_broadcast/New_Blog_Broadcast.php:38
+msgid "Create a new broadcast"
+msgstr ""
+
+#. Button
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:230
+msgid "Create a new criterion"
+msgstr ""
+
+#. Create a new modification
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:454
+msgid "Create a new modification"
+msgstr ""
+
+#. Select option: create a new menu item
+#: trunk/src/menus/Menus.php:138
+msgid "Create a new one"
+msgstr ""
+
+#. Create recording button
+#: trunk/src/sync_taxonomies/recordings_trait.php:148
+msgid "Create a new recording"
+msgstr ""
+
+#: trunk/src/shortcodes/Shortcodes.php:200
+#: trunk/src/classes/shortcode_items/Shortcode_Items.php:128
+msgid "Create a new shortcode"
+msgstr ""
+
+#. Create term button
+#: trunk/src/search_and_replace/Search_And_Replace.php:156
+msgid "Create a new term"
+msgstr ""
+
+#. Input label
+#: trunk/src/geodirectory/Geodirectory.php:57
+msgid "Create locations automatically"
+msgstr ""
+
+#. Button
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:348
+msgid "Create modification"
+msgstr ""
+
+#. Create the item
+#: trunk/src/classes/broadcast_generic_option_ui_trait.php:68
+#: trunk/src/classes/broadcast_generic_post_ui_trait.php:73
+#: trunk/src/classes/broadcast_things_ui_trait.php:62
+#, php-format
+msgid "Create the %s"
+msgstr ""
+
+#. What to do if the Toolset field group does not exist.
+#: trunk/src/toolset/Toolset.php:474
+msgid "Create the field group"
+msgstr ""
+
+#. Delete criteria input label
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:265
+msgid "Criteria to delete"
+msgstr ""
+
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:249
+#, php-format
+msgid "Criterion %s: %s"
+msgstr ""
+
+#. Label for taxonomies selection.
+#: trunk/src/new_blog_broadcast/New_Blog_Broadcast.php:212
+msgid "Current taxonomies"
+msgstr ""
+
+#: trunk/src/menus/Menus.php:108
+msgid "Currently using menu"
+msgstr ""
+
+#. Menu item for menu
+#. Meta box title
+#: trunk/src/custom_field_attachments/Custom_Field_Attachments.php:161
+#: trunk/src/custom_field_attachments/Custom_Field_Attachments.php:178
+msgid "Custom Field Attachments"
+msgstr ""
+
+#. Input label
+#. Protect child property:
+#: trunk/src/user_blog_settings/criteria/custom_fields.php:31
+#: trunk/src/media_cleanup/Media_Cleanup.php:144
+#: trunk/src/protect_child_properties/item.php:49
+msgid "Custom fields"
+msgstr ""
+
+#. Parent permalinks: default
+#. Child permalinks: default
+#. Parent permalinks: default
+#. Child permalinks: default
+#: trunk/src/permalinks/Permalinks.php:52
+#: trunk/src/permalinks/Permalinks.php:65
+#: trunk/src/permalinks/Permalinks.php:81
+#: trunk/src/permalinks/Permalinks.php:94
+msgid "Default"
+msgstr ""
+
+#: trunk/src/attachment_control/Attachment_Control.php:73
+msgid "Default behavior"
+msgstr ""
+
+#. Input label
+#: trunk/src/hreflang/Hreflang.php:236
+msgid "Default blog"
+msgstr ""
+
+#. Bulk action for modifications
+#. Queue item action
+#. S&R item action
+#. Bulk action for blog groups
+#. Bulk action
+#. Delete a broadcast, bulk action.
+#. Bulk action for blog groups
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:353
+#: trunk/src/queue/Queue.php:144 trunk/src/media_cleanup/Media_Cleanup.php:48
+#: trunk/src/search_and_replace/Search_And_Replace.php:145
+#: trunk/src/shortcodes/Shortcodes.php:174
+#: trunk/src/sync_taxonomies/recordings_trait.php:155
+#: trunk/src/new_blog_broadcast/New_Blog_Broadcast.php:45
+#: trunk/src/classes/shortcode_items/Shortcode_Items.php:134
+#: trunk/src/blog_groups/Blog_Groups_2.php:287
+msgid "Delete"
+msgstr ""
+
+#: trunk/src/shortcodes/Shortcodes.php:204
+msgid "Delete all shortcodes on this blog"
+msgstr ""
+
+#. Input description
+#: trunk/src/media_cleanup/Media_Cleanup.php:177
+msgid "Delete all unfound media immediately, instead of using the results tab to manually delete each file?"
+msgstr ""
+
+#. Fieldset legend label
+#: trunk/src/delete_before_broadcast/Delete_Before_Broadcast.php:138
+msgid "Delete before broadcast"
+msgstr ""
+
+#. Fieldset label
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:259
+msgid "Delete criteria"
+msgstr ""
+
+#. Input label
+#: trunk/src/media_cleanup/Media_Cleanup.php:179
+msgid "Delete immediately"
+msgstr ""
+
+#. Input title
+#: trunk/src/delete_before_broadcast/Delete_Before_Broadcast.php:159
+msgid "Delete posts with similar slugs"
+msgstr ""
+
+#. Input title
+#: trunk/src/delete_before_broadcast/Delete_Before_Broadcast.php:152
+msgid "Delete posts with the same slug"
+msgstr ""
+
+#. Input title
+#: trunk/src/delete_before_broadcast/Delete_Before_Broadcast.php:145
+msgid "Delete posts with the same title"
+msgstr ""
+
+#. Select option: delete the existing menu item
+#: trunk/src/menus/Menus.php:142
+msgid "Delete the existing item and then create a new one"
+msgstr ""
+
+#. Select option: delete the menu item
+#: trunk/src/menus/Menus.php:140
+msgid "Delete the item"
+msgstr ""
+
+#. Input title.
+#: trunk/src/new_blog_broadcast/New_Blog_Broadcast.php:158
+msgid "Describe this broadcast so that it makes sense to you."
+msgstr ""
+
+#: trunk/src/search_and_replace/Search_And_Replace.php:46
+msgid "Describe this term for yourself."
+msgstr ""
+
+#. S&R table column name
+#. Table header column - item description
+#: trunk/src/search_and_replace/Search_And_Replace.php:47
+#: trunk/src/search_and_replace/Search_And_Replace.php:148
+#: trunk/src/new_blog_broadcast/New_Blog_Broadcast.php:52
+msgid "Description"
+msgstr ""
+
+#: trunk/src/user_role_sync/User_Role_Sync.php:67
+#: trunk/src/classes/copy_options_trait.php:148
+msgid "Destination blogs"
+msgstr ""
+
+#. Input title
+#: trunk/src/wpml/WPML.php:112
+msgid "Disable checking whether the language is active on the child blog. Use this setting if you have hidden languages that WPML reports as non-existing, and therefore Broadcast normally refusing to broadcast to the child."
+msgstr ""
+
+#. Input label
+#: trunk/src/wpml/WPML.php:114
+msgid "Disable language check"
+msgstr ""
+
+#: trunk/src/search_and_replace/Search_And_Replace.php:206
+msgid "Disabled"
+msgstr ""
+
+#. The broadcast setting is disabled.
+#: trunk/src/new_blog_broadcast/Broadcast.php:90
+msgid "Disabled."
+msgstr ""
+
+#. Fieldset label for display settings
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:654
+msgid "Display"
+msgstr ""
+
+#. Input label for bulk post action display setting
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:699
+#, php-format
+msgid "Display %s"
+msgstr ""
+
+#. Tab title
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:512
+msgid "Display a summary of all the modifications combined"
+msgstr ""
+
+#. Input label
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:661
+msgid "Display broadcast columns"
+msgstr ""
+
+#. Input label
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:668
+msgid "Display broadcast menu"
+msgstr ""
+
+#. Input label
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:675
+msgid "Display broadcast meta box"
+msgstr ""
+
+#. Input title
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:659
+msgid "Display the broadcast columns in the post overview showing link information."
+msgstr ""
+
+#. Input title
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:666
+msgid "Display the broadcast menu in the post overview showing link information."
+msgstr ""
+
+#. Input title
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:673
+msgid "Display the broadcast meta box in the post overview showing link information."
+msgstr ""
+
+#. Select option for when there is no language on the blog
+#: trunk/src/polylang/Polylang.php:96
+msgid "Do not broadcast to the blog"
+msgstr ""
+
+#: trunk/src/classes/copy_options_trait.php:156
+msgid "Do not copy any settings, just do a dry run. Best used with debug mode."
+msgstr ""
+
+#. Delete criteria first select option
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:268
+msgid "Do not delete any criteria"
+msgstr ""
+
+#: trunk/src/search_and_replace/Search_And_Replace.php:96
+msgid "Do not run the term on the selected blogs."
+msgstr ""
+
+#: trunk/src/media_cleanup/Media_Cleanup.php:133
+msgid "Do not search post content"
+msgstr ""
+
+#: trunk/src/geodirectory/Geodirectory.php:77
+msgid "Do not sync reviews"
+msgstr ""
+
+#: trunk/src/user_role_sync/User_Role_Sync.php:111
+msgid "Do not sync these users. This will not work together with the user inclusion select."
+msgstr ""
+
+#. Do nothing to this fieldset
+#. What to do with a select input in the meta box
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:996
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:1204
+#: trunk/src/widgets/Widgets.php:129 trunk/src/widgets/Widgets.php:251
+msgid "Do nothing"
+msgstr ""
+
+#: trunk/src/learndash/LearnDash.php:103
+msgid "Do you want only some questions replaced? Fill in the fields below."
+msgstr ""
+
+#. PHP generator howto fieldset label.
+#. Tab name
+#: trunk/src/php_code/PHP_Code.php:159 trunk/src/widgets/Widgets.php:46
+msgid "Documentation"
+msgstr ""
+
+#. Keep child status: As draft
+#: trunk/src/keep_child_status/Keep_Child_Status.php:129
+msgid "Draft"
+msgstr ""
+
+#: trunk/src/classes/copy_options_trait.php:157
+msgid "Dry run"
+msgstr ""
+
+#. Row action: Edit the recording
+#: trunk/src/sync_taxonomies/recordings_trait.php:249
+#: trunk/src/classes/shortcode_items/Shortcode_Items.php:209
+msgid "Edit"
+msgstr ""
+
+#. Tab name for editing a NBB
+#: trunk/src/new_blog_broadcast/New_Blog_Broadcast.php:399
+msgid "Edit broadcast"
+msgstr ""
+
+#. Edit global blog group tab name
+#: trunk/src/blog_groups/Blog_Groups_2.php:525
+msgid "Edit global group"
+msgstr ""
+
+#. Edit blog group tab name
+#: trunk/src/blog_groups/Blog_Groups_2.php:516
+msgid "Edit group"
+msgstr ""
+
+#. Tab name
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:488
+msgid "Edit modification"
+msgstr ""
+
+#. Tab name
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:503
+msgid "Edit modification criteria"
+msgstr ""
+
+#: trunk/src/sync_taxonomies/recordings_trait.php:444
+msgid "Edit recording"
+msgstr ""
+
+#. Tab name
+#: trunk/src/search_and_replace/Search_And_Replace.php:241
+msgid "Edit term"
+msgstr ""
+
+#. Row action label
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:422
+msgid "Edit the criteria"
+msgstr ""
+
+#. Row action title
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:420
+msgid "Edit the criteria used for this modification"
+msgstr ""
+
+#. Row action title
+#. Row action label
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:413
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:415
+msgid "Edit the modification"
+msgstr ""
+
+#. Row action title
+#: trunk/src/sync_taxonomies/recordings_trait.php:247
+msgid "Edit the recording"
+msgstr ""
+
+#: trunk/src/blog_groups/Blog_Groups_2.php:358
+msgid "Edit this blog group"
+msgstr ""
+
+#: trunk/src/new_blog_broadcast/New_Blog_Broadcast.php:118
+msgid "Edit this broadcast setting"
+msgstr ""
+
+#: trunk/src/user_blog_settings/summary_index.php:52
+msgid "Edit this modification"
+msgstr ""
+
+#: trunk/src/shortcodes/Shortcodes.php:190
+msgid "Edit this shortcode"
+msgstr ""
+
+#: trunk/src/search_and_replace/Search_And_Replace.php:201
+msgid "Edit this term"
+msgstr ""
+
+#. Tab heading
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:485
+#, php-format
+msgid "Editing modification %s"
+msgstr ""
+
+#. Tab heading
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:501
+#, php-format
+msgid "Editing modification criteria %s"
+msgstr ""
+
+#: trunk/src/sync_taxonomies/recordings_trait.php:443
+#, php-format
+msgid "Editing recording %s"
+msgstr ""
+
+#. Bulk action
+#: trunk/src/sync_taxonomies/recordings_trait.php:157
+msgid "Empty recording"
+msgstr ""
+
+#: trunk/src/queue/Queue.php:95
+msgid "Enable Broadcast debug mode to see queue activity when visiting the URL. The URL is not IP-restricted or protected in any way, but accessing it will only process the queue so that should not be a problem."
+msgstr ""
+
+#: trunk/src/sync_taxonomies/Sync_Taxonomies.php:138
+msgid "Enable Broadcast debug mode to see tons of debug information."
+msgstr ""
+
+#. Input label: Is the broadcast enabled?
+#: trunk/src/search_and_replace/Search_And_Replace.php:43
+#: trunk/src/search_and_replace/Search_And_Replace.php:206
+#: trunk/src/new_blog_broadcast/New_Blog_Broadcast.php:154
+msgid "Enabled"
+msgstr ""
+
+#: trunk/src/custom_field_attachments/Custom_Field_Attachments.php:64
+msgid "Enter the names of the fields in the text box to tell Broadcast that the attachments need to be broadcasted and their new child-IDs set into the named custom fields. Specify wildcards with an asterisk. You can use most regexps also, as long as you include an asterisk somewhere."
+msgstr ""
+
+#: trunk/src/queue/Queue.php:801
+#, php-format
+msgid "Error broadcasting to %s."
+msgstr ""
+
+#: trunk/src/thumbnail_sizes/Thumbnail_Sizes.php:37
+msgid "Example of valid sizes:"
+msgstr ""
+
+#: trunk/src/search_and_replace/Search_And_Replace.php:98
+msgid "Exclude blogs"
+msgstr ""
+
+#: trunk/src/user_role_sync/User_Role_Sync.php:89
+msgid "Exclude roles"
+msgstr ""
+
+#: trunk/src/user_role_sync/User_Role_Sync.php:112
+msgid "Exclude users"
+msgstr ""
+
+#: trunk/src/user_role_sync/User_Role_Sync.php:88
+msgid "Exclude users with the selected roles."
+msgstr ""
+
+#. Input title
+#: trunk/src/woocommerce/WooCommerce.php:124
+msgid "Expermimental as of 2016-07-14: Automatically broadcast orders between shared products? The Back To Parent Broadcast add-on must be enabled for this to work."
+msgstr ""
+
+#: trunk/src/eventon/EventON.php:161
+msgid "Expermimental as of 2016-07-14: If a ticket is ordered for a broadcasted event, copy the order and purchased ticket to all linked events. Requires that WooCommerce order syncing is enabled."
+msgstr ""
+
+#. Tab name
+#: trunk/src/toolset/Toolset.php:170
+msgid "Field Groups"
+msgstr ""
+
+#. Bulk action name
+#: trunk/src/find_some_unlinked_children/Find_Some_Unlinked_Children.php:34
+msgid "Find some unlinked children"
+msgstr ""
+
+#. Button text
+#: trunk/src/media_cleanup/Media_Cleanup.php:187
+msgid "Find unused media"
+msgstr ""
+
+#: trunk/src/menus/Menus.php:349
+msgid "Finished copying menus."
+msgstr ""
+
+#: trunk/src/menus/Menus.php:258
+msgid "Finished manipulating the menu item."
+msgstr ""
+
+#. Finished syncing taxonomies.
+#: trunk/src/sync_taxonomies/Sync_Taxonomies.php:127
+msgid "Finished synchronizing."
+msgstr ""
+
+#: trunk/src/widgets/Widgets.php:89
+#, php-format
+msgid "For documentation, please see the %sWidgets add-on page%s."
+msgstr ""
+
+#: trunk/src/queue/Queue.php:97
+msgid "For the URL to work the login_head action must be called, so if you run a Wordpress security plugin that disables that action, HTTP processing will not work."
+msgstr ""
+
+#. What to do with a checkbox in the meta box
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:1189
+msgid "Force off"
+msgstr ""
+
+#. What to do with a checkbox in the meta box
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:1191
+msgid "Force off and hide"
+msgstr ""
+
+#. What to do with a checkbox in the meta box
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:1183
+msgid "Force on"
+msgstr ""
+
+#. What to do with a checkbox in the meta box
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:1185
+msgid "Force on and hide"
+msgstr ""
+
+#. What to do with a select input in the meta box
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:1208
+msgid "Force the value below"
+msgstr ""
+
+#: trunk/src/thumbnail_sizes/Thumbnail_Sizes.php:52
+msgid "Format: size_name blog_id crop."
+msgstr ""
+
+#: trunk/src/learndash/LearnDash.php:194
+#, php-format
+msgid "Found %d questions that contain your text. Below is the first search hit:"
+msgstr ""
+
+#. Queue table column name
+#: trunk/src/queue/Queue.php:151
+msgid "From"
+msgstr ""
+
+#: trunk/src/geodirectory/Geodirectory.php:78
+msgid "From parent to children"
+msgstr ""
+
+#. Fieldset label for general settings
+#. General options fieldset label
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:641
+#: trunk/src/queue/Queue.php:350 trunk/src/send_to_many/Send_To_Many.php:52
+#: trunk/src/new_blog_broadcast/New_Blog_Broadcast.php:147
+msgid "General"
+msgstr ""
+
+#. Fieldset label
+#: trunk/src/search_and_replace/Search_And_Replace.php:38
+#: trunk/src/hreflang/Hreflang.php:230
+msgid "General settings"
+msgstr ""
+
+#: trunk/src/geodirectory/Geodirectory.php:110
+msgid "Geodirectory settings"
+msgstr ""
+
+#. Tab name
+#: trunk/src/shortcodes/Shortcodes.php:117
+msgid "Global"
+msgstr ""
+
+#. Page heading
+#: trunk/src/shortcodes/Shortcodes.php:115
+msgid "Global Shortcodes"
+msgstr ""
+
+#: trunk/src/blog_groups/Blog_Groups_2.php:508
+msgid "Global groups"
+msgstr ""
+
+#. Fieldset legend
+#: trunk/src/permalinks/Permalinks.php:44
+msgid "Global permalinking"
+msgstr ""
+
+#. Table heading for blog group column
+#: trunk/src/blog_groups/Blog_Groups_2.php:291
+msgid "Group"
+msgstr ""
+
+#. Input label
+#. Tab name
+#: trunk/src/queue/Queue.php:371 trunk/src/queue/Queue.php:421
+msgid "HTTP processing"
+msgstr ""
+
+#. Hide this fieldset
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:998
+msgid "Hide the fieldset"
+msgstr ""
+
+#. Input title
+#: trunk/src/permalinks/Permalinks.php:48
+#: trunk/src/permalinks/Permalinks.php:77
+msgid "How should the permalinks for broadcast parents be modified?"
+msgstr ""
+
+#. Input title
+#: trunk/src/permalinks/Permalinks.php:61
+#: trunk/src/permalinks/Permalinks.php:90
+msgid "How should the permalinks for broadcasted child posts be modified?"
+msgstr ""
+
+#. Input title. Options for broadcasting menus.
+#: trunk/src/menus/Menus.php:319
+msgid "How the menus should be copied to the child blog(s)."
+msgstr ""
+
+#. Input description
+#: trunk/src/media_cleanup/Media_Cleanup.php:142
+msgid "How to find media in the custom fields."
+msgstr ""
+
+#. Input description
+#: trunk/src/media_cleanup/Media_Cleanup.php:150
+msgid "How to find media in the post content field."
+msgstr ""
+
+#. Input title
+#: trunk/src/attachment_control/Attachment_Control.php:77
+msgid "How to handle attachment"
+msgstr ""
+
+#. Input title (description)
+#: trunk/src/comments/Comments.php:262
+msgid "How to keep the comments synced between parent and children"
+msgstr ""
+
+#. Menu item for menu
+#. Page title for menu
+#: trunk/src/hreflang/Hreflang.php:196 trunk/src/hreflang/Hreflang.php:198
+msgid "Hreflang"
+msgstr ""
+
+#. I would like to + use another menu
+#: trunk/src/menus/Menus.php:111
+msgid "I would like to"
+msgstr ""
+
+#. Setting textarea input label
+#: trunk/src/custom_field_attachments/Custom_Field_Attachments.php:37
+msgid "ID fields"
+msgstr ""
+
+#. Input title. Options for broadcasting menus.
+#: trunk/src/menus/Menus.php:295
+msgid "If a menu item is a broadcasted page with a link to the child blog, modify the link to use the child page / product URL."
+msgstr ""
+
+#. Input title. Options for broadcasting menus.
+#: trunk/src/menus/Menus.php:302
+msgid "If a menu item is a taxonomy, modify the link to use the taxonomy URL on the child blog if possible."
+msgstr ""
+
+#: trunk/src/classes/broadcast_generic_option_ui_trait.php:65
+#: trunk/src/classes/broadcast_generic_post_ui_trait.php:70
+#: trunk/src/classes/broadcast_things_ui_trait.php:59
+#, php-format
+msgid "If the %s does not exist"
+msgstr ""
+
+#. If the ITEM exists
+#: trunk/src/classes/broadcast_generic_option_ui_trait.php:77
+#: trunk/src/classes/broadcast_generic_post_ui_trait.php:82
+#: trunk/src/classes/broadcast_things_ui_trait.php:71
+#, php-format
+msgid "If the %s exists"
+msgstr ""
+
+#. Input label
+#: trunk/src/toolset/Toolset.php:471
+msgid "If the field group does not exist"
+msgstr ""
+
+#. Input title
+#: trunk/src/geodirectory/Geodirectory.php:55
+msgid "If the location is not found on the child blog, create it automatically or skip the blog."
+msgstr ""
+
+#: trunk/src/blog_groups/Blog_Groups_2.php:429
+msgid "If you have any groups in the free Blog Groups plugin, enable it in order to import those groups here."
+msgstr ""
+
+#: trunk/src/blog_groups/Blog_Groups_2.php:169
+msgid "If you use User & Blog Settings plugin you will have access to a new Blog Groups criterion."
+msgstr ""
+
+#. Menu copying options
+#: trunk/src/menus/Menus.php:325
+msgid "Ignore existing: If a menu already exists with the same name, ignore and skip it. Else create a new menu."
+msgstr ""
+
+#. Input label
+#: trunk/src/find_some_unlinked_children/Find_Some_Unlinked_Children.php:70
+msgid "Ignore post status"
+msgstr ""
+
+#. Input title
+#: trunk/src/find_some_unlinked_children/Find_Some_Unlinked_Children.php:68
+msgid "Ignore the post status of the children when finding them, else the post status will be matched."
+msgstr ""
+
+#. Import tab name
+#: trunk/src/blog_groups/Blog_Groups_2.php:531
+msgid "Import"
+msgstr ""
+
+#. Heading for blog group csv import page
+#: trunk/src/blog_groups/Blog_Groups_2.php:418
+msgid "Import from CSV"
+msgstr ""
+
+#. Heading
+#: trunk/src/blog_groups/Blog_Groups_2.php:446
+msgid "Import from free plugin"
+msgstr ""
+
+#. Primary button text for importing
+#: trunk/src/blog_groups/Blog_Groups_2.php:443
+msgid "Import groups from the free Blog Groups plugin"
+msgstr ""
+
+#: trunk/src/search_and_replace/Search_And_Replace.php:89
+msgid "Include blogs"
+msgstr ""
+
+#: trunk/src/user_role_sync/User_Role_Sync.php:82
+msgid "Include roles"
+msgstr ""
+
+#: trunk/src/user_role_sync/User_Role_Sync.php:105
+msgid "Include users"
+msgstr ""
+
+#: trunk/src/new_blog_broadcast/New_Blog_Broadcast.php:183
+msgid "Input the post IDs, if any, you wish to broadcast. One ID per line."
+msgstr ""
+
+#: trunk/src/new_blog_broadcast/New_Blog_Broadcast.php:194
+msgid "Input the post types, if any, you wish to broadcast. One post type per line."
+msgstr ""
+
+#. Input title.
+#: trunk/src/new_blog_broadcast/New_Blog_Broadcast.php:152
+msgid "Is this broadcast enabled?"
+msgstr ""
+
+#: trunk/src/queue/Queue.php:90
+msgid "It is possible to use an HTTP request to process the queue. Use the following URL to force queue processing, perhaps via a cron setting with your web host."
+msgstr ""
+
+#. Fieldset name for menu item broadcasting
+#: trunk/src/menus/Menus.php:119
+msgid "Item manipulation options"
+msgstr ""
+
+#: trunk/src/queue/Queue.php:773 trunk/src/queue/Queue.php:867
+#, php-format
+msgid "Items in queue: %s"
+msgstr ""
+
+#: trunk/src/queue/Queue.php:375
+msgid "Items per HTTP process"
+msgstr ""
+
+#. Menu item for menu
+#: trunk/src/keep_child_status/Keep_Child_Status.php:106
+msgid "Keep Child Status"
+msgstr ""
+
+#. Input label
+#: trunk/src/keep_child_status/Keep_Child_Status.php:125
+msgid "Keep child status as"
+msgstr ""
+
+#. Input label
+#: trunk/src/yoast_seo/Yoast_SEO.php:39
+msgid "Keep child taxonomy canonical URL"
+msgstr ""
+
+#: trunk/src/hreflang/Hreflang.php:259
+msgid "Leave empty to not include the blog in the hreflang meta tag list."
+msgstr ""
+
+#. What to do with a checkbox in the meta box
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:1177
+msgid "Leave it alone"
+msgstr ""
+
+#. What to do with a checkbox in the meta box
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:1179
+msgid "Leave it alone and hide it"
+msgstr ""
+
+#. Line NUMBER is incorrectly formed in the textarea
+#: trunk/src/thumbnail_sizes/Thumbnail_Sizes.php:86
+#, php-format
+msgid "Line %s is incorrectly formed."
+msgstr ""
+
+#. On blog x: Link the posts together
+#: trunk/src/find_some_unlinked_children/Find_Some_Unlinked_Children.php:218
+msgid "Link"
+msgstr ""
+
+#: trunk/src/find_some_unlinked_children/Find_Some_Unlinked_Children.php:232
+msgid "Link selected children"
+msgstr ""
+
+#. Parent permalinks: link to
+#: trunk/src/permalinks/Permalinks.php:56
+#: trunk/src/permalinks/Permalinks.php:85
+msgid "Link to first child post"
+msgstr ""
+
+#. Child permalinks: link to
+#: trunk/src/permalinks/Permalinks.php:69
+#: trunk/src/permalinks/Permalinks.php:98
+msgid "Link to parent"
+msgstr ""
+
+#. Link the visible posts to each other
+#: trunk/src/find_some_unlinked_children/Find_Some_Unlinked_Children.php:152
+msgid "Link visible posts"
+msgstr ""
+
+#. Tab name
+#: trunk/src/shortcodes/Shortcodes.php:126
+msgid "Local"
+msgstr ""
+
+#. Page heading
+#: trunk/src/shortcodes/Shortcodes.php:124
+msgid "Local Shortcodes"
+msgstr ""
+
+#: trunk/src/permalinks/Permalinks.php:73
+#, php-format
+msgid "Local settings for blog %s"
+msgstr ""
+
+#: trunk/src/thumbnail_sizes/Thumbnail_Sizes.php:109
+msgid "Local thumbnail sizes have been added. Don't forget to save the sizes."
+msgstr ""
+
+#. Page heading
+#: trunk/src/lock_post/Lock_Post.php:99
+msgid "Lock Post Settings"
+msgstr ""
+
+#. Input label for roles that override the post lock
+#: trunk/src/lock_post/Lock_Post.php:76
+msgid "Lock override roles"
+msgstr ""
+
+#. Menu item for menu
+#. Page title for menu
+#: trunk/src/lock_post/Lock_Post.php:122 trunk/src/lock_post/Lock_Post.php:124
+msgid "Lock post"
+msgstr ""
+
+#. Input label for post locking
+#: trunk/src/lock_post/Lock_Post.php:139
+msgid "Lock the post"
+msgstr ""
+
+#. Input label: Code that goes in the loop.
+#: trunk/src/php_code/PHP_Code.php:121
+msgid "Loop code"
+msgstr ""
+
+#. Input title. Options for broadcasting menus.
+#: trunk/src/menus/Menus.php:310
+#, php-format
+msgid "Make all menu items static URLs and replace the source blog's domain with that of the child. %s will become %s"
+msgstr ""
+
+#. Tab name
+#: trunk/src/menus/Menus.php:41
+msgid "Manipulate menu item"
+msgstr ""
+
+#. Button to start manipulating menu items
+#: trunk/src/menus/Menus.php:158
+msgid "Manipulate the selected item"
+msgstr ""
+
+#. Tab name
+#: trunk/src/new_blog_broadcast/New_Blog_Broadcast.php:389
+msgid "Manual new blog broadcast"
+msgstr ""
+
+#. Table column name
+#: trunk/src/media_cleanup/Media_Cleanup.php:51
+msgid "Media"
+msgstr ""
+
+#. Menu item name
+#: trunk/src/media_cleanup/Media_Cleanup.php:453
+msgid "Media Cleanup"
+msgstr ""
+
+#: trunk/src/menus/Menus.php:136
+msgid "Menu item action"
+msgstr ""
+
+#. Protect child property:
+#: trunk/src/protect_child_properties/item.php:57
+msgid "Menu order"
+msgstr ""
+
+#. Menu item name
+#: trunk/src/menus/Menus.php:54 trunk/src/menus/Menus.php:56
+msgid "Menus"
+msgstr ""
+
+#: trunk/src/menus/Menus.php:279
+msgid "Menus to copy"
+msgstr ""
+
+#. Fieldset label for meta box settings
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:706
+msgid "Meta box"
+msgstr ""
+
+#. Fieldset label.
+#: trunk/src/woocommerce/WooCommerce.php:106
+msgid "Misc"
+msgstr ""
+
+#. The name of the PHP code wizard group.
+#: trunk/src/php_code/actions/load_wizards.php:52
+#: trunk/src/php_code/PHP_Code.php:36
+msgid "Miscellaneous"
+msgstr ""
+
+#. Table column name
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:395
+msgid "Modification"
+msgstr ""
+
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:379
+#, php-format
+msgid "Modification created %s"
+msgstr ""
+
+#. Protect child property:
+#: trunk/src/protect_child_properties/item.php:65
+msgid "Modification date"
+msgstr ""
+
+#. Input label
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:647
+msgid "Modification name"
+msgstr ""
+
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:369
+#, php-format
+msgid "Modification, %s, has been deleted."
+msgstr ""
+
+#. Table column name
+#. Tab name
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:397
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:472
+msgid "Modifications"
+msgstr ""
+
+#. Label input for shortcode name
+#. Table header column - item name
+#. Input label: The broadcast's name.
+#: trunk/src/shortcodes/Shortcodes.php:312
+#: trunk/src/new_blog_broadcast/New_Blog_Broadcast.php:50
+#: trunk/src/new_blog_broadcast/New_Blog_Broadcast.php:160
+msgid "Name"
+msgstr ""
+
+#. Menu item name
+#: trunk/src/new_blog_broadcast/New_Blog_Broadcast.php:417
+#: trunk/src/new_blog_broadcast/New_Blog_Broadcast.php:419
+msgid "New Blog Broadcast"
+msgstr ""
+
+#: trunk/src/new_blog_broadcast/New_Blog_Broadcast.php:95
+#, php-format
+msgid "New Blog Broadcast created %s"
+msgstr ""
+
+#. Tab name
+#: trunk/src/new_blog_broadcast/New_Blog_Broadcast.php:384
+msgid "New Blog Broadcasts"
+msgstr ""
+
+#. New criterion input
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:222
+msgid "New criterion type"
+msgstr ""
+
+#: trunk/src/learndash/LearnDash.php:95
+msgid "New text"
+msgstr ""
+
+#. Querying the queue server
+#: trunk/src/queue/Queue.php:450
+msgid "No JSON in reply."
+msgstr ""
+
+#. On blog x: No action
+#: trunk/src/find_some_unlinked_children/Find_Some_Unlinked_Children.php:216
+msgid "No action"
+msgstr ""
+
+#. Button: Do nothing with the visible posts
+#: trunk/src/find_some_unlinked_children/Find_Some_Unlinked_Children.php:156
+msgid "No action for visible posts"
+msgstr ""
+
+#. Select option name
+#. First option for quick blog selection input
+#: trunk/src/blog_groups/Blog_Groups_2.php:109
+#: trunk/src/blog_groups/Blog_Groups_2.php:659
+msgid "No group selected"
+msgstr ""
+
+#. Input label
+#: trunk/src/polylang/Polylang.php:92
+msgid "No language action"
+msgstr ""
+
+#. No unlinked children found
+#: trunk/src/find_some_unlinked_children/Find_Some_Unlinked_Children.php:244
+msgid "No linkable children found."
+msgstr ""
+
+#. Input label "Do not create any new taxonomy terms when broadcasting"
+#: trunk/src/no_new_terms/No_New_Terms.php:57
+msgid "No new terms"
+msgstr ""
+
+#: trunk/src/media_cleanup/Media_Cleanup.php:38
+msgid "No search results found! Use the Search tab to find unused media to delete."
+msgstr ""
+
+#. No blogs are selected in this setting, not showing the rest of the description.
+#: trunk/src/new_blog_broadcast/Broadcast.php:42
+msgid "No source blogs selected."
+msgstr ""
+
+#. Do not sync comments option
+#: trunk/src/comments/Comments.php:256
+msgid "No sync"
+msgstr ""
+
+#: trunk/src/media_cleanup/Media_Cleanup.php:226
+msgid "No unused media files were found on the selected blogs."
+msgstr ""
+
+#. First input select option for No default Hreflang.
+#: trunk/src/hreflang/Hreflang.php:238
+msgid "None"
+msgstr ""
+
+#: trunk/src/per_blog_taxonomies/Per_Blog_Taxonomies.php:111
+msgid "Note that different blogs might have different post types and therefore different taxonomies."
+msgstr ""
+
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:985
+msgid "Note: you are currently editing the settings from this blog and it will therefore not be shown in the preview below."
+msgstr ""
+
+#. View recording table header, action number
+#: trunk/src/sync_taxonomies/recordings_trait.php:309
+msgid "Number"
+msgstr ""
+
+#. What to do with a checkbox in the meta box
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:1187
+msgid "Off"
+msgstr ""
+
+#: trunk/src/learndash/LearnDash.php:78
+msgid "Old text"
+msgstr ""
+
+#. What to do with a checkbox in the meta box
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:1181
+msgid "On"
+msgstr ""
+
+#. Menu item manipulation action
+#: trunk/src/menus/Menus.php:147
+msgid "On which blogs do you wish to perform the action."
+msgstr ""
+
+#. Button
+#: trunk/src/learndash/LearnDash.php:135
+msgid "Only do the text search without replacing"
+msgstr ""
+
+#. Protect child property:
+#: trunk/src/protect_child_properties/item.php:133
+msgid "Only if child is modified"
+msgstr ""
+
+#: trunk/src/blog_groups/Blog_Groups_2.php:493
+msgid "Only you as the super admin are allowed to create global groups."
+msgstr ""
+
+#. Fieldset label
+#. The name of the PHP code wizard group.
+#: trunk/src/media_cleanup/Media_Cleanup.php:173
+#: trunk/src/php_code/PHP_Code.php:46
+msgid "Options"
+msgstr ""
+
+#: trunk/src/woocommerce/WooCommerce.php:157
+#: trunk/src/geodirectory/Geodirectory.php:103
+msgid "Options saved!"
+msgstr ""
+
+#. Fieldset label.
+#: trunk/src/woocommerce/WooCommerce.php:119
+msgid "Orders"
+msgstr ""
+
+#. Fieldset label
+#: trunk/src/learndash/LearnDash.php:121
+msgid "Other options"
+msgstr ""
+
+#. Tab name
+#: trunk/src/send_to_many/Send_To_Many.php:94
+#: trunk/src/search_and_replace/Search_And_Replace.php:232
+#: trunk/src/shortcodes/Shortcodes.php:134
+msgid "Overview"
+msgstr ""
+
+#. Page heading
+#: trunk/src/shortcodes/Shortcodes.php:132
+msgid "Overview of shortcodes on network"
+msgstr ""
+
+#. Overwrite the existing ITEM
+#: trunk/src/classes/broadcast_generic_option_ui_trait.php:81
+#: trunk/src/classes/broadcast_generic_post_ui_trait.php:86
+#: trunk/src/classes/broadcast_things_ui_trait.php:75
+#, php-format
+msgid "Overwrite the existing %s"
+msgstr ""
+
+#. What to do if the Toolset field group already exists
+#: trunk/src/toolset/Toolset.php:487
+msgid "Overwrite the existing field group"
+msgstr ""
+
+#. Menu copying options
+#: trunk/src/menus/Menus.php:327
+msgid "Overwrite: Create or replace the menu contents with the source menu."
+msgstr ""
+
+#. Page heading
+#: trunk/src/php_code/PHP_Code.php:241
+msgid "PHP Code"
+msgstr ""
+
+#. Menu item name
+#: trunk/src/php_code/PHP_Code.php:258
+msgid "PHP code"
+msgstr ""
+
+#. Input label
+#: trunk/src/activity_monitor/Activity_Monitor.php:159
+msgid "Page caption"
+msgstr ""
+
+#. Protect child property:
+#: trunk/src/protect_child_properties/item.php:105
+msgid "Parent"
+msgstr ""
+
+#. Input label
+#: trunk/src/permalinks/Permalinks.php:209
+msgid "Parent permalink"
+msgstr ""
+
+#. Input label: What to do with parent permalinks
+#: trunk/src/permalinks/Permalinks.php:50
+#: trunk/src/permalinks/Permalinks.php:79
+msgid "Parent permalinks"
+msgstr ""
+
+#. Sync parent comments to children option
+#: trunk/src/comments/Comments.php:258
+msgid "Parent to children"
+msgstr ""
+
+#. Partial broadcasting of queue.
+#: trunk/src/queue/Queue.php:794
+msgid "Partial broadcasting. Continuing next time."
+msgstr ""
+
+#. Protect child property:
+#: trunk/src/protect_child_properties/item.php:73
+msgid "Password"
+msgstr ""
+
+#. Keep child status: As pending
+#: trunk/src/keep_child_status/Keep_Child_Status.php:131
+msgid "Pending"
+msgstr ""
+
+#. Menu item for menu
+#: trunk/src/per_blog_taxonomies/Per_Blog_Taxonomies.php:172
+msgid "Per Blog Taxonomies"
+msgstr ""
+
+#. Tab heading
+#: trunk/src/per_blog_taxonomies/Per_Blog_Taxonomies.php:88
+msgid "Per Blog Taxonomies Settings"
+msgstr ""
+
+#. Protect child property:
+#: trunk/src/protect_child_properties/item.php:81
+msgid "Permalink / post name"
+msgstr ""
+
+#. Menu item for menu
+#: trunk/src/permalinks/Permalinks.php:158
+msgid "Permalinks"
+msgstr ""
+
+#: trunk/src/menus/Menus.php:86
+msgid "Please create at least one menu."
+msgstr ""
+
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:1164
+msgid "Please create at least one public post to be used as a post template."
+msgstr ""
+
+#. Tab name
+#: trunk/src/pods/Pods.php:39
+msgid "Pods"
+msgstr ""
+
+#. Tab name
+#: trunk/src/toolset/Toolset.php:194
+msgid "Post Forms"
+msgstr ""
+
+#. Fieldset label
+#. Label for post IDs textarea.
+#: trunk/src/new_blog_broadcast/New_Blog_Broadcast.php:180
+#: trunk/src/new_blog_broadcast/New_Blog_Broadcast.php:185
+msgid "Post IDs"
+msgstr ""
+
+#: trunk/src/new_blog_broadcast/Broadcast.php:70
+#, php-format
+msgid "Post IDs: %s"
+msgstr ""
+
+#. Tab name
+#: trunk/src/toolset/Toolset.php:177
+msgid "Post Types"
+msgstr ""
+
+#. Fieldset label for post bulk settings
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:679
+msgid "Post bulk actions"
+msgstr ""
+
+#. Input label
+#: trunk/src/media_cleanup/Media_Cleanup.php:152
+msgid "Post content"
+msgstr ""
+
+#. Protect child property:
+#: trunk/src/protect_child_properties/item.php:113
+msgid "Post title"
+msgstr ""
+
+#. Fieldset label
+#. Label for post types textarea.
+#: trunk/src/new_blog_broadcast/New_Blog_Broadcast.php:191
+#: trunk/src/new_blog_broadcast/New_Blog_Broadcast.php:196
+msgid "Post types"
+msgstr ""
+
+#: trunk/src/user_blog_settings/criteria/post_types.php:24
+#, php-format
+msgid "Post types available on this blog are: <code>%s</code>"
+msgstr ""
+
+#: trunk/src/new_blog_broadcast/Broadcast.php:77
+#, php-format
+msgid "Post types: %s"
+msgstr ""
+
+#. Bulk action name for ubs post
+#: trunk/src/user_blog_settings_post/User_Blog_Settings_Post.php:45
+msgid "Post with UBS"
+msgstr ""
+
+#. Input label
+#: trunk/src/delete_before_broadcast/Delete_Before_Broadcast.php:157
+msgid "Posts with similar slugs"
+msgstr ""
+
+#. Input label
+#: trunk/src/delete_before_broadcast/Delete_Before_Broadcast.php:150
+msgid "Posts with the same slug"
+msgstr ""
+
+#. Input label
+#: trunk/src/delete_before_broadcast/Delete_Before_Broadcast.php:143
+msgid "Posts with the same title"
+msgstr ""
+
+#: trunk/src/ThreeWP_Broadcast_Premium_Pack.php:124
+msgid "Premium pack license"
+msgstr ""
+
+#. Describing the import button.
+#: trunk/src/blog_groups/Blog_Groups_2.php:449
+msgid "Press the button to import any groups you have set up in the free Blog Groups plugin."
+msgstr ""
+
+#. Input title
+#: trunk/src/no_new_terms/No_New_Terms.php:59
+msgid "Prevent new taxonomy terms from being created on the child blogs."
+msgstr ""
+
+#. Title of checkbox
+#: trunk/src/protect_child_properties/item.php:44
+msgid "Prevent the content of the child posts from modification."
+msgstr ""
+
+#. Title of checkbox
+#: trunk/src/protect_child_properties/item.php:52
+msgid "Prevent the custom fields of the child posts from modification."
+msgstr ""
+
+#. Title of checkbox
+#: trunk/src/protect_child_properties/item.php:60
+msgid "Prevent the menu order of the child posts from modification."
+msgstr ""
+
+#. Title of checkbox
+#: trunk/src/protect_child_properties/item.php:68
+msgid "Prevent the modification date of the child posts from modification."
+msgstr ""
+
+#. Title of checkbox
+#: trunk/src/protect_child_properties/item.php:108
+msgid "Prevent the parent of the child post from modification."
+msgstr ""
+
+#. Title of checkbox
+#: trunk/src/protect_child_properties/item.php:76
+msgid "Prevent the password of the child posts from modification."
+msgstr ""
+
+#. Title of checkbox
+#: trunk/src/protect_child_properties/item.php:84
+msgid "Prevent the permalink of the child posts from modification."
+msgstr ""
+
+#. Input title for post locking
+#: trunk/src/lock_post/Lock_Post.php:141
+msgid "Prevent the post from being edited by anyone other than yourself"
+msgstr ""
+
+#. Title of checkbox
+#: trunk/src/protect_child_properties/item.php:116
+msgid "Prevent the post title of the child posts from modification."
+msgstr ""
+
+#. Title of checkbox
+#: trunk/src/protect_child_properties/item.php:92
+msgid "Prevent the publication date of the child posts from modification."
+msgstr ""
+
+#. Title of checkbox
+#: trunk/src/protect_child_properties/item.php:100
+msgid "Prevent the status of the child posts from modification."
+msgstr ""
+
+#. Keep child status: As private
+#: trunk/src/keep_child_status/Keep_Child_Status.php:133
+msgid "Private"
+msgstr ""
+
+#. Queue item action
+#: trunk/src/queue/Queue.php:146
+msgid "Process"
+msgstr ""
+
+#: trunk/src/queue/Queue.php:222
+#, php-format
+msgid "Processing item %s: %s"
+msgstr ""
+
+#: trunk/src/queue/Queue.php:451
+msgid "Processing queue..."
+msgstr ""
+
+#. Fieldset legend
+#: trunk/src/protect_child_properties/item.php:16
+msgid "Protect child properties"
+msgstr ""
+
+#. Title of checkbox
+#: trunk/src/protect_child_properties/item.php:28
+msgid "Protect the attachments of each linked child post instead of deleting them as per default."
+msgstr ""
+
+#. Title of checkbox
+#: trunk/src/protect_child_properties/item.php:36
+msgid "Protect the author of the child posts from modification."
+msgstr ""
+
+#. Title of checkbox
+#: trunk/src/protect_child_properties/item.php:136
+msgid "Protect the selected properties only if the child post has been modified (updated)"
+msgstr ""
+
+#. Protect child property:
+#: trunk/src/protect_child_properties/item.php:89
+msgid "Publication date"
+msgstr ""
+
+#. Keep child status: As published
+#: trunk/src/keep_child_status/Keep_Child_Status.php:135
+msgid "Published"
+msgstr ""
+
+#. Single post action name
+#: trunk/src/purge_children/Purge_Children.php:68
+msgid "Purge child"
+msgstr ""
+
+#. Bulk post action name
+#: trunk/src/purge_children/Purge_Children.php:82
+msgid "Purge children"
+msgstr ""
+
+#. Tab name for modifying Learndash questions.
+#: trunk/src/learndash/LearnDash.php:295
+msgid "Question S&R"
+msgstr ""
+
+#. Tab heading for modifying Learndash questions.
+#: trunk/src/learndash/LearnDash.php:293
+msgid "Question Search & Replace"
+msgstr ""
+
+#. Fieldset label
+#: trunk/src/learndash/LearnDash.php:100
+msgid "Question selection"
+msgstr ""
+
+#. Tab name
+#. Menu item for menu
+#: trunk/src/queue/Queue.php:415 trunk/src/queue/Queue.php:588
+msgid "Queue"
+msgstr ""
+
+#: trunk/src/queue/Queue.php:876
+#, php-format
+msgid "Queue and processing disabled. Items in queue: %s"
+msgstr ""
+
+#: trunk/src/queue/Queue.php:853
+msgid "Queue disabled."
+msgstr ""
+
+#: trunk/src/queue/Queue.php:874
+#, php-format
+msgid "Queue enabled, requires http processing. Items in queue: %s"
+msgstr ""
+
+#: trunk/src/queue/Queue.php:330
+msgid "Queue processing has been disabled in the settings."
+msgstr ""
+
+#: trunk/src/queue/Queue.php:909
+msgid "Queue ready."
+msgstr ""
+
+#. Post bulk action name.
+#: trunk/src/rebroadcast/Rebroadcast.php:50
+msgid "Rebroadcast"
+msgstr ""
+
+#: trunk/src/sync_taxonomies/recordings_trait.php:428
+msgid "Record taxonomy changes and replay the them on other blogs"
+msgstr ""
+
+#: trunk/src/sync_taxonomies/recordings_trait.php:427
+msgid "Recorder"
+msgstr ""
+
+#. Table column heading
+#: trunk/src/sync_taxonomies/recordings_trait.php:166
+msgid "Recording"
+msgstr ""
+
+#: trunk/src/sync_taxonomies/recordings_trait.php:124
+msgid "Recording applied to the selected blogs."
+msgstr ""
+
+#: trunk/src/sync_taxonomies/Recording.php:18
+#, php-format
+msgid "Recording created %s"
+msgstr ""
+
+#. Recording name input label
+#: trunk/src/sync_taxonomies/recordings_trait.php:26
+msgid "Recording name"
+msgstr ""
+
+#. The recording is busy recording, as seen in the table.
+#: trunk/src/sync_taxonomies/recordings_trait.php:279
+msgid "Recording!"
+msgstr ""
+
+#. Menu copying options
+#: trunk/src/menus/Menus.php:323
+msgid "Rename: If a menu already exists with the same name, create a new, renamed menu."
+msgstr ""
+
+#. Input label. Options for broadcasting menus.
+#: trunk/src/menus/Menus.php:315
+msgid "Replace domain URL"
+msgstr ""
+
+#: trunk/src/widgets/Widgets.php:130
+msgid "Replace sidebar widgets"
+msgstr ""
+
+#: trunk/src/search_and_replace/Search_And_Replace.php:59
+msgid "Replace the above search term with this new text."
+msgstr ""
+
+#: trunk/src/search_and_replace/Search_And_Replace.php:60
+msgid "Replace with"
+msgstr ""
+
+#. Input label
+#: trunk/src/learndash/LearnDash.php:94
+msgid "Replacement text"
+msgstr ""
+
+#. Row action: Replay the recording
+#: trunk/src/sync_taxonomies/recordings_trait.php:264
+msgid "Replay"
+msgstr ""
+
+#: trunk/src/sync_taxonomies/recordings_trait.php:451
+msgid "Replay recording"
+msgstr ""
+
+#. Row action title
+#: trunk/src/sync_taxonomies/recordings_trait.php:262
+msgid "Replay the recording"
+msgstr ""
+
+#. Reply to blogs label
+#: trunk/src/sync_taxonomies/recordings_trait.php:95
+msgid "Replay to blogs"
+msgstr ""
+
+#: trunk/src/sync_taxonomies/recordings_trait.php:450
+#, php-format
+msgid "Replaying recording %s"
+msgstr ""
+
+#. Tab name
+#: trunk/src/media_cleanup/Media_Cleanup.php:257
+msgid "Results"
+msgstr ""
+
+#. Retrying the queue in x seconds
+#: trunk/src/queue/Queue.php:453
+#, php-format
+msgid "Retrying in %s seconds."
+msgstr ""
+
+#. Legend for role syncing fieldset
+#: trunk/src/user_role_sync/User_Role_Sync.php:75
+msgid "Role selection"
+msgstr ""
+
+#. Input label: Which role is necessary to use Send To Many?
+#: trunk/src/send_to_many/Send_To_Many.php:59
+msgid "Role to use"
+msgstr ""
+
+#. Fieldset label: User roles
+#: trunk/src/keep_child_status/Keep_Child_Status.php:42
+msgid "Roles"
+msgstr ""
+
+#: trunk/src/classes/broadcast_generic_post_ui_trait.php:98
+msgid "Run Find Unlinked bulk post action"
+msgstr ""
+
+#: trunk/src/php_code/PHP_Code.php:41
+msgid "Run a bulk action of post types"
+msgstr ""
+
+#. Tab title
+#: trunk/src/new_blog_broadcast/New_Blog_Broadcast.php:391
+msgid "Run a new blog broadcast manually"
+msgstr ""
+
+#. Button text
+#: trunk/src/php_code/PHP_Code.php:134
+msgid "Run this code on the selected blogs"
+msgstr ""
+
+#. Keep child status: Same as parent
+#: trunk/src/keep_child_status/Keep_Child_Status.php:127
+msgid "Same as parent"
+msgstr ""
+
+#: trunk/src/search_and_replace/Search_And_Replace.php:105
+msgid "Save"
+msgstr ""
+
+#. Button
+#. Save button
+#. Button
+#. Button text
+#. Button
+#. Button text
+#. Button
+#. Save settings button text
+#. Button for saving
+#. Button
+#: trunk/src/wpml/WPML.php:118 trunk/src/queue/Queue.php:382
+#: trunk/src/permalinks/Permalinks.php:103
+#: trunk/src/per_blog_taxonomies/Per_Blog_Taxonomies.php:56
+#: trunk/src/send_to_many/Send_To_Many.php:65
+#: trunk/src/shortcodes/Shortcodes.php:325 trunk/src/yoast_seo/Yoast_SEO.php:43
+#: trunk/src/hreflang/Hreflang.php:281
+#: trunk/src/custom_field_attachments/Custom_Field_Attachments.php:43
+#: trunk/src/keep_child_status/Keep_Child_Status.php:54
+#: trunk/src/woocommerce/WooCommerce.php:141
+#: trunk/src/sync_taxonomies/recordings_trait.php:55
+#: trunk/src/lock_post/Lock_Post.php:83
+#: trunk/src/find_some_unlinked_children/Find_Some_Unlinked_Children.php:74
+#: trunk/src/eventon/EventON.php:170 trunk/src/geodirectory/Geodirectory.php:84
+#: trunk/src/polylang/Polylang.php:100
+msgid "Save settings"
+msgstr ""
+
+#. Button
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:152
+msgid "Save the settings"
+msgstr ""
+
+#: trunk/src/classes/shortcode_items/Shortcode_Items.php:67
+msgid "Save the shortcode data"
+msgstr ""
+
+#: trunk/src/thumbnail_sizes/Thumbnail_Sizes.php:58
+msgid "Save the thumbnail sizes"
+msgstr ""
+
+#. Tab name
+#: trunk/src/media_cleanup/Media_Cleanup.php:249
+msgid "Search"
+msgstr ""
+
+#. Menu item for menu
+#: trunk/src/search_and_replace/Search_And_Replace.php:316
+msgid "Search & Replace"
+msgstr ""
+
+#. Tab heading
+#: trunk/src/search_and_replace/Search_And_Replace.php:230
+msgid "Search and Replace term overview"
+msgstr ""
+
+#: trunk/src/search_and_replace/Search_And_Replace.php:54
+msgid "Search for"
+msgstr ""
+
+#: trunk/src/media_cleanup/Media_Cleanup.php:134
+msgid "Search for media ID"
+msgstr ""
+
+#: trunk/src/media_cleanup/Media_Cleanup.php:135
+msgid "Search for media ID and URL"
+msgstr ""
+
+#: trunk/src/media_cleanup/Media_Cleanup.php:136
+msgid "Search for media URL"
+msgstr ""
+
+#: trunk/src/search_and_replace/Search_And_Replace.php:53
+msgid "Search for this term in the post content. If you begin this line with a forward slash, the line will be treated as a regexp."
+msgstr ""
+
+#. Fieldset label
+#: trunk/src/media_cleanup/Media_Cleanup.php:130
+msgid "Search parameters"
+msgstr ""
+
+#. Fieldset label
+#: trunk/src/learndash/LearnDash.php:131
+msgid "Search!"
+msgstr ""
+
+#. Input description
+#: trunk/src/php_code/PHP_Code.php:173
+msgid "Select a PHP code example to place in the code textareas."
+msgstr ""
+
+#: trunk/src/menus/Menus.php:125
+msgid "Select a menu item to manipulate"
+msgstr ""
+
+#: trunk/src/menus/Menus.php:93
+msgid "Select a menu with which to work."
+msgstr ""
+
+#. Input label
+#: trunk/src/php_code/PHP_Code.php:175 trunk/src/php_code/PHP_Code.php:176
+msgid "Select a wizard"
+msgstr ""
+
+#. Blog selection input description
+#: trunk/src/media_cleanup/Media_Cleanup.php:162
+msgid "Select one or more blogs on which to find unused media."
+msgstr ""
+
+#. Blog selection input description
+#: trunk/src/php_code/PHP_Code.php:145
+msgid "Select one or more blogs on which to run the code."
+msgstr ""
+
+#: trunk/src/new_blog_broadcast/New_Blog_Broadcast.php:169
+msgid "Select one or more blogs to act as the broadcast source."
+msgstr ""
+
+#. Blog selection input description
+#: trunk/src/widgets/Widgets.php:141
+msgid "Select one or more blogs to which to broadcast the sidebars."
+msgstr ""
+
+#. Blog selection input description
+#: trunk/src/widgets/Widgets.php:263
+msgid "Select one or more blogs to which to broadcast the widgets."
+msgstr ""
+
+#. Blog selection input description
+#: trunk/src/shortcodes/Shortcodes.php:67 trunk/src/toolset/Toolset.php:454
+#: trunk/src/classes/broadcast_generic_option_ui_trait.php:50
+#: trunk/src/classes/broadcast_generic_post_ui_trait.php:55
+#: trunk/src/classes/broadcast_things_ui_trait.php:44
+msgid "Select one or more blogs to which to copy the selected items above."
+msgstr ""
+
+#: trunk/src/classes/copy_options_trait.php:146
+msgid "Select one or more blogs to which to copy the settings."
+msgstr ""
+
+#: trunk/src/user_role_sync/User_Role_Sync.php:65
+msgid "Select one or more blogs to which to copy the users and their roles."
+msgstr ""
+
+#. Input title
+#: trunk/src/new_blog_broadcast/New_Blog_Broadcast.php:321
+msgid "Select one or more broadcasts to manually run."
+msgstr ""
+
+#: trunk/src/menus/Menus.php:353
+msgid "Select one or more menus to copy to one or more blogs, then press the copy menu button."
+msgstr ""
+
+#: trunk/src/menus/Menus.php:278
+msgid "Select one or more menus to copy to the target blog(s)."
+msgstr ""
+
+#. Select widgets to broadcast
+#: trunk/src/widgets/Widgets.php:118
+msgid "Select sidebars"
+msgstr ""
+
+#. Select the generic post to broadcast
+#: trunk/src/classes/broadcast_generic_option_ui_trait.php:31
+#: trunk/src/classes/broadcast_generic_post_ui_trait.php:36
+#: trunk/src/classes/broadcast_things_ui_trait.php:29
+#, php-format
+msgid "Select the %s to broadcast to the selected blogs."
+msgstr ""
+
+#. Reply to blogs description
+#: trunk/src/sync_taxonomies/recordings_trait.php:93
+msgid "Select the blogs on which you want to reply the term changes in this recording."
+msgstr ""
+
+#. Delete criteria input title
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:263
+msgid "Select the criteria you wish to delete."
+msgstr ""
+
+#: trunk/src/learndash/LearnDash.php:83
+msgid "Select the database table columns in which you wish to search for the text to replace."
+msgstr ""
+
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:724
+msgid "Select the modifications for each setting in the meta box."
+msgstr ""
+
+#. Input title
+#: trunk/src/sync_taxonomies/Sync_Taxonomies.php:67
+msgid "Select the target blogs that will have their taxonomies synced with this blog."
+msgstr ""
+
+#. Input title
+#: trunk/src/new_blog_broadcast/New_Blog_Broadcast.php:335
+msgid "Select the target blogs to which to broadcast."
+msgstr ""
+
+#. Input title
+#: trunk/src/sync_taxonomies/Sync_Taxonomies.php:35
+msgid "Select the taxonomies on this blog you with to synchronize on the target blogs."
+msgstr ""
+
+#. Input title
+#: trunk/src/new_blog_broadcast/New_Blog_Broadcast.php:218
+msgid "Select the taxonomies to add to the current list of taxonomies."
+msgstr ""
+
+#. New criterion title
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:220
+msgid "Select the type of criterion to create."
+msgstr ""
+
+#. Input title
+#: trunk/src/lock_post/Lock_Post.php:74
+msgid "Select the user roles that are allowed to override and edit the locked posts of others."
+msgstr ""
+
+#. First option in new criterion select
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:224
+msgid "Select type"
+msgstr ""
+
+#: trunk/src/sync_taxonomies/recordings_trait.php:84
+msgid "Select which blogs you wish to replay the recording on. The actions will then be executed as best possible on each selected blog. "
+msgstr ""
+
+#. Select widgets to broadcast
+#: trunk/src/widgets/Widgets.php:234
+msgid "Select widgets"
+msgstr ""
+
+#. Input label
+#: trunk/src/learndash/LearnDash.php:109
+msgid "Selection text"
+msgstr ""
+
+#. Fieldset legend
+#: trunk/src/find_some_unlinked_children/Find_Some_Unlinked_Children.php:142
+msgid "Selection tools"
+msgstr ""
+
+#. The name of the bulk action
+#. Send to many button in the popup
+#. Menu item for menu
+#: trunk/src/send_to_many/Send_To_Many.php:118
+#: trunk/src/send_to_many/Send_To_Many.php:168
+#: trunk/src/send_to_many/Send_To_Many.php:195
+msgid "Send To Many"
+msgstr ""
+
+#. Page title for the settings page
+#. Tab name
+#. Name of settings tab
+#. Tab name for add-on settings
+#. Settings tab name
+#. Tab name
+#. Page title for the settings page
+#: trunk/src/wpml/WPML.php:136 trunk/src/queue/Queue.php:426
+#: trunk/src/permalinks/Permalinks.php:136
+#: trunk/src/per_blog_taxonomies/Per_Blog_Taxonomies.php:90
+#: trunk/src/send_to_many/Send_To_Many.php:101
+#: trunk/src/hreflang/Hreflang.php:215
+#: trunk/src/custom_field_attachments/Custom_Field_Attachments.php:85
+#: trunk/src/keep_child_status/Keep_Child_Status.php:84
+#: trunk/src/woocommerce/WooCommerce.php:84
+#: trunk/src/find_some_unlinked_children/Find_Some_Unlinked_Children.php:92
+#: trunk/src/eventon/EventON.php:141
+msgid "Settings"
+msgstr ""
+
+#: trunk/src/wpml/WPML.php:128 trunk/src/queue/Queue.php:394
+#: trunk/src/permalinks/Permalinks.php:115
+#: trunk/src/per_blog_taxonomies/Per_Blog_Taxonomies.php:67
+#: trunk/src/send_to_many/Send_To_Many.php:74
+#: trunk/src/shortcodes/Shortcodes.php:339 trunk/src/yoast_seo/Yoast_SEO.php:53
+#: trunk/src/hreflang/Hreflang.php:300
+#: trunk/src/custom_field_attachments/Custom_Field_Attachments.php:59
+#: trunk/src/keep_child_status/Keep_Child_Status.php:63
+#: trunk/src/sync_taxonomies/recordings_trait.php:66
+#: trunk/src/lock_post/Lock_Post.php:91
+#: trunk/src/find_some_unlinked_children/Find_Some_Unlinked_Children.php:84
+#: trunk/src/eventon/EventON.php:183 trunk/src/polylang/Polylang.php:110
+msgid "Settings saved!"
+msgstr ""
+
+#. Input label: Code to setup the loop
+#: trunk/src/php_code/PHP_Code.php:113
+msgid "Setup code"
+msgstr ""
+
+#. Table heading for shortcode name column
+#: trunk/src/shortcodes/Shortcodes.php:178
+msgid "Shortcode"
+msgstr ""
+
+#. Shortcode NAME has been created
+#: trunk/src/classes/shortcode_items/Shortcode_Items.php:166
+#, php-format
+msgid "Shortcode %s has been created!"
+msgstr ""
+
+#. Menu item for menu
+#: trunk/src/shortcodes/Shortcodes.php:273
+#: trunk/src/classes/shortcode_items/Shortcode_Items.php:202
+msgid "Shortcodes"
+msgstr ""
+
+#. Input title
+#: trunk/src/geodirectory/Geodirectory.php:74
+msgid "Should reviews be synced between parent and children, and if so, in which way?"
+msgstr ""
+
+#. Search input label
+#: trunk/src/find_some_unlinked_children/Find_Some_Unlinked_Children.php:146
+msgid "Show only blog names containing..."
+msgstr ""
+
+#: trunk/src/shortcodes/Shortcodes.php:77
+msgid "Show shortcodes"
+msgstr ""
+
+#: trunk/src/php_code/PHP_Code.php:51
+msgid "Show the current language of the blog"
+msgstr ""
+
+#: trunk/src/php_code/PHP_Code.php:61
+msgid "Show the current theme of the blog"
+msgstr ""
+
+#. Tab name
+#. Fieldset label.
+#: trunk/src/widgets/Widgets.php:32 trunk/src/widgets/Widgets.php:112
+msgid "Sidebars"
+msgstr ""
+
+#: trunk/src/attachment_control/Attachment_Control.php:74
+msgid "Skip all attachments"
+msgstr ""
+
+#: trunk/src/attachment_control/Attachment_Control.php:75
+msgid "Skip all except featured image"
+msgstr ""
+
+#. What to do if the Toolset field group does not exist.
+#. What to do if the Toolset field group already exists
+#: trunk/src/toolset/Toolset.php:476 trunk/src/toolset/Toolset.php:485
+#: trunk/src/classes/broadcast_generic_option_ui_trait.php:69
+#: trunk/src/classes/broadcast_generic_option_ui_trait.php:79
+#: trunk/src/classes/broadcast_generic_post_ui_trait.php:74
+#: trunk/src/classes/broadcast_generic_post_ui_trait.php:84
+#: trunk/src/classes/broadcast_things_ui_trait.php:63
+#: trunk/src/classes/broadcast_things_ui_trait.php:73
+msgid "Skip this blog"
+msgstr ""
+
+#: trunk/src/custom_field_attachments/Custom_Field_Attachments.php:72
+msgid "Some examples:"
+msgstr ""
+
+#: trunk/src/custom_field_attachments/Custom_Field_Attachments.php:62
+msgid "Some post custom fields can contain attachment IDs that normally aren't updated when broadcasting to child blogs."
+msgstr ""
+
+#: trunk/src/new_blog_broadcast/New_Blog_Broadcast.php:166
+#: trunk/src/new_blog_broadcast/New_Blog_Broadcast.php:171
+msgid "Source blogs"
+msgstr ""
+
+#. Set the desc separately due to the escaped link.
+#: trunk/src/user_blog_settings/criteria/custom_fields.php:36
+#, php-format
+msgid "Specify one custom field name and value pair per line. For examples, please see %sthe UBS documentation page%s."
+msgstr ""
+
+#. Bulk action
+#: trunk/src/sync_taxonomies/recordings_trait.php:159
+msgid "Start recording"
+msgstr ""
+
+#. Button
+#: trunk/src/learndash/LearnDash.php:139
+msgid "Start search and replace"
+msgstr ""
+
+#. Fieldset label
+#: trunk/src/media_cleanup/Media_Cleanup.php:183
+msgid "Start!"
+msgstr ""
+
+#. Queue table column name
+#. S&R table column name
+#. Protect child property:
+#. Tab name
+#: trunk/src/queue/Queue.php:155
+#: trunk/src/search_and_replace/Search_And_Replace.php:150
+#: trunk/src/protect_child_properties/item.php:97
+#: trunk/src/widgets/Widgets.php:53
+msgid "Status"
+msgstr ""
+
+#. Fieldset label for WooCommerce stock.
+#: trunk/src/woocommerce/WooCommerce.php:130
+msgid "Stock"
+msgstr ""
+
+#. Bulk action
+#: trunk/src/sync_taxonomies/recordings_trait.php:161
+msgid "Stop recording"
+msgstr ""
+
+#. Tab name
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:510
+msgid "Summary view"
+msgstr ""
+
+#: trunk/src/sync_taxonomies/recordings_trait.php:86
+msgid "Switch on Broadcast debug mode for more information."
+msgstr ""
+
+#: trunk/src/php_code/PHP_Code.php:68
+msgid "Switch the blog's theme"
+msgstr ""
+
+#: trunk/src/sync_taxonomies/Sync_Taxonomies.php:153
+msgid "Sync"
+msgstr ""
+
+#: trunk/src/eventon/EventON.php:167
+msgid "Sync RSVP"
+msgstr ""
+
+#: trunk/src/eventon/EventON.php:166
+msgid "Sync RSVP attendees. If the event is broadcasted, the attendees will be broadcasted with the same parent blog as the event."
+msgstr ""
+
+#. Menu item for menu
+#: trunk/src/sync_taxonomies/Sync_Taxonomies.php:176
+msgid "Sync Taxonomies"
+msgstr ""
+
+#. Input label
+#: trunk/src/comments/Comments.php:271
+msgid "Sync comments to children now"
+msgstr ""
+
+#. Input label
+#: trunk/src/geodirectory/Geodirectory.php:64
+msgid "Sync favorites"
+msgstr ""
+
+#: trunk/src/user_role_sync/User_Role_Sync.php:104
+msgid "Sync only these users. This will not work together with the user exclusion select."
+msgstr ""
+
+#: trunk/src/user_role_sync/User_Role_Sync.php:81
+msgid "Sync only users with the selected roles to the target blogs."
+msgstr ""
+
+#. Input label
+#: trunk/src/geodirectory/Geodirectory.php:76
+msgid "Sync reviews"
+msgstr ""
+
+#. Input label
+#: trunk/src/woocommerce/WooCommerce.php:137
+msgid "Sync stock"
+msgstr ""
+
+#. Input title
+#: trunk/src/comments/Comments.php:273
+msgid "Sync the comments to the children now"
+msgstr ""
+
+#. Input title
+#: trunk/src/geodirectory/Geodirectory.php:62
+msgid "Sync the users' favorites between broadcasted places."
+msgstr ""
+
+#: trunk/src/eventon/EventON.php:162
+msgid "Sync ticket orders"
+msgstr ""
+
+#. Button to start copying the settings between blogs
+#: trunk/src/user_role_sync/User_Role_Sync.php:119
+msgid "Sync user roles"
+msgstr ""
+
+#. Button
+#: trunk/src/sync_taxonomies/Sync_Taxonomies.php:86
+msgid "Synchronize selected taxonomies"
+msgstr ""
+
+#. Input title
+#: trunk/src/woocommerce/WooCommerce.php:135
+msgid "Synchronize the stock count between linked products."
+msgstr ""
+
+#. Legend for blog syncing fieldset
+#. Input label
+#: trunk/src/user_role_sync/User_Role_Sync.php:62
+#: trunk/src/new_blog_broadcast/New_Blog_Broadcast.php:337
+msgid "Target blogs"
+msgstr ""
+
+#. Tab name
+#. Input label
+#. Fieldset label
+#: trunk/src/per_blog_taxonomies/Per_Blog_Taxonomies.php:43
+#: trunk/src/per_blog_taxonomies/Per_Blog_Taxonomies.php:97
+#: trunk/src/toolset/Toolset.php:184
+#: trunk/src/sync_taxonomies/Sync_Taxonomies.php:37
+#: trunk/src/new_blog_broadcast/New_Blog_Broadcast.php:206
+msgid "Taxonomies"
+msgstr ""
+
+#: trunk/src/per_blog_taxonomies/Per_Blog_Taxonomies.php:135
+#, php-format
+msgid "Taxonomies available for the %s post type"
+msgstr ""
+
+#. Input label
+#: trunk/src/per_blog_taxonomies/Per_Blog_Taxonomies.php:51
+msgid "Taxonomies to select"
+msgstr ""
+
+#: trunk/src/new_blog_broadcast/Broadcast.php:84
+#, php-format
+msgid "Taxonomies: &emsp; %s"
+msgstr ""
+
+#. Recording name input label
+#. Table column heading
+#: trunk/src/sync_taxonomies/recordings_trait.php:35
+#: trunk/src/sync_taxonomies/recordings_trait.php:168
+msgid "Taxonomy"
+msgstr ""
+
+#. Input label: Code that is run after the loop
+#: trunk/src/php_code/PHP_Code.php:129
+msgid "Teardown code"
+msgstr ""
+
+#: trunk/src/search_and_replace/Term.php:13
+#, php-format
+msgid "Term created %s"
+msgstr ""
+
+#. View recording table header
+#: trunk/src/sync_taxonomies/recordings_trait.php:313
+msgid "Term name and slug"
+msgstr ""
+
+#. Test a broadcast, bulk action.
+#: trunk/src/new_blog_broadcast/New_Blog_Broadcast.php:47
+msgid "Test"
+msgstr ""
+
+#. NBB test complete
+#: trunk/src/new_blog_broadcast/New_Blog_Broadcast.php:87
+msgid "Test complete."
+msgstr ""
+
+#. Fieldset label
+#. Input label
+#: trunk/src/learndash/LearnDash.php:71 trunk/src/learndash/LearnDash.php:77
+msgid "Text to replace"
+msgstr ""
+
+#: trunk/src/queue/Queue.php:325
+msgid "The Broadcast Queue add-on puts broadcasts of new and updated posts into a queue, which is processed via cron, Javascript either in the post edit window, the post list table or this page."
+msgstr ""
+
+#: trunk/src/user_role_sync/User_Role_Sync.php:48
+msgid "The User Role Sync tool cannot be run from the network admin. Please switch to a blog that will be used as the source blog."
+msgstr ""
+
+#: trunk/src/menus/Menus.php:354
+msgid "The author suggests using the update method if you want to keep the positioned menus in their places on the theme."
+msgstr ""
+
+#. After saving blog group during editing.
+#: trunk/src/blog_groups/Blog_Groups_2.php:251
+msgid "The blog group has been saved!"
+msgstr ""
+
+#: trunk/src/menus/Menus.php:284
+msgid "The blogs to which you wish to copy the selected menu(s)."
+msgstr ""
+
+#: trunk/src/new_blog_broadcast/New_Blog_Broadcast.php:363
+msgid "The broadcast has been manually run!"
+msgstr ""
+
+#. The NBB settings have been updated
+#: trunk/src/new_blog_broadcast/New_Blog_Broadcast.php:285
+msgid "The broadcast has been updated!"
+msgstr ""
+
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:757
+msgid "The broadcast meta box is not shown to the user. But if it were visible, it would look like this:"
+msgstr ""
+
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:759
+msgid "The broadcast meta box is visible and looks like this:"
+msgstr ""
+
+#: trunk/src/per_blog_taxonomies/Per_Blog_Taxonomies.php:123
+msgid "The checked taxonomies have been added to the settings."
+msgstr ""
+
+#. Input description for shortcode content.
+#: trunk/src/shortcodes/Shortcodes.php:318
+msgid "The content the shortcode is replaced by. This can contain other shortcodes."
+msgstr ""
+
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:322
+msgid "The criteria have been updated."
+msgstr ""
+
+#: trunk/src/custom_field_attachments/Custom_Field_Attachments.php:191
+msgid "The custom fields in bold should specify attachment IDs:"
+msgstr ""
+
+#: trunk/src/new_blog_broadcast/New_Blog_Broadcast.php:202
+#, php-format
+msgid "The custom post types registered on <em>this</em> blog are: <code>%s</code>"
+msgstr ""
+
+#: trunk/src/sync_taxonomies/recordings_trait.php:303
+msgid "The following actions will be executed on the blogs on which you replay the recording."
+msgstr ""
+
+#. specified on the hreflang wiki page
+#: trunk/src/hreflang/Hreflang.php:252
+#, php-format
+msgid "The inputs below allow you to set the language setting of each of the blogs you as super admin have access to. Use the language and region codes as specified on the %s%s%s."
+msgstr ""
+
+#. Fieldset title
+#: trunk/src/protect_child_properties/item.php:18
+msgid "The list of child properties that can be protected when broadcasting."
+msgstr ""
+
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:174
+msgid "The modification settings have been saved."
+msgstr ""
+
+#. Input title
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:645
+msgid "The name of the modification that only the super admin sees."
+msgstr ""
+
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:293
+msgid "The new criterion has been created!"
+msgstr ""
+
+#: trunk/src/queue/Queue.php:328
+msgid "The processing is done automatically in the background as long as either of the pages are being viewed by the user or yourself."
+msgstr ""
+
+#. Input title
+#: trunk/src/keep_child_status/Keep_Child_Status.php:47
+msgid "The role necessary to keep the child status."
+msgstr ""
+
+#. Message after cloning blog groups
+#: trunk/src/blog_groups/Blog_Groups_2.php:316
+msgid "The selected blog groups have been cloned."
+msgstr ""
+
+#. Message after deleting blog groups
+#: trunk/src/blog_groups/Blog_Groups_2.php:325
+msgid "The selected blog groups have been deleted."
+msgstr ""
+
+#: trunk/src/new_blog_broadcast/New_Blog_Broadcast.php:66
+msgid "The selected broadcasts have been deleted!"
+msgstr ""
+
+#: trunk/src/php_code/PHP_Code.php:232
+msgid "The selected code has been added to the code editor."
+msgstr ""
+
+#: trunk/src/toolset/Toolset.php:575
+#: trunk/src/classes/broadcast_generic_option_ui_trait.php:137
+#: trunk/src/classes/broadcast_generic_post_ui_trait.php:182
+#: trunk/src/classes/broadcast_things_ui_trait.php:135
+msgid "The selected items have been copied to the selected blogs."
+msgstr ""
+
+#: trunk/src/media_cleanup/Media_Cleanup.php:74
+msgid "The selected media files were deleted from the database and from disk!"
+msgstr ""
+
+#: trunk/src/menus/Menus.php:124
+msgid "The selected menu item, which should be a broadcasted post, will be inserted into the selected menu of each child blog."
+msgstr ""
+
+#: trunk/src/sync_taxonomies/recordings_trait.php:187
+msgid "The selected recordings have been cloned."
+msgstr ""
+
+#: trunk/src/sync_taxonomies/recordings_trait.php:192
+msgid "The selected recordings have been deleted."
+msgstr ""
+
+#: trunk/src/sync_taxonomies/recordings_trait.php:200
+msgid "The selected recordings have been emptied."
+msgstr ""
+
+#: trunk/src/sync_taxonomies/recordings_trait.php:208
+msgid "The selected recordings have been started."
+msgstr ""
+
+#: trunk/src/sync_taxonomies/recordings_trait.php:216
+msgid "The selected recordings have been stopped."
+msgstr ""
+
+#: trunk/src/queue/Queue.php:187
+msgid "The selected rows were deleted! Please reload this page to see the current queue."
+msgstr ""
+
+#: trunk/src/queue/Queue.php:225
+msgid "The selected rows were processed! Please click on the queue tab to reload this page and see the current queue."
+msgstr ""
+
+#: trunk/src/classes/shortcode_items/Shortcode_Items.php:153
+msgid "The selected shortcodes have been deleted!"
+msgstr ""
+
+#: trunk/src/shortcodes/Shortcodes.php:224
+msgid "The selected shortcodes have been deleted."
+msgstr ""
+
+#: trunk/src/sync_taxonomies/Sync_Taxonomies.php:132
+msgid "The selected taxonomies will be copied to the selected target blogs. If the taxonomies exist they will be updated if the name, description or parent differs."
+msgstr ""
+
+#: trunk/src/search_and_replace/Search_And_Replace.php:172
+msgid "The selected terms have been deleted."
+msgstr ""
+
+#: trunk/src/widgets/Widgets.php:168 trunk/src/widgets/Widgets.php:290
+msgid "The selected widgets have been broadcasted to the selected blogs."
+msgstr ""
+
+#: trunk/src/search_and_replace/Search_And_Replace.php:121
+msgid "The settings for this term have been saved!"
+msgstr ""
+
+#: trunk/src/classes/copy_options_trait.php:175
+msgid "The settings have been copied to the selected blog(s)."
+msgstr ""
+
+#: trunk/src/classes/copy_options_trait.php:143
+msgid "The settings on the child blog will be overwritten."
+msgstr ""
+
+#: trunk/src/classes/shortcode_items/Shortcode_Items.php:79
+msgid "The shortcode has been updated!"
+msgstr ""
+
+#. Input description for shortcode name.
+#: trunk/src/shortcodes/Shortcodes.php:310
+msgid "The shortcode name / key. Please use only alphanumeric characters."
+msgstr ""
+
+#: trunk/src/blog_groups/Blog_Groups_2.php:167
+msgid "The table below displays and blog groups you have created. These blog groups are separate from the blog groups used in the free Blog Groups plugin. You can import the free groups using the import tab."
+msgstr ""
+
+#: trunk/src/new_blog_broadcast/New_Blog_Broadcast.php:34
+msgid "The table below shows the New Blog Broadcast settings. Use the Test bulk action to view what will be copied when a new blog is created. To disable automatic broadcasting, disable all of the new blog broadcasts and use only the manual broadcast tab."
+msgstr ""
+
+#: trunk/src/user_blog_settings/trait_summarize.php:32
+msgid "The tabs below show a combined view of all of the settings modified by all of the modifications."
+msgstr ""
+
+#. Recording name input description
+#: trunk/src/sync_taxonomies/recordings_trait.php:33
+msgid "The taxonomy to record."
+msgstr ""
+
+#: trunk/src/thumbnail_sizes/Thumbnail_Sizes.php:101
+msgid "The thumbnail sizes have been saved!"
+msgstr ""
+
+#: trunk/src/activity_monitor/Activity_Monitor.php:169
+msgid "The time savings table from Broadcast."
+msgstr ""
+
+#. Input description for S2M role.
+#: trunk/src/send_to_many/Send_To_Many.php:57
+msgid "The user role required to use the Send To Many button."
+msgstr ""
+
+#: trunk/src/user_role_sync/User_Role_Sync.php:134
+msgid "The users and their roles have been copied to the selected blog(s)."
+msgstr ""
+
+#. The name of the PHP code wizard group.
+#: trunk/src/php_code/PHP_Code.php:56
+msgid "Themes"
+msgstr ""
+
+#: trunk/src/classes/copy_options_trait.php:180
+#, php-format
+msgid "There was a problem copying the settings: %s"
+msgstr ""
+
+#: trunk/src/user_role_sync/User_Role_Sync.php:139
+#, php-format
+msgid "There was a problem copying the users: %s"
+msgstr ""
+
+#: trunk/src/thumbnail_sizes/Thumbnail_Sizes.php:35
+msgid "These settings specify which extra thumbnail sizes to generate on a per-blog basis. The text area below is to be filled in with a list of size names, blog IDs and their respective thumbnail sizes. Use an asterisk to mean all blogs."
+msgstr ""
+
+#: trunk/src/search_and_replace/Search_And_Replace.php:209
+msgid "This add-on replaces text strings in post content during broadcasting."
+msgstr ""
+
+#: trunk/src/find_some_unlinked_children/Find_Some_Unlinked_Children.php:236
+msgid "This bulk action will only work on the first selected post."
+msgstr ""
+
+#. Input description
+#: trunk/src/php_code/PHP_Code.php:119
+msgid "This code is run on all selected blogs."
+msgstr ""
+
+#. Input description
+#: trunk/src/php_code/PHP_Code.php:127
+msgid "This code that is run after the loop."
+msgstr ""
+
+#. Input description
+#: trunk/src/php_code/PHP_Code.php:111
+msgid "This code that is run prior to beginning the loop."
+msgstr ""
+
+#: trunk/src/user_blog_settings/criteria/custom_fields.php:26
+#: trunk/src/user_blog_settings/criteria/taxonomy_terms.php:16
+msgid "This criterion applies only during broadcasting of posts."
+msgstr ""
+
+#: trunk/src/widgets/Widgets.php:191
+msgid "This is how your sidebars and widgets are stored on this blog:"
+msgstr ""
+
+#. Input description
+#: trunk/src/learndash/LearnDash.php:92
+msgid "This is the text that will replace the above text wherever it is found"
+msgstr ""
+
+#. Input description
+#: trunk/src/learndash/LearnDash.php:75
+msgid "This is the text you want replaced in the questions table"
+msgstr ""
+
+#: trunk/src/per_blog_taxonomies/Per_Blog_Taxonomies.php:109
+msgid "This page shows all of the post types registered on <em>this</em> blog that have taxonomies. Use the form below to add the checked taxonomies to the settings, instead of writing them manually."
+msgstr ""
+
+#: trunk/src/custom_field_attachments/Custom_Field_Attachments.php:187
+msgid "This post has no custom fields."
+msgstr ""
+
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:387
+msgid "This table lists all the available modifications and a short summary of which settings are altered."
+msgstr ""
+
+#: trunk/src/new_blog_broadcast/New_Blog_Broadcast.php:210
+msgid "This text area shows the taxonomies, if any, that the posts must have in order to be broadcasted. The format is: post type,taxonomy,term slug."
+msgstr ""
+
+#. Input description
+#: trunk/src/learndash/LearnDash.php:107
+msgid "This text, if specified, must exist somewhere in the question data for the question to be processed."
+msgstr ""
+
+#. All of the PLUGINNAME settings
+#: trunk/src/classes/copy_options_trait.php:139
+#, php-format
+msgid "This tool will copy all of the %s settings from this blog to one or more others."
+msgstr ""
+
+#: trunk/src/user_role_sync/User_Role_Sync.php:57
+msgid "This tool will sync the users and their roles between blogs. The current blog will be the source."
+msgstr ""
+
+#: trunk/src/wpml/WPML.php:396
+#, php-format
+msgid "This translation will be broadcast to: %s"
+msgstr ""
+
+#: trunk/src/wpml/WPML.php:399
+msgid "This translation will not be broadcasted: the original language post was not broadcasted."
+msgstr ""
+
+#. Menu item for menu
+#: trunk/src/thumbnail_sizes/Thumbnail_Sizes.php:53
+#: trunk/src/thumbnail_sizes/Thumbnail_Sizes.php:118
+#: trunk/src/thumbnail_sizes/Thumbnail_Sizes.php:160
+msgid "Thumbnail sizes"
+msgstr ""
+
+#. Fieldset label.
+#: trunk/src/eventon/EventON.php:157
+msgid "Tickets"
+msgstr ""
+
+#. Queue table column name
+#: trunk/src/queue/Queue.php:153
+msgid "To"
+msgstr ""
+
+#. Input title
+#: trunk/src/hreflang/Hreflang.php:234
+msgid "To generate an x-default language link, select the blog that will be used."
+msgstr ""
+
+#: trunk/src/custom_field_attachments/Custom_Field_Attachments.php:66
+msgid "To see the names of the custom fields, enable Broadcast debug mode and look at the Broadcast meta box in the post editor of an existing post."
+msgstr ""
+
+#: trunk/src/toolset/Toolset.php:55
+msgid "Toolset - find all unlinked Toolset forms"
+msgstr ""
+
+#. Input label. Options for broadcasting menus.
+#: trunk/src/menus/Menus.php:297
+msgid "Translate post IDs"
+msgstr ""
+
+#. Input label. Options for broadcasting menus.
+#: trunk/src/menus/Menus.php:304
+msgid "Translate taxonomies"
+msgstr ""
+
+#. Input title
+#: trunk/src/delete_before_broadcast/Delete_Before_Broadcast.php:166
+msgid "Unlink all child posts before broadcasting"
+msgstr ""
+
+#. Input label
+#: trunk/src/delete_before_broadcast/Delete_Before_Broadcast.php:164
+msgid "Unlink child posts"
+msgstr ""
+
+#. Fieldset legend of list of unlinked posts found
+#: trunk/src/find_some_unlinked_children/Find_Some_Unlinked_Children.php:165
+msgid "Unlinked posts"
+msgstr ""
+
+#. Save the broadcast settings button.
+#: trunk/src/new_blog_broadcast/New_Blog_Broadcast.php:247
+msgid "Update broadcast"
+msgstr ""
+
+#. Button
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:279
+msgid "Update criteria"
+msgstr ""
+
+#. Input title
+#: trunk/src/local_links/item.php:23
+msgid "Update each link to local, broadcasted posts in each child post."
+msgstr ""
+
+#. Primary button for saving blog group
+#: trunk/src/blog_groups/Blog_Groups_2.php:228
+msgid "Update group"
+msgstr ""
+
+#. Label for meta box item
+#: trunk/src/local_files/item.php:21
+msgid "Update local files"
+msgstr ""
+
+#. Input label
+#: trunk/src/local_links/item.php:21
+msgid "Update local links"
+msgstr ""
+
+#. Input label in meta box
+#: trunk/src/back_to_parent/Back_To_Parent.php:241
+msgid "Update parent post"
+msgstr ""
+
+#. What to do with existing attachments
+#: trunk/src/update_attachments/Update_Attachments.php:94
+msgid "Update the files with the contents from the parent blog."
+msgstr ""
+
+#. Input description in meta box
+#: trunk/src/back_to_parent/Back_To_Parent.php:244
+msgid "Update the linked parent post with this new content"
+msgstr ""
+
+#: trunk/src/widgets/Widgets.php:252
+msgid "Update widget content"
+msgstr ""
+
+#. Menu copying options
+#: trunk/src/menus/Menus.php:329
+msgid "Update: Same as overwrite, except no new menus are created."
+msgstr ""
+
+#. Input label: Role needed to use keep child status
+#: trunk/src/keep_child_status/Keep_Child_Status.php:49
+msgid "Use Keep Child Status"
+msgstr ""
+
+#. Parent permalink: use default
+#. Child permalink: xxx
+#: trunk/src/permalinks/Permalinks.php:211
+#: trunk/src/permalinks/Permalinks.php:251
+msgid "Use default"
+msgstr ""
+
+#. Parent permalink: Use first child's permalink
+#: trunk/src/permalinks/Permalinks.php:215
+msgid "Use first child's"
+msgstr ""
+
+#. Child permalink: xxx
+#: trunk/src/permalinks/Permalinks.php:255
+msgid "Use parent's permalink"
+msgstr ""
+
+#: trunk/src/classes/broadcast_generic_post_ui_trait.php:97
+#, php-format
+msgid "Use the PHP Code add-on to run a \"find unlinked children\" bulk post action on the child blog(s) before broadcasting, hopefully linking any existing %s beforehand, preventing dupes."
+msgstr ""
+
+#. What to do with a select input in the meta box
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:1206
+msgid "Use the value below"
+msgstr ""
+
+#. What to do with a select input in the meta box
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:1210
+msgid "Use the value below and hide the input"
+msgstr ""
+
+#: trunk/src/new_blog_broadcast/New_Blog_Broadcast.php:317
+msgid "Use this form to manually trigger a broadcast, which you can use to mimic a new blog being created. Select the broadcasts you want to run and then the target blogs."
+msgstr ""
+
+#. Input title for quick blog selection input
+#: trunk/src/blog_groups/Blog_Groups_2.php:655
+msgid "Use this input to quickly select and unselect blogs."
+msgstr ""
+
+#: trunk/src/search_and_replace/Search_And_Replace.php:42
+msgid "Use this term to search and replace texts in the post content?"
+msgstr ""
+
+#. Queue table column name
+#: trunk/src/queue/Queue.php:149
+msgid "User"
+msgstr ""
+
+#: trunk/src/user_blog_settings/db/criterion.php:45
+#, php-format
+msgid "User %s does no longer exist."
+msgstr ""
+
+#. Menu item for menu
+#: trunk/src/user_blog_settings/User_Blog_Settings.php:598
+msgid "User & Blog Settings"
+msgstr ""
+
+#. Tab name
+#: trunk/src/toolset/Toolset.php:201
+msgid "User Forms"
+msgstr ""
+
+#. Legend for user syncing fieldset
+#: trunk/src/user_role_sync/User_Role_Sync.php:96
+msgid "User selection"
+msgstr ""
+
+#. Input label
+#: trunk/src/woocommerce/WooCommerce.php:112
+msgid "Variations per queue"
+msgstr ""
+
+#. Row action: View the recording
+#: trunk/src/sync_taxonomies/recordings_trait.php:257
+msgid "View"
+msgstr ""
+
+#: trunk/src/sync_taxonomies/recordings_trait.php:458
+msgid "View recording"
+msgstr ""
+
+#. Row action title
+#: trunk/src/sync_taxonomies/recordings_trait.php:255
+msgid "View the recording"
+msgstr ""
+
+#: trunk/src/sync_taxonomies/recordings_trait.php:457
+#, php-format
+msgid "Viewing recording %s"
+msgstr ""
+
+#. Tab name
+#: trunk/src/toolset/Toolset.php:160
+msgid "Views"
+msgstr ""
+
+#: trunk/src/menus/Menus.php:135
+msgid "What do we do with the selected menu item on each blog?"
+msgstr ""
+
+#. if the ITEM
+#: trunk/src/classes/broadcast_generic_option_ui_trait.php:75
+#: trunk/src/classes/broadcast_generic_post_ui_trait.php:80
+#: trunk/src/classes/broadcast_things_ui_trait.php:69
+#, php-format
+msgid "What to do if the %s already exists on the target blog."
+msgstr ""
+
+#: trunk/src/classes/broadcast_generic_option_ui_trait.php:64
+#: trunk/src/classes/broadcast_generic_post_ui_trait.php:69
+#: trunk/src/classes/broadcast_things_ui_trait.php:58
+#, php-format
+msgid "What to do if the %s does not exist on the target blog."
+msgstr ""
+
+#. Input title
+#: trunk/src/toolset/Toolset.php:469
+msgid "What to do if the field group does not exist on the target blog."
+msgstr ""
+
+#. Input description
+#: trunk/src/polylang/Polylang.php:90
+msgid "What to do when the child blog does not have the post's language."
+msgstr ""
+
+#. Input title
+#: trunk/src/yoast_seo/Yoast_SEO.php:37
+msgid "When broadcasting, keep the existing taxonomy canonical URL on the child blog and prevent it from being overwritten with the value from the parent blog."
+msgstr ""
+
+#. Input title
+#: trunk/src/woocommerce/WooCommerce.php:110
+msgid "When using the queue add-on, how many variations to broadcast at a time during each queue process opportunity. Use the debug log to see how many variations can be broadcasted before encountering a PHP timeout. This depends on the amount of images and extra WooCommerce features involved. Try 5 to start off with. 0 to disable."
+msgstr ""
+
+#: trunk/src/learndash/LearnDash.php:113
+msgid "Which database columns should contain the above text."
+msgstr ""
+
+#. Input title
+#: trunk/src/per_blog_taxonomies/Per_Blog_Taxonomies.php:49
+msgid "Which taxonomies is the user allowed to select?"
+msgstr ""
+
+#. Tab name
+#. Menu item name
+#. Fieldset label.
+#: trunk/src/widgets/Widgets.php:39 trunk/src/widgets/Widgets.php:70
+#: trunk/src/widgets/Widgets.php:72 trunk/src/widgets/Widgets.php:228
+msgid "Widgets"
+msgstr ""
+
+#. PHP generator wizard fieldset label.
+#: trunk/src/thumbnail_sizes/Thumbnail_Sizes.php:61
+#: trunk/src/php_code/PHP_Code.php:169
+msgid "Wizard"
+msgstr ""
+
+#. Page heading
+#: trunk/src/yoast_seo/Yoast_SEO.php:62
+msgid "Yoast SEO settings"
+msgstr ""
+
+#: trunk/src/thumbnail_sizes/Thumbnail_Sizes.php:49
+msgid "You can use the wizard below the form to help you fill in the textarea."
+msgstr ""
+
+#: trunk/src/new_blog_broadcast/New_Blog_Broadcast.php:294
+#: trunk/src/classes/shortcode_items/Shortcode_Items.php:83
+#, php-format
+msgid "You have errors in your settings: %s"
+msgstr ""
+
+#: trunk/src/user_blog_settings_post/User_Blog_Settings_Post.php:59
+msgid "You need to select at least one non-child post to be sent."
+msgstr ""
+
+#. Success message after blog group import
+#: trunk/src/blog_groups/Blog_Groups_2.php:471
+msgid "Your blog groups from the free plugin have been imported!"
+msgstr ""
+
+#: trunk/src/php_code/PHP_Code.php:209
+msgid "Your code has been run!"
+msgstr ""
+
+#: trunk/src/blog_groups/Blog_Groups_2.php:505
+msgid "Your groups"
+msgstr ""
+
+#. Queue items
+#: trunk/src/queue/Queue.php:729
+#, php-format
+msgid "Zero of %s items are ready."
+msgstr ""
+
+#. occurring in UBS blog group criterion
+#: trunk/src/blog_groups/ubs_criteria/blog_group.php:66
+#, php-format
+msgid "blogs not occurring in: %s"
+msgstr ""
+
+#. occurring in UBS blog group criterion
+#: trunk/src/blog_groups/ubs_criteria/blog_group.php:69
+#, php-format
+msgid "blogs occurring in: %s"
+msgstr ""
+
+#: trunk/src/hreflang/Hreflang.php:254
+msgid "hreflang Wikipedia page"
+msgstr ""
+
+#: trunk/src/user_blog_settings/criteria/custom_fields.php:52
+msgid "no fields"
+msgstr ""
+
+#. Category is: set automatically
+#: trunk/src/per_blog_taxonomies/Per_Blog_Taxonomies.php:335
+msgid "set automatically"
+msgstr ""
+
+#. Category is: set manually
+#: trunk/src/per_blog_taxonomies/Per_Blog_Taxonomies.php:337
+msgid "set manually"
+msgstr ""
+
+#. I would like to + use another menu
+#: trunk/src/menus/Menus.php:114
+msgid "use another menu"
+msgstr ""

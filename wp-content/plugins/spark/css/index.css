@@ -1,0 +1,16 @@
+.spark-pages-avatar {
+  float: left;
+  margin-right: 15px;
+  height: 80px;
+  width: 80px;
+}
+.spark-pages-title {
+  font-size: 16px;
+}
+.spark-pages-title .row-actions {
+  margin-top: 5px;
+  position: static;
+}
+.column-status {
+  padding: 37px 9px;
+}

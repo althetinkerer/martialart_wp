@@ -1,0 +1,11 @@
+{
+	"autoload":
+	{
+		"psr-4": {
+			"threewp_broadcast\\premium_pack\\": "src"
+		}
+	},
+	"require": {
+		"phpoffice/phpexcel": "^1.8"
+	}
+}
